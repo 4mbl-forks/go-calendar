@@ -46,7 +46,9 @@ jobs:
         run: git checkout -- composer.json
 
       - name: Commit any changes back to the repo
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "[GitHub Actions Bot: Publish iCal's Update]"
-          commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          git commit -m "[GitHub Actions Bot: Generate Calendars]"
+          git push
