@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:shadow-entei-in-shadow-raids-max-out
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Shadow Entei in Shadow Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Shadow Entei in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-entei-in-shadow-raids-max-out/
 URL:https://leekduck.com/events/shadow-entei-in-shadow-raids-max-out/
@@ -22,14 +22,14 @@ DTSTART;VALUE=DATE:20241005
 DTEND;VALUE=DATE:20241027
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Entei in Shadow Raids
+DESCRIPTION:Shadow Entei in Shadow Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:origin-forme-giratina-in-5-star-raid-battles-october-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Origin Forme Giratina in 5-star Raid Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Origin Forme Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /origin-forme-giratina-in-5-star-raid-battles-october-2024/
 URL:https://leekduck.com/events/origin-forme-giratina-in-5-star-raid-battle
@@ -40,14 +40,14 @@ DTSTART;VALUE=DATE:20241014
 DTEND;VALUE=DATE:20241028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Origin Forme Giratina in 5-star Raid Battles
+DESCRIPTION:Origin Forme Giratina in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Mega Sableye in Mega Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Mega Sableye in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sableye-in-mega-raids-october-2024/
 URL:https://leekduck.com/events/mega-sableye-in-mega-raids-october-2024/
@@ -56,14 +56,14 @@ DTSTART;VALUE=DATE:20241014
 DTEND;VALUE=DATE:20241028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Sableye in Mega Raids
+DESCRIPTION:Mega Sableye in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-october-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Darkrai in 5-star Raid Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-october-2024/
 URL:https://leekduck.com/events/darkrai-in-5-star-raid-battles-october-2024
@@ -73,14 +73,14 @@ DTSTART;VALUE=DATE:20241028
 DTEND;VALUE=DATE:20241104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Darkrai in 5-star Raid Battles
+DESCRIPTION:Darkrai in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-october-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Mega Banette in Mega Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-october-2024/
 URL:https://leekduck.com/events/mega-banette-in-mega-raids-october-2024/
@@ -89,14 +89,14 @@ DTSTART;VALUE=DATE:20241028
 DTEND;VALUE=DATE:20241104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Banette in Mega Raids
+DESCRIPTION:Mega Banette in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-manectric-in-mega-raids-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Mega Manectric in Mega Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Mega Manectric in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-manectric-in-mega-raids-november-2024/
 URL:https://leekduck.com/events/mega-manectric-in-mega-raids-november-2024/
@@ -105,14 +105,14 @@ DTSTART;VALUE=DATE:20241104
 DTEND;VALUE=DATE:20241111
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Manectric in Mega Raids
+DESCRIPTION:Mega Manectric in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Lugia in 5-star Raid Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /lugia-in-5-star-raid-battles-november-2024/
 URL:https://leekduck.com/events/lugia-in-5-star-raid-battles-november-2024/
@@ -121,14 +121,14 @@ DTSTART;VALUE=DATE:20241104
 DTEND;VALUE=DATE:20241118
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Lugia in 5-star Raid Battles
+DESCRIPTION:Lugia in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Mega Salamence in Mega Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-november-2024/
 URL:https://leekduck.com/events/mega-salamence-in-mega-raids-november-2024/
@@ -137,16 +137,15 @@ DTSTART;VALUE=DATE:20241111
 DTEND;VALUE=DATE:20241118
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Salamence in Mega Raids
+DESCRIPTION:Mega Salamence in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:origin-forme-dialga-origin-forme-palkia-in-5-star-raid-battles-november
  -2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Origin Forme Dialga and Origin Forme Palkida in 5-star Raid Ba
- ttles
+DTSTAMP:20241027T183555Z
+SUMMARY:Origin Forme Dialga and Origin Forme Palkida in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /origin-forme-dialga-origin-forme-palkia-in-5-star-raid-battles-november-2
  024/
@@ -158,15 +157,15 @@ DTSTART;VALUE=DATE:20241118
 DTEND;VALUE=DATE:20241127
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Origin Forme Dialga and Origin Forme Palkida in 5-star Rai
- d Battles
+DESCRIPTION:Origin Forme Dialga and Origin Forme Palkida in 5-star Raid Bat
+ tles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-ampharos-in-mega-raids-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Mega Ampharos in Mega Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Mega Ampharos in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-ampharos-in-mega-raids-november-2024/
 URL:https://leekduck.com/events/mega-ampharos-in-mega-raids-november-2024/
@@ -175,14 +174,14 @@ DTSTART;VALUE=DATE:20241118
 DTEND;VALUE=DATE:20241127
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Ampharos in Mega Raids
+DESCRIPTION:Mega Ampharos in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-beedrill-in-mega-raids-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Mega Beedrill in Mega Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Mega Beedrill in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-beedrill-in-mega-raids-november-2024/
 URL:https://leekduck.com/events/mega-beedrill-in-mega-raids-november-2024/
@@ -191,14 +190,14 @@ DTSTART;VALUE=DATE:20241118
 DTEND;VALUE=DATE:20241127
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Beedrill in Mega Raids
+DESCRIPTION:Mega Beedrill in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-suicune-in-shadow-raids-max-out
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Shadow Suicune in Shadow Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Shadow Suicune in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-suicune-in-shadow-raids-max-out/
 URL:https://leekduck.com/events/shadow-suicune-in-shadow-raids-max-out/
@@ -208,14 +207,14 @@ DTSTART;VALUE=DATE:20241102
 DTEND;VALUE=DATE:20241130
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Suicune in Shadow Raids
+DESCRIPTION:Shadow Suicune in Shadow Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Regidrago in 5-star Raid Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Regidrago in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regidrago-in-5-star-raid-battles-november-2024/
 URL:https://leekduck.com/events/regidrago-in-5-star-raid-battles-november-2
@@ -225,14 +224,14 @@ DTSTART;VALUE=DATE:20241127
 DTEND;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Regidrago in 5-star Raid Battles
+DESCRIPTION:Regidrago in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regieleki-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Regieleki in 5-star Raid Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Regieleki in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regieleki-in-5-star-raid-battles-november-2024/
 URL:https://leekduck.com/events/regieleki-in-5-star-raid-battles-november-2
@@ -242,14 +241,14 @@ DTSTART;VALUE=DATE:20241127
 DTEND;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Regieleki in 5-star Raid Battles
+DESCRIPTION:Regieleki in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zacian-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Zacian in 5-star Raid Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Zacian in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zacian-in-5-star-raid-battles-november-2024/
 URL:https://leekduck.com/events/zacian-in-5-star-raid-battles-november-2024
@@ -260,14 +259,14 @@ DTSTART;VALUE=DATE:20241127
 DTEND;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Zacian in 5-star Raid Battles
+DESCRIPTION:Zacian in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Zamazenta in 5-star Raid Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Zamazenta in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zamazenta-in-5-star-raid-battles-november-2024/
 URL:https://leekduck.com/events/zamazenta-in-5-star-raid-battles-november-2
@@ -278,14 +277,14 @@ DTSTART;VALUE=DATE:20241127
 DTEND;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Zamazenta in 5-star Raid Battles
+DESCRIPTION:Zamazenta in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-november-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[RB] Mega Altaria in Mega Raids
+DTSTAMP:20241027T183555Z
+SUMMARY:Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-november-2024/
 URL:https://leekduck.com/events/mega-altaria-in-mega-raids-november-2024/
@@ -294,7 +293,7 @@ DTSTART;VALUE=DATE:20241127
 DTEND;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Altaria in Mega Raids
+DESCRIPTION:Mega Altaria in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

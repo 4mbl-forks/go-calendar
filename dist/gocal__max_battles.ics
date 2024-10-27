@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-bigger-gigantamax
-DTSTAMP:20241027T165853Z
-SUMMARY:[MB] Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantamax Bl
- astoise in Max Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantamax Blastoi
+ se in Max Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-bigger-gigantamax/
 URL:https://leekduck.com/events/go-bigger-gigantamax/
@@ -23,15 +23,15 @@ DTSTART;VALUE=DATE:20241026
 DTEND;VALUE=DATE:20241027
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantama
- x Blastoise in Max Battles
+DESCRIPTION:Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantamax Bla
+ stoise in Max Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:october-max-battles-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[MB] October Max Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:October Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /october-max-battles-2024/
 URL:https://leekduck.com/events/october-max-battles-2024/
@@ -41,14 +41,14 @@ DTSTART;VALUE=DATE:20241001
 DTEND;VALUE=DATE:20241031
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] October Max Battles
+DESCRIPTION:October Max Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-gengar-in-max-battles
-DTSTAMP:20241027T165853Z
-SUMMARY:[MB] Gigantamax Gengar in Max Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:Gigantamax Gengar in Max Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gigantamax-gengar-in-max-battles/
 URL:https://leekduck.com/events/gigantamax-gengar-in-max-battles/
@@ -58,14 +58,14 @@ DTSTART;VALUE=DATE:20241031
 DTEND;VALUE=DATE:20241103
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Gigantamax Gengar in Max Battles
+DESCRIPTION:Gigantamax Gengar in Max Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-max-battles-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[MB] November Max Battles
+DTSTAMP:20241027T183555Z
+SUMMARY:November Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /november-max-battles-2024/
 URL:https://leekduck.com/events/november-max-battles-2024/
@@ -75,7 +75,7 @@ DTSTART;VALUE=DATE:20241101
 DTEND;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] November Max Battles
+DESCRIPTION:November Max Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

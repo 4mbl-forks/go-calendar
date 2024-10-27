@@ -11,8 +11,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-1
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] Pokémon GO Halloween 2024 - Part I
+DTSTAMP:20241027T183555Z
+SUMMARY:Pokémon GO Halloween 2024 - Part I
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2024-part-1/
 URL:https://leekduck.com/events/pokemon-go-halloween-2024-part-1/
@@ -22,14 +22,14 @@ DTSTART;VALUE=DATE:20241022
 DTEND;VALUE=DATE:20241028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon GO Halloween 2024 - Part I
+DESCRIPTION:Pokémon GO Halloween 2024 - Part I
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-2
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] Pokémon GO Halloween 2024 - Part II
+DTSTAMP:20241027T183555Z
+SUMMARY:Pokémon GO Halloween 2024 - Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2024-part-2/
 URL:https://leekduck.com/events/pokemon-go-halloween-2024-part-2/
@@ -39,14 +39,14 @@ DTSTART;VALUE=DATE:20241028
 DTEND;VALUE=DATE:20241103
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon GO Halloween 2024 - Part II
+DESCRIPTION:Pokémon GO Halloween 2024 - Part II
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-max-out
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] GO Battle Weekend: Max Out
+DTSTAMP:20241027T183555Z
+SUMMARY:GO Battle Weekend: Max Out
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-max-out/
 URL:https://leekduck.com/events/go-battle-weekend-max-out/
@@ -56,14 +56,14 @@ DTSTART;VALUE=DATE:20241102
 DTEND;VALUE=DATE:20241103
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] GO Battle Weekend: Max Out
+DESCRIPTION:GO Battle Weekend: Max Out
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-de-muertos-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] Día de Muertos 2024 (Latin America)
+DTSTAMP:20241027T183555Z
+SUMMARY:Día de Muertos 2024 (Latin America)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dia-de-muertos-2024/
 URL:https://leekduck.com/events/dia-de-muertos-2024/
@@ -73,14 +73,14 @@ DTSTART;VALUE=DATE:20241101
 DTEND;VALUE=DATE:20241104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Día de Muertos 2024 (Latin America)
+DESCRIPTION:Día de Muertos 2024 (Latin America)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-lights-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] Festival of Lights 2024 (India Only)
+DTSTAMP:20241027T183555Z
+SUMMARY:Festival of Lights 2024 (India Only)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-lights-2024/
 URL:https://leekduck.com/events/festival-of-lights-2024/
@@ -90,14 +90,14 @@ DTSTART;VALUE=DATE:20241101
 DTEND;VALUE=DATE:20241104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Festival of Lights 2024 (India Only)
+DESCRIPTION:Festival of Lights 2024 (India Only)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2024
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] Harvest Festival 2024
+DTSTAMP:20241027T183555Z
+SUMMARY:Harvest Festival 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival-2024/
 URL:https://leekduck.com/events/harvest-festival-2024/
@@ -106,14 +106,14 @@ DTSTART;VALUE=DATE:20241107
 DTEND;VALUE=DATE:20241112
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Harvest Festival 2024
+DESCRIPTION:Harvest Festival 2024
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simply-groundbreaking
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] Simply Groundbreaking
+DTSTAMP:20241027T183555Z
+SUMMARY:Simply Groundbreaking
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /simply-groundbreaking/
 URL:https://leekduck.com/events/simply-groundbreaking/
@@ -123,14 +123,14 @@ DTSTART;VALUE=DATE:20241115
 DTEND;VALUE=DATE:20241117
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Simply Groundbreaking
+DESCRIPTION:Simply Groundbreaking
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] Into the Wild
+DTSTAMP:20241027T183555Z
+SUMMARY:Into the Wild
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /into-the-wild/
 URL:https://leekduck.com/events/into-the-wild/
@@ -140,14 +140,14 @@ DTSTART;VALUE=DATE:20241118
 DTEND;VALUE=DATE:20241122
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Into the Wild
+DESCRIPTION:Into the Wild
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-out-finale
-DTSTAMP:20241027T165853Z
-SUMMARY:[E] Max Out: Finale
+DTSTAMP:20241027T183555Z
+SUMMARY:Max Out: Finale
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-out-finale/
 URL:https://leekduck.com/events/max-out-finale/
@@ -157,7 +157,7 @@ DTSTART;VALUE=DATE:20241127
 DTEND;VALUE=DATE:20241201
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Max Out: Finale
+DESCRIPTION:Max Out: Finale
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

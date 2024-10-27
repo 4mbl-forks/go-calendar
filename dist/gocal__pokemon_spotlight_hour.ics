@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-10-29
-DTSTAMP:20241027T165853Z
-SUMMARY:[PSH] Halloween Costume Froakie and Halloween Costume Rowlet Spotli
- ght Hour
+DTSTAMP:20241027T183555Z
+SUMMARY:Halloween Costume Froakie and Halloween Costume Rowlet Spotlight Ho
+ ur
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-10-29/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-10-29/
@@ -23,15 +23,15 @@ DTSTART:20241029T180000
 DTEND:20241029T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PSH] Halloween Costume Froakie and Halloween Costume Rowlet Sp
- otlight Hour
+DESCRIPTION:Halloween Costume Froakie and Halloween Costume Rowlet Spotligh
+ t Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-05
-DTSTAMP:20241027T165853Z
-SUMMARY:[PSH] Surskit Spotlight Hour
+DTSTAMP:20241027T183555Z
+SUMMARY:Surskit Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-05/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-11-05/
@@ -41,14 +41,14 @@ DTSTART:20241105T180000
 DTEND:20241105T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PSH] Surskit Spotlight Hour
+DESCRIPTION:Surskit Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-12
-DTSTAMP:20241027T165853Z
-SUMMARY:[PSH] Smoliv Spotlight Hour
+DTSTAMP:20241027T183555Z
+SUMMARY:Smoliv Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-12/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-11-12/
@@ -58,14 +58,14 @@ DTSTART:20241112T180000
 DTEND:20241112T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PSH] Smoliv Spotlight Hour
+DESCRIPTION:Smoliv Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-19
-DTSTAMP:20241027T165853Z
-SUMMARY:[PSH] Teddiursa and Combee Spotlight Hour
+DTSTAMP:20241027T183555Z
+SUMMARY:Teddiursa and Combee Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-19/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-11-19/
@@ -75,14 +75,14 @@ DTSTART:20241119T180000
 DTEND:20241119T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PSH] Teddiursa and Combee Spotlight Hour
+DESCRIPTION:Teddiursa and Combee Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-26
-DTSTAMP:20241027T165853Z
-SUMMARY:[PSH] Joltik Spotlight Hour
+DTSTAMP:20241027T183555Z
+SUMMARY:Joltik Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-26/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-11-26/
@@ -92,7 +92,7 @@ DTSTART:20241126T180000
 DTEND:20241126T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PSH] Joltik Spotlight Hour
+DESCRIPTION:Joltik Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

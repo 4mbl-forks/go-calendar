@@ -11,9 +11,9 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-max-out_great-league-remix_halloween-cup-great-league-edition
-DTSTAMP:20241027T165853Z
-SUMMARY:[GBL] Great League Remix and Halloween Cup: Great League Edition | 
- Max Out
+DTSTAMP:20241027T183555Z
+SUMMARY:Great League Remix and Halloween Cup: Great League Edition | Max Ou
+ t
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_great-league-remix_halloween-cup-great-league-edition/
 URL:https://leekduck.com/events/gbl-max-out_great-league-remix_halloween-cu
@@ -24,15 +24,15 @@ DTSTART;VALUE=DATE:20241022
 DTEND;VALUE=DATE:20241029
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League Remix and Halloween Cup: Great League Editio
- n | Max Out
+DESCRIPTION:Great League Remix and Halloween Cup: Great League Edition | Ma
+ x Out
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_great-league_ultra-league_master-league-split-2
-DTSTAMP:20241027T165853Z
-SUMMARY:[GBL] Great League\, Ultra League\, and Master League | Max Out
+DTSTAMP:20241027T183555Z
+SUMMARY:Great League\, Ultra League\, and Master League | Max Out
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_great-league_ultra-league_master-league-split-2/
 URL:https://leekduck.com/events/gbl-max-out_great-league_ultra-league_maste
@@ -43,14 +43,14 @@ DTSTART;VALUE=DATE:20241029
 DTEND;VALUE=DATE:20241105
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, and Master League | Max Out
+DESCRIPTION:Great League\, Ultra League\, and Master League | Max Out
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_great-league_master-premier
-DTSTAMP:20241027T165853Z
-SUMMARY:[GBL] Great League and Master Premier | Max Out
+DTSTAMP:20241027T183555Z
+SUMMARY:Great League and Master Premier | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_great-league_master-premier/
 URL:https://leekduck.com/events/gbl-max-out_great-league_master-premier/
@@ -60,14 +60,14 @@ DTSTART;VALUE=DATE:20241105
 DTEND;VALUE=DATE:20241112
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League and Master Premier | Max Out
+DESCRIPTION:Great League and Master Premier | Max Out
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_ultra-league_willpower-cup
-DTSTAMP:20241027T165853Z
-SUMMARY:[GBL] Ultra League and Willpower Cup | Max Out
+DTSTAMP:20241027T183555Z
+SUMMARY:Ultra League and Willpower Cup | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_ultra-league_willpower-cup/
 URL:https://leekduck.com/events/gbl-max-out_ultra-league_willpower-cup/
@@ -77,14 +77,14 @@ DTSTART;VALUE=DATE:20241112
 DTEND;VALUE=DATE:20241119
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Ultra League and Willpower Cup | Max Out
+DESCRIPTION:Ultra League and Willpower Cup | Max Out
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_master-league_retro-cup
-DTSTAMP:20241027T165853Z
-SUMMARY:[GBL] Master League and Retro Cup | Max Out
+DTSTAMP:20241027T183555Z
+SUMMARY:Master League and Retro Cup | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_master-league_retro-cup/
 URL:https://leekduck.com/events/gbl-max-out_master-league_retro-cup/
@@ -94,16 +94,16 @@ DTSTART;VALUE=DATE:20241119
 DTEND;VALUE=DATE:20241126
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Master League and Retro Cup | Max Out
+DESCRIPTION:Master League and Retro Cup | Max Out
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-lea
  gue-edition
-DTSTAMP:20241027T165853Z
-SUMMARY:[GBL] Great League\, Ultra League\, Master League\, and Catch Cup: 
- Great League Edition | Max Out
+DTSTAMP:20241027T183555Z
+SUMMARY:Great League\, Ultra League\, Master League\, and Catch Cup: Great 
+ League Edition | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-leagu
  e-edition/
@@ -115,8 +115,8 @@ DTSTART;VALUE=DATE:20241126
 DTEND;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League\, Master League\, and Catch C
- up: Great League Edition | Max Out
+DESCRIPTION:Great League\, Ultra League\, Master League\, and Catch Cup: Gr
+ eat League Edition | Max Out
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
