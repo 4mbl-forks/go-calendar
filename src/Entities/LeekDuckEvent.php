@@ -59,7 +59,7 @@ class LeekDuckEvent
         return new self(
             eventId: $event['eventID'],
             name: $event['name'],
-            title: '[' . acronymForEventType($eventType) . "] {$event['name']}",
+            title: $event['name'],
             description: 'Starts at ' . $startDate->format(format: 'H:i') . ', ends at ' . $endDate->format(format: 'H:i') . ".\n\n{$event['link']}",
             type: $eventType,
             link: $event['link'],
