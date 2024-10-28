@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-bigger-gigantamax
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantamax Blastoi
  se in Max Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -30,7 +30,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-grass-fire-water-type-2024-10-26
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Grass-\, Fire-\, and Water-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-grass-fire-water-type-2024-10-26/
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-entei-in-shadow-raids-max-out
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Shadow Entei in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-entei-in-shadow-raids-max-out/
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:origin-forme-giratina-in-5-star-raid-battles-october-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Origin Forme Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /origin-forme-giratina-in-5-star-raid-battles-october-2024/
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Mega Sableye in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sableye-in-mega-raids-october-2024/
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-1
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Pokémon GO Halloween 2024 - Part I
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2024-part-1/
@@ -116,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_great-league-remix_halloween-cup-great-league-edition
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Great League Remix and Halloween Cup: Great League Edition | Max Ou
  t
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -136,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-10-29
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Halloween Costume Froakie and Halloween Costume Rowlet Spotlight Ho
  ur
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
@@ -155,7 +155,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241030
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Darkrai Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241030/
@@ -170,8 +170,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-rowlet-froakie-morpeko-2024-10-28
+DTSTAMP:20241028T014110Z
+SUMMARY:Rowlet\, Froakie\, and Morpeko PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-rowlet-froakie-morpeko-2024-10-28/
+URL:https://leekduck.com/events/pokemon-showcase-rowlet-froakie-morpeko-202
+ 4-10-28/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20241028
+DTEND;VALUE=DATE:20241030
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rowlet\, Froakie\, and Morpeko PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:october-max-battles-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:October Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /october-max-battles-2024/
@@ -188,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-pokecoin-bounty-ticket-max-out-part-2
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Daily PokéCoin Bounty Part 2 Ticket
 DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
  /daily-pokecoin-bounty-ticket-max-out-part-2/
@@ -206,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-gengar-in-max-battles
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Gigantamax Gengar in Max Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gigantamax-gengar-in-max-battles/
@@ -223,7 +241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-halloween-2024-part-2
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Pokémon GO Halloween 2024 - Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-halloween-2024-part-2/
@@ -240,7 +258,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-max-out
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:GO Battle Weekend: Max Out
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-max-out/
@@ -257,7 +275,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:darkrai-in-5-star-raid-battles-october-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /darkrai-in-5-star-raid-battles-october-2024/
@@ -274,7 +292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-october-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-october-2024/
@@ -290,7 +308,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-de-muertos-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Día de Muertos 2024 (Latin America)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /dia-de-muertos-2024/
@@ -307,7 +325,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-lights-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Festival of Lights 2024 (India Only)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-lights-2024/
@@ -324,7 +342,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_great-league_ultra-league_master-league-split-2
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Great League\, Ultra League\, and Master League | Max Out
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_great-league_ultra-league_master-league-split-2/
@@ -342,7 +360,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-05
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Surskit Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-05/
@@ -359,7 +377,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241106
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241106/
@@ -375,7 +393,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Mankey Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2024/
@@ -392,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-manectric-in-mega-raids-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Mega Manectric in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-manectric-in-mega-raids-november-2024/
@@ -408,7 +426,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-11-11
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Dyanamax Charmander during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-11/
@@ -425,7 +443,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_great-league_master-premier
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Great League and Master Premier | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_great-league_master-premier/
@@ -442,7 +460,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-12
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Smoliv Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-12/
@@ -459,7 +477,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Harvest Festival 2024
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival-2024/
@@ -475,7 +493,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241113
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241113/
@@ -491,7 +509,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2024-fukuoka-japan
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Pokémon GO Wild Area: Fukuoka
 DESCRIPTION:Starts at 08:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2024-fukuoka-japan/
@@ -508,7 +526,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:simply-groundbreaking
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Simply Groundbreaking
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /simply-groundbreaking/
@@ -525,7 +543,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /lugia-in-5-star-raid-battles-november-2024/
@@ -541,7 +559,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-november-2024/
@@ -557,7 +575,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-11-18
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Dyanamax Drilbur during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-18/
@@ -574,7 +592,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_ultra-league_willpower-cup
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Ultra League and Willpower Cup | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_ultra-league_willpower-cup/
@@ -591,7 +609,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241119
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Nihilego Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241119/
@@ -607,7 +625,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-19
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Teddiursa and Combee Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-19/
@@ -624,7 +642,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241120
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Tapu Koko Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241120/
@@ -640,7 +658,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241121
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Origin Forme Dialga Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241121/
@@ -656,7 +674,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241122
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Origin Forme Palkia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241122/
@@ -672,7 +690,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Into the Wild
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /into-the-wild/
@@ -689,7 +707,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2024-global
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Pokémon GO Wild Area: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:15.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2024-global/
@@ -706,7 +724,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-11-25
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Dyanamax Bulbasaur during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-11-25/
@@ -723,7 +741,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_master-league_retro-cup
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Master League and Retro Cup | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-max-out_master-league_retro-cup/
@@ -740,7 +758,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-11-26
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Joltik Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-11-26/
@@ -758,7 +776,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:origin-forme-dialga-origin-forme-palkia-in-5-star-raid-battles-november
  -2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Origin Forme Dialga and Origin Forme Palkida in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /origin-forme-dialga-origin-forme-palkia-in-5-star-raid-battles-november-2
@@ -778,7 +796,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-ampharos-in-mega-raids-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Mega Ampharos in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-ampharos-in-mega-raids-november-2024/
@@ -794,7 +812,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-beedrill-in-mega-raids-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Mega Beedrill in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-beedrill-in-mega-raids-november-2024/
@@ -810,7 +828,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241127
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Zacian\, Zamazenta\, Regieleki\, and Regidrago Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241127/
@@ -826,7 +844,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-suicune-in-shadow-raids-max-out
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Shadow Suicune in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-suicune-in-shadow-raids-max-out/
@@ -843,7 +861,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-out-finale
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Max Out: Finale
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-out-finale/
@@ -860,7 +878,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-02
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Dyanamax Squirtle during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-02/
@@ -877,7 +895,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-16-max-out
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Max Out
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-16-max-out/
@@ -894,7 +912,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Regidrago in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regidrago-in-5-star-raid-battles-november-2024/
@@ -911,7 +929,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regieleki-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Regieleki in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regieleki-in-5-star-raid-battles-november-2024/
@@ -928,7 +946,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zacian-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Zacian in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zacian-in-5-star-raid-battles-november-2024/
@@ -946,7 +964,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-in-5-star-raid-battles-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Zamazenta in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zamazenta-in-5-star-raid-battles-november-2024/
@@ -964,7 +982,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-november-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-november-2024/
@@ -981,7 +999,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-lea
  gue-edition
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:Great League\, Ultra League\, Master League\, and Catch Cup: Great 
  League Edition | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -1002,7 +1020,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-max-battles-2024
-DTSTAMP:20241027T183555Z
+DTSTAMP:20241028T014110Z
 SUMMARY:November Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /november-max-battles-2024/
