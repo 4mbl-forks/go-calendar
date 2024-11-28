@@ -10,78 +10,8 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-11-26
-DTSTAMP:20241127T014413Z
-SUMMARY:Joltik Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-11-26/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-11-26/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART:20241126T180000
-DTEND:20241126T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Joltik Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:origin-forme-dialga-origin-forme-palkia-in-5-star-raid-battles-november
- -2024
-DTSTAMP:20241127T014413Z
-SUMMARY:Origin Forme Dialga and Origin Forme Palkia in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /origin-forme-dialga-origin-forme-palkia-in-5-star-raid-battles-november-2
- 024/
-URL:https://leekduck.com/events/origin-forme-dialga-origin-forme-palkia-in-
- 5-star-raid-battles-november-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/origin-forme-dialga-
- palkia.jpg
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241127
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Origin Forme Dialga and Origin Forme Palkia in 5-star Raid Batt
- les
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-ampharos-in-mega-raids-november-2024
-DTSTAMP:20241127T014413Z
-SUMMARY:Mega Ampharos in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-ampharos-in-mega-raids-november-2024/
-URL:https://leekduck.com/events/mega-ampharos-in-mega-raids-november-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241127
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Ampharos in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-beedrill-in-mega-raids-november-2024
-DTSTAMP:20241127T014413Z
-SUMMARY:Mega Beedrill in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-beedrill-in-mega-raids-november-2024/
-URL:https://leekduck.com/events/mega-beedrill-in-mega-raids-november-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;VALUE=DATE:20241118
-DTEND;VALUE=DATE:20241127
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Beedrill in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20241127
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Zacian\, Zamazenta\, Regieleki\, and Regidrago Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241127/
@@ -96,8 +26,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-snorlax-2024-11-25
+DTSTAMP:20241128T014343Z
+SUMMARY:Snorlax PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-snorlax-2024-11-25/
+URL:https://leekduck.com/events/pokemon-showcase-snorlax-2024-11-25/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
+ efault.jpg
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241127
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Snorlax PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:beyond-wild-area
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Beyond Wild Area
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /beyond-wild-area/
@@ -114,7 +61,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-suicune-in-shadow-raids-max-out
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Shadow Suicune in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-suicune-in-shadow-raids-max-out/
@@ -131,7 +78,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-out-finale
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Max Out: Finale
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-out-finale/
@@ -148,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-pokecoin-bounty-ticket-max-out-part-3
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Daily PokéCoin Bounty Part 3 Ticket
 DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
  /daily-pokecoin-bounty-ticket-max-out-part-3/
@@ -166,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-02
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Dynamax Squirtle during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-02/
@@ -183,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-16-max-out
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Max Out
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-16-max-out/
@@ -200,7 +147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-november-2024
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Regidrago in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regidrago-in-5-star-raid-battles-november-2024/
@@ -217,7 +164,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regieleki-in-5-star-raid-battles-november-2024
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Regieleki in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regieleki-in-5-star-raid-battles-november-2024/
@@ -234,7 +181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zacian-in-5-star-raid-battles-november-2024
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Zacian in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zacian-in-5-star-raid-battles-november-2024/
@@ -252,7 +199,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-in-5-star-raid-battles-november-2024
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Zamazenta in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zamazenta-in-5-star-raid-battles-november-2024/
@@ -270,7 +217,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-november-2024
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-november-2024/
@@ -287,7 +234,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-lea
  gue-edition
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Great League\, Ultra League\, Master League\, and Catch Cup: Great 
  League Edition | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -307,8 +254,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-03
+DTSTAMP:20241128T014343Z
+SUMMARY:Sableye Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-12-03/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-03/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241203T180000
+DTEND:20241203T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sableye Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:november-max-battles-2024
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:November Max Battles
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /november-max-battles-2024/
@@ -324,8 +288,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20241204
+DTSTAMP:20241128T014343Z
+SUMMARY:Genesect (Chill Drive) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241204/
+URL:https://leekduck.com/events/raidhour20241204/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241204T180000
+DTEND:20241204T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Genesect (Chill Drive) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:aspiring-dragons-research-day
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Aspiring Dragons Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /aspiring-dragons-research-day/
@@ -341,8 +321,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:just-my-cup-of-tea
+DTSTAMP:20241128T014343Z
+SUMMARY:Just My Cup of Tea
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /just-my-cup-of-tea/
+URL:https://leekduck.com/events/just-my-cup-of-tea/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
+ 2024-12-03-just-my-cup-of-tea/just-my-cup-of-tea.jpg
+DTSTART;VALUE=DATE:20241203
+DTEND;VALUE=DATE:20241207
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Just My Cup of Tea
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:gigantamax-lapras-max-battle-day
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Gigantamax Lapras Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-lapras-max-battle-day/
@@ -359,8 +356,108 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2024-12-09
+DTSTAMP:20241128T014343Z
+SUMMARY:Dynamax Krabby during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2024-12-09/
+URL:https://leekduck.com/events/max-mondays-2024-12-09/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
+ g
+DTSTART:20241209T180000
+DTEND:20241209T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Krabby during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-max-battles-split-1-2024
+DTSTAMP:20241128T014343Z
+SUMMARY:Max Battles - December 3 to 9
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /december-max-battles-split-1-2024/
+URL:https://leekduck.com/events/december-max-battles-split-1-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
+ les.jpg
+DTSTART;VALUE=DATE:20241203
+DTEND;VALUE=DATE:20241209
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battles - December 3 to 9
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-10
+DTSTAMP:20241128T014343Z
+SUMMARY:Murkrow Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-12-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-10/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241210T180000
+DTEND:20241210T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Murkrow Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241211
+DTSTAMP:20241128T014343Z
+SUMMARY:Genesect (Chill Drive) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241211/
+URL:https://leekduck.com/events/raidhour20241211/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241211T180000
+DTEND:20241211T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Genesect (Chill Drive) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:genesect-with-a-chill-drive-in-5-star-raid-battles-december-2024
+DTSTAMP:20241128T014343Z
+SUMMARY:Genesect with a Chill Drive in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /genesect-with-a-chill-drive-in-5-star-raid-battles-december-2024/
+URL:https://leekduck.com/events/genesect-with-a-chill-drive-in-5-star-raid-
+ battles-december-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/genesect.jpg
+DTSTART;VALUE=DATE:20241203
+DTEND;VALUE=DATE:20241212
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Genesect with a Chill Drive in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-banette-in-mega-raids-november-2024
+DTSTAMP:20241128T014343Z
+SUMMARY:Mega Banette in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-banette-in-mega-raids-november-2024/
+URL:https://leekduck.com/events/mega-banette-in-mega-raids-november-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20241203
+DTEND;VALUE=DATE:20241212
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Banette in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:necrozma-fusion-raid-day
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Necrozma Fusion Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /necrozma-fusion-raid-day/
@@ -376,8 +473,92 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:young-and-wise
+DTSTAMP:20241128T014343Z
+SUMMARY:Young &amp\; Wise
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /young-and-wise/
+URL:https://leekduck.com/events/young-and-wise/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241210
+DTEND;VALUE=DATE:20241214
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Young &amp\; Wise
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2024-12-16
+DTSTAMP:20241128T014343Z
+SUMMARY:Dynamax Charmander during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2024-12-16/
+URL:https://leekduck.com/events/max-mondays-2024-12-16/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
+ g
+DTSTART:20241216T180000
+DTEND:20241216T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Charmander during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-17
+DTSTAMP:20241128T014343Z
+SUMMARY:Slugma and Bergmite Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-12-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-17/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241217T180000
+DTEND:20241217T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Slugma and Bergmite Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241218
+DTSTAMP:20241128T014343Z
+SUMMARY:Mega Latios Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241218/
+URL:https://leekduck.com/events/raidhour20241218/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241218T180000
+DTEND:20241218T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Latios Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-latios-mega-raids-december-2024
+DTSTAMP:20241128T014343Z
+SUMMARY:Mega Latios in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-latios-mega-raids-december-2024/
+URL:https://leekduck.com/events/mega-latios-mega-raids-december-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-latios-mega-lat
+ ias.jpg
+DTSTART;VALUE=DATE:20241212
+DTEND;VALUE=DATE:20241219
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Latios in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:december-communityday2024
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:December Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /december-communityday2024/
@@ -393,9 +574,127 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-go-holiday-part-1
+DTSTAMP:20241128T014343Z
+SUMMARY:Pokémon GO Holiday: Part 1
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-holiday-part-1/
+URL:https://leekduck.com/events/pokemon-go-holiday-part-1/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241217
+DTEND;VALUE=DATE:20241222
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pokémon GO Holiday: Part 1
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2024-12-23
+DTSTAMP:20241128T014343Z
+SUMMARY:Dynamax Cryogonal during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2024-12-23/
+URL:https://leekduck.com/events/max-mondays-2024-12-23/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
+ g
+DTSTART:20241223T180000
+DTEND:20241223T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Cryogonal during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-max-battles-split-2-2024
+DTSTAMP:20241128T014343Z
+SUMMARY:Max Battles - December 9 to 23
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /december-max-battles-split-2-2024/
+URL:https://leekduck.com/events/december-max-battles-split-2-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
+ les.jpg
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241223
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battles - December 9 to 23
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-24
+DTSTAMP:20241128T014343Z
+SUMMARY:Delibird Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-12-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-24/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241224T180000
+DTEND:20241224T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Delibird Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20241225
+DTSTAMP:20241128T014343Z
+SUMMARY:Mega Latias Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20241225/
+URL:https://leekduck.com/events/raidhour20241225/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+DTSTART:20241225T180000
+DTEND:20241225T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Latias Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-latias-mega-raids-december-2024
+DTSTAMP:20241128T014343Z
+SUMMARY:Mega Latias in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-latias-mega-raids-december-2024/
+URL:https://leekduck.com/events/mega-latias-mega-raids-december-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-latios-mega-lat
+ ias.jpg
+DTSTART;VALUE=DATE:20241219
+DTEND;VALUE=DATE:20241226
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Latias in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-holiday-part-2
+DTSTAMP:20241128T014343Z
+SUMMARY:Pokémon GO Holiday: Part 2
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-holiday-part-2/
+URL:https://leekduck.com/events/pokemon-go-holiday-part-2/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241222
+DTEND;VALUE=DATE:20241227
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pokémon GO Holiday: Part 2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-december-2024
-DTSTAMP:20241127T014413Z
-SUMMARY:Hatch Day
+DTSTAMP:20241128T014343Z
+SUMMARY:Charged Embers Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-december-2024/
 URL:https://leekduck.com/events/hatch-day-december-2024/
@@ -405,13 +704,115 @@ DTSTART:20241229T140000
 DTEND:20241229T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Hatch Day
+DESCRIPTION:Charged Embers Hatch Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-regice-in-shadow-raids-dual-destiny
+DTSTAMP:20241128T014343Z
+SUMMARY:Shadow Regice in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-regice-in-shadow-raids-dual-destiny/
+URL:https://leekduck.com/events/shadow-regice-in-shadow-raids-dual-destiny/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241229
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Regice in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2024-12-30
+DTSTAMP:20241128T014343Z
+SUMMARY:Dynamax Bulbasaur during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2024-12-30/
+URL:https://leekduck.com/events/max-mondays-2024-12-30/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
+ g
+DTSTART:20241230T180000
+DTEND:20241230T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Bulbasaur during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-12-31
+DTSTAMP:20241128T014343Z
+SUMMARY:Togetic Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-12-31/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-12-31/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
+ .jpg
+DTSTART:20241231T180000
+DTEND:20241231T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Togetic Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:new-years-2025
+DTSTAMP:20241128T014343Z
+SUMMARY:New Year's 2025
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /new-years-2025/
+URL:https://leekduck.com/events/new-years-2025/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
+ pg
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250101
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:New Year's 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-abomasnow-in-mega-raids-november-2024-copy
+DTSTAMP:20241128T014343Z
+SUMMARY:Mega Abomasnow in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-abomasnow-in-mega-raids-november-2024-copy/
+URL:https://leekduck.com/events/mega-abomasnow-in-mega-raids-november-2024-
+ copy/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20241226
+DTEND;VALUE=DATE:20250104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Abomasnow in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:giratina-in-5-star-raid-battles-december-2024
+DTSTAMP:20241128T014343Z
+SUMMARY:Giratina in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /giratina-in-5-star-raid-battles-december-2024/
+URL:https://leekduck.com/events/giratina-in-5-star-raid-battles-december-20
+ 24/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/giratinaaltered.jpg
+DTSTART;VALUE=DATE:20241226
+DTEND;VALUE=DATE:20250104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Giratina in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2025
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:January Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2025/
@@ -426,8 +827,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:december-max-battles-split-3-2024
+DTSTAMP:20241128T014343Z
+SUMMARY:Max Battles - December 23 to January 6
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /december-max-battles-split-3-2024/
+URL:https://leekduck.com/events/december-max-battles-split-3-2024/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
+ les.jpg
+DTSTART;VALUE=DATE:20241223
+DTEND;VALUE=DATE:20250106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battles - December 23 to January 6
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-january-2025
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-january-2025/
@@ -444,7 +862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-january-2025
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Shadow Raid Day
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-january-2025/
@@ -461,7 +879,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2025
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:January Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2025/
@@ -477,7 +895,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2025
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2025/
@@ -494,7 +912,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2025/
@@ -510,7 +928,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2025/
@@ -526,8 +944,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-go-tour-unova-global-2025
+DTSTAMP:20241128T014343Z
+SUMMARY:Pokémon GO Tour: Unova - Global
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-tour-unova-global-2025/
+URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
+IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2025/
+ 2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jpg
+DTSTART;VALUE=DATE:20250301
+DTEND;VALUE=DATE:20250302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pokémon GO Tour: Unova - Global
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:season-17-dual-destiny
-DTSTAMP:20241127T014413Z
+DTSTAMP:20241128T014343Z
 SUMMARY:Dual Destiny
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-17-dual-destiny/
