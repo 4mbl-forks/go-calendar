@@ -10,20 +10,24 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:pokemon-showcase-mrmime-farfetchd-corsola-2024-11-04
-DTSTAMP:20241130T014103Z
-SUMMARY:Mr. Mime\, Farfetch'd\, and Corsola PokéStop Showcases
+UID:pokemon-showcase-galarian-mrmime-galarian-farfetchd-galarian-corsola-20
+ 24-11-04
+DTSTAMP:20241201T015823Z
+SUMMARY:Galarian Mr. Mime\, Galarian Farfetch'd\, and Galarian Corsola Pok
+ éStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-mrmime-farfetchd-corsola-2024-11-04/
-URL:https://leekduck.com/events/pokemon-showcase-mrmime-farfetchd-corsola-2
- 024-11-04/
+ /pokemon-showcase-galarian-mrmime-galarian-farfetchd-galarian-corsola-2024
+ -11-04/
+URL:https://leekduck.com/events/pokemon-showcase-galarian-mrmime-galarian-f
+ arfetchd-galarian-corsola-2024-11-04/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
 DTSTART;VALUE=DATE:20241130
 DTEND;VALUE=DATE:20241201
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Mr. Mime\, Farfetch'd\, and Corsola PokéStop Showcases
+DESCRIPTION:Galarian Mr. Mime\, Galarian Farfetch'd\, and Galarian Corsola 
+ PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
