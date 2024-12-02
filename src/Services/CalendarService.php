@@ -22,7 +22,7 @@ class CalendarService
     public const EVERYTHING_CALENDAR_KEY = 'everything';
 
     /**
-     * Modified from the original 'Atlantic/Reykjavik'
+     * Modified from the original 'Atlantic/Reykjavik'.
      */
     public const TIMEZONE = 'Europe/Helsinki';
 
