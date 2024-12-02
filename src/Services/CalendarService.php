@@ -22,12 +22,9 @@ class CalendarService
     public const EVERYTHING_CALENDAR_KEY = 'everything';
 
     /**
-     * Timezone identifier to act as the local timezone, to get around the UTC 'bug' in the Spatie Calendar generator.
-     *
-     * Why Reykjavik?
-     * It's a common trick to use it in cases like this as a substitute for UTC as it doesn't observe daylight savings.
+     * Modified from the original 'Atlantic/Reykjavik'
      */
-    public const TIMEZONE = 'Atlantic/Reykjavik';
+    public const TIMEZONE = 'Europe/Helsinki';
 
     /**
      * Calendar manifest store, by event type.
