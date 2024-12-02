@@ -97,7 +97,7 @@ class CalendarService
 
             $output->msg(
                 group: OutputGroup::EVENT,
-                message: "┤    Period │ Starts at {$event->startDate->format(format: 'Y-m-d H:i')}, ends at {$event->endDate->format(format: 'Y-m-d H:i')}."
+                message: "┤    Period │ Starts at {$event->startDate->format('Y-m-d H:i:s P')}, ends at {$event->endDate->format('Y-m-d H:i:s P')}."
             );
 
             $output->msg(
