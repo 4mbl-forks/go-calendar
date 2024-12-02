@@ -9,17 +9,43 @@ X-WR-CALDESC:All Pokémon GO Max Mondays events\, in your local time\, auto
  -updated and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20241027T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20240307T202031
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2024-12-02
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Dynamax Squirtle during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-02/
 URL:https://leekduck.com/events/max-mondays-2024-12-02/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241202T180000
-DTEND:20241202T190000
+DTSTART;TZID=Europe/Helsinki:20241202T180000
+DTEND;TZID=Europe/Helsinki:20241202T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Squirtle during Max Monday
@@ -28,15 +54,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-09
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Dynamax Krabby during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-09/
 URL:https://leekduck.com/events/max-mondays-2024-12-09/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241209T180000
-DTEND:20241209T190000
+DTSTART;TZID=Europe/Helsinki:20241209T180000
+DTEND;TZID=Europe/Helsinki:20241209T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Krabby during Max Monday
@@ -45,15 +71,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-16
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Dynamax Charmander during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-16/
 URL:https://leekduck.com/events/max-mondays-2024-12-16/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241216T180000
-DTEND:20241216T190000
+DTSTART;TZID=Europe/Helsinki:20241216T180000
+DTEND;TZID=Europe/Helsinki:20241216T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Charmander during Max Monday
@@ -62,15 +88,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-23
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Dynamax Cryogonal during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-23/
 URL:https://leekduck.com/events/max-mondays-2024-12-23/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241223T180000
-DTEND:20241223T190000
+DTSTART;TZID=Europe/Helsinki:20241223T180000
+DTEND;TZID=Europe/Helsinki:20241223T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Cryogonal during Max Monday
@@ -79,15 +105,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2024-12-30
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Dynamax Bulbasaur during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2024-12-30/
 URL:https://leekduck.com/events/max-mondays-2024-12-30/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/max-battles-kanto.jp
  g
-DTSTART:20241230T180000
-DTEND:20241230T190000
+DTSTART;TZID=Europe/Helsinki:20241230T180000
+DTEND;TZID=Europe/Helsinki:20241230T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Bulbasaur during Max Monday

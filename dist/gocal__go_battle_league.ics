@@ -9,10 +9,26 @@ X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
   auto-updated and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Z
+BEGIN:STANDARD
+DTSTART:20240301T210000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20240307T202031
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-lea
  gue-edition
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Great League\, Ultra League\, Master League\, and Catch Cup: Great 
  League Edition | Max Out
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -22,8 +38,8 @@ URL:https://leekduck.com/events/gbl-max-out_great-league_ultra-league_maste
  r-league_catch-cup-great-league-edition/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
  son-20-max-out.jpg
-DTSTART;VALUE=DATE:20241126
-DTEND;VALUE=DATE:20241203
+DTSTART;TZID=Z;VALUE=DATE:20241126
+DTEND;TZID=Z;VALUE=DATE:20241203
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Great League\, Ultra League\, Master League\, and Catch Cup: Gr

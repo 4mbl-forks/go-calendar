@@ -9,17 +9,43 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
  ed and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20241027T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20240307T202031
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:just-my-cup-of-tea
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Just My Cup of Tea
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /just-my-cup-of-tea/
 URL:https://leekduck.com/events/just-my-cup-of-tea/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
  2024-12-03-just-my-cup-of-tea/just-my-cup-of-tea.jpg
-DTSTART;VALUE=DATE:20241203
-DTEND;VALUE=DATE:20241207
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241203
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241207
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Just My Cup of Tea
@@ -28,15 +54,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:young-and-wise
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Young &amp\; Wise
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /young-and-wise/
 URL:https://leekduck.com/events/young-and-wise/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
-DTSTART;VALUE=DATE:20241210
-DTEND;VALUE=DATE:20241214
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241210
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241214
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Young &amp\; Wise
@@ -45,15 +71,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-1
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Pokémon GO Holiday: Part 1
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-holiday-part-1/
 URL:https://leekduck.com/events/pokemon-go-holiday-part-1/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
-DTSTART;VALUE=DATE:20241217
-DTEND;VALUE=DATE:20241222
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241217
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241222
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Pokémon GO Holiday: Part 1
@@ -62,15 +88,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-holiday-part-2
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Pokémon GO Holiday: Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-go-holiday-part-2/
 URL:https://leekduck.com/events/pokemon-go-holiday-part-2/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
-DTSTART;VALUE=DATE:20241222
-DTEND;VALUE=DATE:20241227
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241222
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241227
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Pokémon GO Holiday: Part 2
@@ -79,15 +105,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2024
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:Charged Embers Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-december-2024/
 URL:https://leekduck.com/events/hatch-day-december-2024/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
-DTSTART:20241229T140000
-DTEND:20241229T170000
+DTSTART;TZID=Europe/Helsinki:20241229T140000
+DTEND;TZID=Europe/Helsinki:20241229T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Charged Embers Hatch Day
@@ -96,15 +122,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2025
-DTSTAMP:20241202T192148Z
+DTSTAMP:20241202T202031Z
 SUMMARY:New Year's 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2025/
 URL:https://leekduck.com/events/new-years-2025/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
  pg
-DTSTART;VALUE=DATE:20241230
-DTEND;VALUE=DATE:20250101
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241230
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250101
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:New Year's 2025
