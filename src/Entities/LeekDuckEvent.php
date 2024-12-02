@@ -122,6 +122,8 @@ class LeekDuckEvent
             timezone: $timezone
         );
 
+        date_default_timezone_set('Europe/Helsinki');
+
         $calendarEvent = Event::create()
             ->uniqueIdentifier(
                 uid: $this->eventId
