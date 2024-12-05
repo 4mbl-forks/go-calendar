@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20240301T210000
+DTSTART:20240308T210000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,36 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240309T014600
+DTSTART:20240310T014553
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-lea
- gue-edition
-DTSTAMP:20241204T014600Z
-SUMMARY:Great League\, Ultra League\, Master League\, and Catch Cup: Great 
- League Edition | Max Out
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-max-out_great-league_ultra-league_master-league_catch-cup-great-leagu
- e-edition/
-URL:https://leekduck.com/events/gbl-max-out_great-league_ultra-league_maste
- r-league_catch-cup-great-league-edition/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/go-battle-league-sea
- son-20-max-out.jpg
-DTSTART;TZID=Z;VALUE=DATE:20241126
-DTEND;TZID=Z;VALUE=DATE:20241203
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Great League\, Ultra League\, Master League\, and Catch Cup: Gr
- eat League Edition | Max Out
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_galar-cup-little-edition
-DTSTAMP:20241204T014600Z
+DTSTAMP:20241205T014553Z
 SUMMARY:Great League and Fantasy Cup: Great League Edition | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_galar-cup-little-edition/
