@@ -9,25 +9,46 @@ X-WR-CALDESC:All Pokémon GO PokéStop Showcase events\, in your local time
  \, auto-updated and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+DTSTART:20240331T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20241027T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20240312T014347
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-galarian-mrmime-galarian-farfetchd-galarian-corsola-20
- 24-11-04
-DTSTAMP:20241202T014731Z
-SUMMARY:Galarian Mr. Mime\, Galarian Farfetch'd\, and Galarian Corsola Pok
- éStop Showcases
+UID:pokemon-showcase-sinistea-2024-12-07
+DTSTAMP:20241207T014347Z
+SUMMARY:Sinistea PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-galarian-mrmime-galarian-farfetchd-galarian-corsola-2024
- -11-04/
-URL:https://leekduck.com/events/pokemon-showcase-galarian-mrmime-galarian-f
- arfetchd-galarian-corsola-2024-11-04/
+ /pokemon-showcase-sinistea-2024-12-07/
+URL:https://leekduck.com/events/pokemon-showcase-sinistea-2024-12-07/
 IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
  efault.jpg
-DTSTART;VALUE=DATE:20241130
-DTEND;VALUE=DATE:20241201
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241207
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241208
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Galarian Mr. Mime\, Galarian Farfetch'd\, and Galarian Corsola 
- PokéStop Showcases
+DESCRIPTION:Sinistea PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
