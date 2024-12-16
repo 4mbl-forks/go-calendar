@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240320T015157
+DTSTART:20240321T014903
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_galar-cup-little-edition
-DTSTAMP:20241215T015157Z
+DTSTAMP:20241216T014903Z
 SUMMARY:Great League and Fantasy Cup: Great League Edition | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_galar-cup-little-edition/
