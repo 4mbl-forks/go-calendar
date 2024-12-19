@@ -30,55 +30,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240323T014203
+DTSTART:20240324T014237
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-lapras-max-battle-day
-DTSTAMP:20241218T014203Z
-SUMMARY:Gigantamax Lapras Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-lapras-max-battle-day/
-URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-08-gigantamax-lapras-max-battle-day/gigantamax-lapras-max-battle-d
- ay.jpg
-DTSTART;TZID=Europe/Helsinki:20241208T140000
-DTEND;TZID=Europe/Helsinki:20241208T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Gigantamax Lapras Max Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:december-max-battles-split-1-2024
-DTSTAMP:20241218T014203Z
-SUMMARY:Max Battles - December 3 to 9
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /december-max-battles-split-1-2024/
-URL:https://leekduck.com/events/december-max-battles-split-1-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
- les.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241203
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241209
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Max Battles - December 3 to 9
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:december-max-battles-split-2-2024
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Max Battles - December 9 to 23
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-2-2024/
 URL:https://leekduck.com/events/december-max-battles-split-2-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
- les.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241209
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241223
 BEGIN:VALARM
@@ -89,13 +54,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-max-battles-split-3-2024
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Max Battles - December 23 to January 6
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-3-2024/
 URL:https://leekduck.com/events/december-max-battles-split-3-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/power-spots-max-batt
- les.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241223
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250106
 BEGIN:VALARM
@@ -106,13 +71,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2025
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2025/
 URL:https://leekduck.com/events/max-battle-day-february-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART;TZID=Europe/Helsinki:20250201T140000
 DTEND;TZID=Europe/Helsinki:20250201T170000
 BEGIN:VALARM

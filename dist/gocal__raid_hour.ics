@@ -30,35 +30,19 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240323T014203
+DTSTART:20240324T014237
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20241211
-DTSTAMP:20241218T014203Z
-SUMMARY:Genesect (Chill Drive) Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20241211/
-URL:https://leekduck.com/events/raidhour20241211/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20241211T180000
-DTEND;TZID=Europe/Helsinki:20241211T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Genesect (Chill Drive) Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20241218
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Mega Latios Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241218/
 URL:https://leekduck.com/events/raidhour20241218/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
 DTSTART;TZID=Europe/Helsinki:20241218T180000
 DTEND;TZID=Europe/Helsinki:20241218T190000
 BEGIN:VALARM
@@ -69,12 +53,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20241225
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Mega Latias Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20241225/
 URL:https://leekduck.com/events/raidhour20241225/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/raidhour.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
 DTSTART;TZID=Europe/Helsinki:20241225T180000
 DTEND;TZID=Europe/Helsinki:20241225T190000
 BEGIN:VALARM

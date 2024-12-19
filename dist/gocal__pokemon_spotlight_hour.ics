@@ -30,54 +30,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240323T014203
+DTSTART:20240324T014237
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-12-10
-DTSTAMP:20241218T014203Z
-SUMMARY:Murkrow Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-12-10/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-12-10/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART;TZID=Europe/Helsinki:20241210T180000
-DTEND;TZID=Europe/Helsinki:20241210T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Murkrow Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemonspotlighthour2024-12-17
-DTSTAMP:20241218T014203Z
-SUMMARY:Slugma and Bergmite Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-12-17/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-12-17/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
-DTSTART;TZID=Europe/Helsinki:20241217T180000
-DTEND;TZID=Europe/Helsinki:20241217T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Slugma and Bergmite Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-24
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Delibird Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-12-24/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-12-24/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
 DTSTART;TZID=Europe/Helsinki:20241224T180000
 DTEND;TZID=Europe/Helsinki:20241224T190000
 BEGIN:VALARM
@@ -88,13 +54,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-31
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Togetic Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-12-31/
 URL:https://leekduck.com/events/pokemonspotlighthour2024-12-31/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokemonspotlighthour
- .jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
 DTSTART;TZID=Europe/Helsinki:20241231T180000
 DTEND;TZID=Europe/Helsinki:20241231T190000
 BEGIN:VALARM

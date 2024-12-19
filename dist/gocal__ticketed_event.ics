@@ -30,21 +30,21 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240323T014203
+DTSTART:20240324T014237
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:eggs-pedition-access-december-2024
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Eggs-pedition Access: December
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-december-2024/
 URL:https://leekduck.com/events/eggs-pedition-access-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-03-eggs-pedition-access-december-2024/eggs-pedition-access-decembe
- r-2024.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-03-eggs-pedition-access-december-2024/eggs-pedition-access-dec
+ ember-2024.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241203
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241231
 BEGIN:VALARM

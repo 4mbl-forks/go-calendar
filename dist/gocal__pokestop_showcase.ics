@@ -30,25 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240323T014203
+DTSTART:20240324T014237
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-sinistea-2024-12-07
-DTSTAMP:20241218T014203Z
-SUMMARY:Sinistea PokéStop Showcases
+UID:pokemon-showcase-dedenne-sandygast-2024-12-16
+DTSTAMP:20241219T014237Z
+SUMMARY:Dedenne and Sandygast PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-sinistea-2024-12-07/
-URL:https://leekduck.com/events/pokemon-showcase-sinistea-2024-12-07/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/pokestop-showcases-d
- efault.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241207
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241208
+ /pokemon-showcase-dedenne-sandygast-2024-12-16/
+URL:https://leekduck.com/events/pokemon-showcase-dedenne-sandygast-2024-12-
+ 16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241216
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241218
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Sinistea PokéStop Showcases
+DESCRIPTION:Dedenne and Sandygast PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

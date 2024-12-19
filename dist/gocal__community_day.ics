@@ -30,20 +30,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240323T014203
+DTSTART:20240324T014237
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:december-communityday2024
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:December Community Day 2024
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /december-communityday2024/
 URL:https://leekduck.com/events/december-communityday2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/article-images/2024/
- 2024-12-21-december-communityday2024/2024-12-december-communityday.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 024/2024-12-21-december-communityday2024/2024-12-december-communityday.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241221
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241222
 BEGIN:VALARM
@@ -54,28 +54,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2025
-DTSTAMP:20241218T014203Z
-SUMMARY:January Community Day
+DTSTAMP:20241219T014237Z
+SUMMARY:Sprigatito Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2025/
 URL:https://leekduck.com/events/january-communityday2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-01-05-january-communityday2025/sprigatito-community-day.jpg?v2
 DTSTART;TZID=Europe/Helsinki:20250105T140000
 DTEND;TZID=Europe/Helsinki:20250105T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:January Community Day
+DESCRIPTION:Sprigatito Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2025
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:January Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2025/
 URL:https://leekduck.com/events/january-communitydayclassic2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
 DTSTART;TZID=Europe/Helsinki:20250125T140000
 DTEND;TZID=Europe/Helsinki:20250125T170000
 BEGIN:VALARM
@@ -86,12 +87,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2025/
 URL:https://leekduck.com/events/february-communityday2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
 DTSTART;TZID=Europe/Helsinki:20250209T140000
 DTEND;TZID=Europe/Helsinki:20250209T170000
 BEGIN:VALARM

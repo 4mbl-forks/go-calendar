@@ -30,53 +30,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240323T014203
+DTSTART:20240324T014237
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:genesect-with-a-chill-drive-in-5-star-raid-battles-december-2024
-DTSTAMP:20241218T014203Z
-SUMMARY:Genesect with a Chill Drive in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /genesect-with-a-chill-drive-in-5-star-raid-battles-december-2024/
-URL:https://leekduck.com/events/genesect-with-a-chill-drive-in-5-star-raid-
- battles-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/genesect.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241203
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241212
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Genesect with a Chill Drive in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-banette-in-mega-raids-november-2024
-DTSTAMP:20241218T014203Z
-SUMMARY:Mega Banette in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-banette-in-mega-raids-november-2024/
-URL:https://leekduck.com/events/mega-banette-in-mega-raids-november-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241203
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241212
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Banette in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-latios-mega-raids-december-2024
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Mega Latios in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latios-mega-raids-december-2024/
 URL:https://leekduck.com/events/mega-latios-mega-raids-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-latios-mega-lat
- ias.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-latios-mega
+ -latias.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241212
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241219
 BEGIN:VALARM
@@ -87,13 +54,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-latias-mega-raids-december-2024
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Mega Latias in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-latias-mega-raids-december-2024/
 URL:https://leekduck.com/events/mega-latias-mega-raids-december-2024/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-latios-mega-lat
- ias.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-latios-mega
+ -latias.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241219
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241226
 BEGIN:VALARM
@@ -104,30 +71,30 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regice-in-shadow-raids-dual-destiny
-DTSTAMP:20241218T014203Z
-SUMMARY:Shadow Regice in Shadow Raids
+DTSTAMP:20241219T014237Z
+SUMMARY:Shadow Regice in Shadow Raids in December
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regice-in-shadow-raids-dual-destiny/
 URL:https://leekduck.com/events/shadow-regice-in-shadow-raids-dual-destiny/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241207
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20241229
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Shadow Regice in Shadow Raids
+DESCRIPTION:Shadow Regice in Shadow Raids in December
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-abomasnow-in-mega-raids-november-2024-copy
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Mega Abomasnow in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-abomasnow-in-mega-raids-november-2024-copy/
 URL:https://leekduck.com/events/mega-abomasnow-in-mega-raids-november-2024-
  copy/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/mega-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241226
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250104
 BEGIN:VALARM
@@ -138,13 +105,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-in-5-star-raid-battles-december-2024
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Giratina in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /giratina-in-5-star-raid-battles-december-2024/
 URL:https://leekduck.com/events/giratina-in-5-star-raid-battles-december-20
  24/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/giratinaaltered.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/giratinaaltered.
+ jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20241226
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250104
 BEGIN:VALARM
@@ -155,13 +123,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-january-2025
-DTSTAMP:20241218T014203Z
+DTSTAMP:20241219T014237Z
 SUMMARY:Shadow Raid Day
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-january-2025/
 URL:https://leekduck.com/events/shadow-raid-day-january-2025/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/events-default-img.j
- pg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
 DTSTART;TZID=Europe/Helsinki:20250119T060000
 DTEND;TZID=Europe/Helsinki:20250119T220000
 BEGIN:VALARM
