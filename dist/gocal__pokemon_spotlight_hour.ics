@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240324T014237
+DTSTART:20240325T013751
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-24
-DTSTAMP:20241219T014237Z
+DTSTAMP:20241220T013751Z
 SUMMARY:Delibird Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-12-24/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-12-31
-DTSTAMP:20241219T014237Z
+DTSTAMP:20241220T013751Z
 SUMMARY:Togetic Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-12-31/
@@ -66,6 +66,74 @@ DTEND;TZID=Europe/Helsinki:20241231T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Togetic Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-01-07
+DTSTAMP:20241220T013751Z
+SUMMARY:Voltorb and Hisuian Voltorb Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-01-07/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-07/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250107T180000
+DTEND;TZID=Europe/Helsinki:20250107T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Voltorb and Hisuian Voltorb Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-01-14
+DTSTAMP:20241220T013751Z
+SUMMARY:Roselia Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-01-14/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-14/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250114T180000
+DTEND;TZID=Europe/Helsinki:20250114T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Roselia Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-01-21
+DTSTAMP:20241220T013751Z
+SUMMARY:Paldean Wooper Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-01-21/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-21/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250121T180000
+DTEND;TZID=Europe/Helsinki:20250121T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Paldean Wooper Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-01-28
+DTSTAMP:20241220T013751Z
+SUMMARY:Yungoos Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-01-28/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-01-28/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250128T180000
+DTEND;TZID=Europe/Helsinki:20250128T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yungoos Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
