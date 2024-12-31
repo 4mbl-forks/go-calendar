@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240404T013945
+DTSTART:20240405T013621
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-cetoddle-2024-12-28
-DTSTAMP:20241230T013945Z
+DTSTAMP:20241231T013621Z
 SUMMARY:Cetoddle PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-cetoddle-2024-12-28/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-jigglypuff-hoothoot-2024-12-28
-DTSTAMP:20241230T013945Z
+DTSTAMP:20241231T013621Z
 SUMMARY:Jigglypuff and Hoothoot PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-jigglypuff-hoothoot-2024-12-28/

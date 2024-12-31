@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240404T013945
+DTSTART:20240405T013621
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:december-max-battles-split-3-2024
-DTSTAMP:20241230T013945Z
+DTSTAMP:20241231T013621Z
 SUMMARY:Max Battles - December 23 to January 6
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /december-max-battles-split-3-2024/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-max-battles-split-1-2025
-DTSTAMP:20241230T013945Z
+DTSTAMP:20241231T013621Z
 SUMMARY:Max Battles - January 6 to January 13
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /january-max-battles-split-1-2025/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-max-battles-split-2-2025
-DTSTAMP:20241230T013945Z
+DTSTAMP:20241231T013621Z
 SUMMARY:Max Battles - January 13 to January 20
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /january-max-battles-split-2-2025/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-max-battles-split-3-2025
-DTSTAMP:20241230T013945Z
+DTSTAMP:20241231T013621Z
 SUMMARY:Max Battles - January 20 to January 27
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /january-max-battles-split-3-2025/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2025
-DTSTAMP:20241230T013945Z
+DTSTAMP:20241231T013621Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2025/
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-max-battles-split-4-2025
-DTSTAMP:20241230T013945Z
+DTSTAMP:20241231T013621Z
 SUMMARY:Max Battles - January 27 to February 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /january-max-battles-split-4-2025/
