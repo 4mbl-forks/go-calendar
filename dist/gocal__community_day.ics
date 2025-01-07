@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240411T014114
+DTSTART:20240412T013800
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:january-communityday2025
-DTSTAMP:20250106T014114Z
-SUMMARY:Sprigatito Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /january-communityday2025/
-URL:https://leekduck.com/events/january-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-01-05-january-communityday2025/sprigatito-community-day.jpg?v2
-DTSTART;TZID=Europe/Helsinki:20250105T140000
-DTEND;TZID=Europe/Helsinki:20250105T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Sprigatito Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:january-communitydayclassic2025
-DTSTAMP:20250106T014114Z
+DTSTAMP:20250107T013800Z
 SUMMARY:January Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2025/
@@ -65,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20250106T014114Z
+DTSTAMP:20250107T013800Z
 SUMMARY:February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2025/

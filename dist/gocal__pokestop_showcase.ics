@@ -25,26 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240411T014114
+DTSTART:20240412T013800
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-sprigatito-meowscarada-2025-01-04-copy
-DTSTAMP:20250106T014114Z
-SUMMARY:Sprigatito PokéStop Showcases
+UID:pokemon-showcase-poochyena-lillipup-rockruff-2025-01-06
+DTSTAMP:20250107T013800Z
+SUMMARY:Poochyena\, Lillipup\, Rockruff PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-sprigatito-meowscarada-2025-01-04-copy/
-URL:https://leekduck.com/events/pokemon-showcase-sprigatito-meowscarada-202
- 5-01-04-copy/
+ /pokemon-showcase-poochyena-lillipup-rockruff-2025-01-06/
+URL:https://leekduck.com/events/pokemon-showcase-poochyena-lillipup-rockruf
+ f-2025-01-06/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250104
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250105
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250106
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250108
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Sprigatito PokéStop Showcases
+DESCRIPTION:Poochyena\, Lillipup\, Rockruff PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
