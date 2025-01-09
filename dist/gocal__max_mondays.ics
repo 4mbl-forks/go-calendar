@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240413T013736
+DTSTART:20240414T020650
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2025-01-13
-DTSTAMP:20250108T013736Z
+DTSTAMP:20250109T020650Z
 SUMMARY:Dynamax Squirtle during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-01-13/
@@ -44,6 +44,57 @@ DTEND;TZID=Europe/Helsinki:20250113T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Squirtle during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-01-20
+DTSTAMP:20250109T020650Z
+SUMMARY:Dynamax Articuno during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-01-20/
+URL:https://leekduck.com/events/max-mondays-2025-01-20/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250120T180000
+DTEND;TZID=Europe/Helsinki:20250120T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Articuno during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-01-27
+DTSTAMP:20250109T020650Z
+SUMMARY:Dynamax Zapdos during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-01-27/
+URL:https://leekduck.com/events/max-mondays-2025-01-27/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250127T180000
+DTEND;TZID=Europe/Helsinki:20250127T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Zapdos during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-02-03
+DTSTAMP:20250109T020650Z
+SUMMARY:Dynamax Moltres during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-02-03/
+URL:https://leekduck.com/events/max-mondays-2025-02-03/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250203T180000
+DTEND;TZID=Europe/Helsinki:20250203T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Moltres during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
