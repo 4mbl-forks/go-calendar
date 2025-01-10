@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240414T020650
+DTSTART:20240415T013927
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-gallade-raid-day
-DTSTAMP:20250109T020650Z
+DTSTAMP:20250110T013927Z
 SUMMARY:Mega Gallade Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-gallade-raid-day/
@@ -49,15 +49,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-ho-oh-raid-day-january-2025
-DTSTAMP:20250109T020650Z
+DTSTAMP:20250110T013927Z
 SUMMARY:Shadow Ho-Oh Raid Day
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-ho-oh-raid-day-january-2025/
 URL:https://leekduck.com/events/shadow-ho-oh-raid-day-january-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  025/2025-01-19-shadow-ho-oh-raid-day-january-2025/shadow-ho-oh.jpg?v2
-DTSTART;TZID=Europe/Helsinki:20250119T060000
-DTEND;TZID=Europe/Helsinki:20250119T220000
+DTSTART;TZID=Europe/Helsinki:20250119T140000
+DTEND;TZID=Europe/Helsinki:20250119T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Shadow Ho-Oh Raid Day
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2025
-DTSTAMP:20250109T020650Z
+DTSTAMP:20250110T013927Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2025/
