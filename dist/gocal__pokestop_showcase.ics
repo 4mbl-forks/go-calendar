@@ -25,26 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240414T020650
+DTSTART:20240417T014457
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-poochyena-lillipup-rockruff-2025-01-06
-DTSTAMP:20250109T020650Z
-SUMMARY:Poochyena\, Lillipup\, Rockruff PokéStop Showcases
+UID:pokemon-showcase-furfrou-absol-butterfree-2025-01-11
+DTSTAMP:20250112T014457Z
+SUMMARY:Butterfree\, Absol\, and Furfrou PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-poochyena-lillipup-rockruff-2025-01-06/
-URL:https://leekduck.com/events/pokemon-showcase-poochyena-lillipup-rockruf
- f-2025-01-06/
+ /pokemon-showcase-furfrou-absol-butterfree-2025-01-11/
+URL:https://leekduck.com/events/pokemon-showcase-furfrou-absol-butterfree-2
+ 025-01-11/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250106
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250108
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250111
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250112
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Poochyena\, Lillipup\, Rockruff PokéStop Showcases
+DESCRIPTION:Butterfree\, Absol\, and Furfrou PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

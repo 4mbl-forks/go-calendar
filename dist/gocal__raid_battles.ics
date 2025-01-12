@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240416T013718
+DTSTART:20240417T014457
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-lopunny-in-mega-raids-january-2024
-DTSTAMP:20250111T013718Z
+DTSTAMP:20250112T014457Z
 SUMMARY:Mega Lopunny in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-lopunny-in-mega-raids-january-2024/
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:palkia-in-5-star-raid-battles-january-2025
-DTSTAMP:20250111T013718Z
+DTSTAMP:20250112T014457Z
 SUMMARY:Palkia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /palkia-in-5-star-raid-battles-january-2025/
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gallade-in-mega-raids-january-2024
-DTSTAMP:20250111T013718Z
+DTSTAMP:20250112T014457Z
 SUMMARY:Mega Gallade in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gallade-in-mega-raids-january-2024/
@@ -80,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-attack-forme-in-5-star-raid-battles-january-2025
-DTSTAMP:20250111T013718Z
+DTSTAMP:20250112T014457Z
 SUMMARY:Deoxys (Attack Fomre) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /deoxys-attack-forme-in-5-star-raid-battles-january-2025/
@@ -98,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-defense-forme-in-5-star-raid-battles-january-2025
-DTSTAMP:20250111T013718Z
+DTSTAMP:20250112T014457Z
 SUMMARY:Deoxys (Defense Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /deoxys-defense-forme-in-5-star-raid-battles-january-2025/
@@ -116,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-registeel-in-shadow-raids-dual-destiny
-DTSTAMP:20250111T013718Z
+DTSTAMP:20250112T014457Z
 SUMMARY:Shadow Registeel in Shadow Raids in January
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-registeel-in-shadow-raids-dual-destiny/
@@ -134,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2025-01-24-mega-medicham-in-mega-raids-january-2024md
-DTSTAMP:20250111T013718Z
+DTSTAMP:20250112T014457Z
 SUMMARY:Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /2025-01-24-mega-medicham-in-mega-raids-january-2024md/
@@ -151,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-january-2025
-DTSTAMP:20250111T013718Z
+DTSTAMP:20250112T014457Z
 SUMMARY:Dialga in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dialga-in-5-star-raid-battles-january-2025/
