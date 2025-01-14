@@ -25,32 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240418T014139
+DTSTART:20240419T012600
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-furfrou-absol-butterfree-2025-01-11
-DTSTAMP:20250113T014139Z
-SUMMARY:Butterfree\, Absol\, and Furfrou PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-furfrou-absol-butterfree-2025-01-11/
-URL:https://leekduck.com/events/pokemon-showcase-furfrou-absol-butterfree-2
- 025-01-11/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250111
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250112
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Butterfree\, Absol\, and Furfrou PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-wooper-blitzle-minccino-2025-01-13
-DTSTAMP:20250113T014139Z
+DTSTAMP:20250114T012600Z
 SUMMARY:Wooper\, Blitzle\, and Minccino PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-wooper-blitzle-minccino-2025-01-13/
