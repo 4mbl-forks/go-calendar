@@ -25,20 +25,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240422T012632
+DTSTART:20240423T012443
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2025-01-20
-DTSTAMP:20250117T012632Z
+DTSTAMP:20250118T012443Z
 SUMMARY:Dynamax Articuno during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-01-20/
 URL:https://leekduck.com/events/max-mondays-2025-01-20/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dynamax-articuno
+ .jpg
 DTSTART;TZID=Europe/Helsinki:20250120T180000
 DTEND;TZID=Europe/Helsinki:20250120T190000
 BEGIN:VALARM
@@ -49,13 +49,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-01-27
-DTSTAMP:20250117T012632Z
+DTSTAMP:20250118T012443Z
 SUMMARY:Dynamax Zapdos during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-01-27/
 URL:https://leekduck.com/events/max-mondays-2025-01-27/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dynamax-zapdos.j
+ pg
 DTSTART;TZID=Europe/Helsinki:20250127T180000
 DTEND;TZID=Europe/Helsinki:20250127T190000
 BEGIN:VALARM
@@ -66,13 +66,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-02-03
-DTSTAMP:20250117T012632Z
+DTSTAMP:20250118T012443Z
 SUMMARY:Dynamax Moltres during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-02-03/
 URL:https://leekduck.com/events/max-mondays-2025-02-03/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dynamax-moltres.
+ jpg
 DTSTART;TZID=Europe/Helsinki:20250203T180000
 DTEND;TZID=Europe/Helsinki:20250203T190000
 BEGIN:VALARM
