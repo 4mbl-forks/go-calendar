@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240423T012443
+DTSTART:20240424T014014
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gbl-dual-destiny_master-league_color-cup-great-league-edition
-DTSTAMP:20250118T012443Z
+DTSTAMP:20250119T014014Z
 SUMMARY:Master League and Color Cup: Great League Edition | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_master-league_color-cup-great-league-edition/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-2
-DTSTAMP:20250118T012443Z
+DTSTAMP:20250119T014014Z
 SUMMARY:Great League\, Ultra League\, and Master League | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_ultra-league_master-league-split-2/
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_jungle-cup-little-edition
-DTSTAMP:20250118T012443Z
+DTSTAMP:20250119T014014Z
 SUMMARY:Great League and Jungle Cup: Little Edition | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_jungle-cup-little-edition/
@@ -82,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-dual-destiny_ultra-league_love-cup-great-league-edition
-DTSTAMP:20250118T012443Z
+DTSTAMP:20250119T014014Z
 SUMMARY:Ultra League and Love Cup: Great League Edition | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_ultra-league_love-cup-great-league-edition/
@@ -100,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-dual-destiny_master-league_love-cup-great-league-edition
-DTSTAMP:20250118T012443Z
+DTSTAMP:20250119T014014Z
 SUMMARY:Master League and Love Cup: Great League Edition | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_master-league_love-cup-great-league-edition/
@@ -118,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250118T012443Z
+DTSTAMP:20250119T014014Z
 SUMMARY:Great League\, Ultra League\, and Master League | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_ultra-league_master-league-split-3/
@@ -136,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_master-league-mega-edition
-DTSTAMP:20250118T012443Z
+DTSTAMP:20250119T014014Z
 SUMMARY:Great League and Master League: Mega Edition | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_master-league-mega-edition/
