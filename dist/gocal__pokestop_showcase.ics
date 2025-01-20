@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240424T014014
+DTSTART:20240425T013609
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-sneasel-croagunk-2025-01-18
-DTSTAMP:20250119T014014Z
+DTSTAMP:20250120T013609Z
 SUMMARY:Sneasel and Croagunk PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-sneasel-croagunk-2025-01-18/
@@ -45,6 +45,24 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250119
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Sneasel and Croagunk PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-steel-type-pokemon-2025-01-20
+DTSTAMP:20250120T013609Z
+SUMMARY:Steel-type Pokémon PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-steel-type-pokemon-2025-01-20/
+URL:https://leekduck.com/events/pokemon-showcase-steel-type-pokemon-2025-01
+ -20/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250120
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250122
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Steel-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
