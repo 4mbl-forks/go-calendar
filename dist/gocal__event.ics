@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240427T013634
+DTSTART:20240428T012717
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:steeled-resolve
-DTSTAMP:20250122T013634Z
+DTSTAMP:20250123T012717Z
 SUMMARY:Steeled Resolve
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-dual-destiny
-DTSTAMP:20250122T013634Z
+DTSTAMP:20250123T012717Z
 SUMMARY:GO Battle Week: Dual Destiny
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-dual-destiny/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2025
-DTSTAMP:20250122T013634Z
+DTSTAMP:20250123T012717Z
 SUMMARY:Lunar New Year 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2025/
@@ -78,6 +78,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250202
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Lunar New Year 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:road-to-unova
+DTSTAMP:20250123T012717Z
+SUMMARY:Road to Unova
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /road-to-unova/
+URL:https://leekduck.com/events/road-to-unova/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-02-24-road-to-unova/road-to-unova.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250224
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Road to Unova
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

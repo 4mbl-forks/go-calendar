@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240427T013634
+DTSTART:20240428T012717
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-01-21
-DTSTAMP:20250122T013634Z
-SUMMARY:Paldean Wooper Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-01-21/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-01-21/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20250121T180000
-DTEND;TZID=Europe/Helsinki:20250121T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Paldean Wooper Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-28
-DTSTAMP:20250122T013634Z
+DTSTAMP:20250123T012717Z
 SUMMARY:Yungoos Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-28/
