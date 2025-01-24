@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240428T012717
+DTSTART:20240429T013459
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-28
-DTSTAMP:20250123T012717Z
+DTSTAMP:20250124T013459Z
 SUMMARY:Yungoos Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-28/
@@ -44,6 +44,74 @@ DTEND;TZID=Europe/Helsinki:20250128T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Yungoos Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-02-04
+DTSTAMP:20250124T013459Z
+SUMMARY:Carvanha Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-02-04/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-04/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250204T180000
+DTEND;TZID=Europe/Helsinki:20250204T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Carvanha Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-02-11
+DTSTAMP:20250124T013459Z
+SUMMARY:Luvdisc Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-02-11/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-11/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250211T180000
+DTEND;TZID=Europe/Helsinki:20250211T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Luvdisc Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-02-18
+DTSTAMP:20250124T013459Z
+SUMMARY:Inkay Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-02-18/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-18/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250218T180000
+DTEND;TZID=Europe/Helsinki:20250218T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inkay Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2024-02-25
+DTSTAMP:20250124T013459Z
+SUMMARY:Snivy\, Tepig\, and Oshawott Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2024-02-25/
+URL:https://leekduck.com/events/pokemonspotlighthour2024-02-25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250225T180000
+DTEND;TZID=Europe/Helsinki:20250225T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Snivy\, Tepig\, and Oshawott Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

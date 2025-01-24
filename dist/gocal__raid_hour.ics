@@ -25,30 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240428T012717
+DTSTART:20240429T013459
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20250122
-DTSTAMP:20250123T012717Z
-SUMMARY:Deoxys (Attack Forme) and Deoxys (Defense Forme) Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250122/
-URL:https://leekduck.com/events/raidhour20250122/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20250122T180000
-DTEND;TZID=Europe/Helsinki:20250122T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Deoxys (Attack Forme) and Deoxys (Defense Forme) Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20250129
-DTSTAMP:20250123T012717Z
+DTSTAMP:20250124T013459Z
 SUMMARY:Dialga Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250129/
@@ -64,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250205
-DTSTAMP:20250123T012717Z
+DTSTAMP:20250124T013459Z
 SUMMARY:Dialga Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250205/
@@ -75,6 +59,54 @@ DTEND;TZID=Europe/Helsinki:20250205T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dialga Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250212
+DTSTAMP:20250124T013459Z
+SUMMARY:Enamorus Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250212/
+URL:https://leekduck.com/events/raidhour20250212/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250212T180000
+DTEND;TZID=Europe/Helsinki:20250212T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enamorus Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250219
+DTSTAMP:20250124T013459Z
+SUMMARY:Yveltal and Xerneas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250219/
+URL:https://leekduck.com/events/raidhour20250219/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250219T180000
+DTEND;TZID=Europe/Helsinki:20250219T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yveltal and Xerneas Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250226
+DTSTAMP:20250124T013459Z
+SUMMARY:Genesect (All Forms) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250226/
+URL:https://leekduck.com/events/raidhour20250226/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250226T180000
+DTEND;TZID=Europe/Helsinki:20250226T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Genesect (All Forms) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

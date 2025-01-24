@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240428T012717
+DTSTART:20240429T013459
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-gallade-in-mega-raids-january-2024
-DTSTAMP:20250123T012717Z
+DTSTAMP:20250124T013459Z
 SUMMARY:Mega Gallade in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gallade-in-mega-raids-january-2024/
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-attack-forme-in-5-star-raid-battles-january-2025
-DTSTAMP:20250123T012717Z
+DTSTAMP:20250124T013459Z
 SUMMARY:Deoxys (Attack Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /deoxys-attack-forme-in-5-star-raid-battles-january-2025/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-defense-forme-in-5-star-raid-battles-january-2025
-DTSTAMP:20250123T012717Z
+DTSTAMP:20250124T013459Z
 SUMMARY:Deoxys (Defense Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /deoxys-defense-forme-in-5-star-raid-battles-january-2025/
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-registeel-in-shadow-raids-dual-destiny
-DTSTAMP:20250123T012717Z
+DTSTAMP:20250124T013459Z
 SUMMARY:Shadow Registeel in Shadow Raids in January
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-registeel-in-shadow-raids-dual-destiny/
@@ -101,13 +101,12 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2025-01-24-mega-medicham-in-mega-raids-january-2024md
-DTSTAMP:20250123T012717Z
+UID:mega-medicham-in-mega-raids-january-2025
+DTSTAMP:20250124T013459Z
 SUMMARY:Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /2025-01-24-mega-medicham-in-mega-raids-january-2024md/
-URL:https://leekduck.com/events/2025-01-24-mega-medicham-in-mega-raids-janu
- ary-2024md/
+ /mega-medicham-in-mega-raids-january-2025/
+URL:https://leekduck.com/events/mega-medicham-in-mega-raids-january-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250124
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250206
@@ -119,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-january-2025
-DTSTAMP:20250123T012717Z
+DTSTAMP:20250124T013459Z
 SUMMARY:Dialga in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dialga-in-5-star-raid-battles-january-2025/
@@ -130,6 +129,108 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250206
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dialga in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-tyranitar-in-mega-raids-february-2025
+DTSTAMP:20250124T013459Z
+SUMMARY:Mega Tyranitar in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-tyranitar-in-mega-raids-february-2025/
+URL:https://leekduck.com/events/mega-tyranitar-in-mega-raids-february-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250206
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250217
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Tyranitar in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:enamorus-in-5-star-raid-battles-february-2025
+DTSTAMP:20250124T013459Z
+SUMMARY:Enamorus in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /enamorus-in-5-star-raid-battles-february-2025/
+URL:https://leekduck.com/events/enamorus-in-5-star-raid-battles-february-20
+ 25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/enamorus-key.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250206
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250217
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enamorus in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xerneas-in-5-star-raid-battles-february-2025
+DTSTAMP:20250124T013459Z
+SUMMARY:Xerneas in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /xerneas-in-5-star-raid-battles-february-2025/
+URL:https://leekduck.com/events/xerneas-in-5-star-raid-battles-february-202
+ 5/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/xerneas-woods.jp
+ g
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250217
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Xerneas in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:yveltal-in-5-star-raid-battles-february-2025
+DTSTAMP:20250124T013459Z
+SUMMARY:Yveltal in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /yveltal-in-5-star-raid-battles-february-2025/
+URL:https://leekduck.com/events/yveltal-in-5-star-raid-battles-february-202
+ 5/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/yveltal-2.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250217
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Yveltal in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-regirock-in-shadow-raids-dual-destiny
+DTSTAMP:20250124T013459Z
+SUMMARY:Shadow Regirock in Shadow Raids in January
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-regirock-in-shadow-raids-dual-destiny/
+URL:https://leekduck.com/events/shadow-regirock-in-shadow-raids-dual-destin
+ y/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250203
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Regirock in Shadow Raids in January
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-garchomp-in-mega-raids-february-2025
+DTSTAMP:20250124T013459Z
+SUMMARY:Mega Garchomp in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-garchomp-in-mega-raids-february-2025/
+URL:https://leekduck.com/events/mega-garchomp-in-mega-raids-february-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250217
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Garchomp in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
