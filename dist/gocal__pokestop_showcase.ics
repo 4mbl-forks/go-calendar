@@ -25,26 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240428T012717
+DTSTART:20240430T012341
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-steel-type-pokemon-2025-01-20
-DTSTAMP:20250123T012717Z
-SUMMARY:Steel-type Pokémon PokéStop Showcases
+UID:pokemon-showcase-ralts-gardevoir-2025-01-25
+DTSTAMP:20250125T012341Z
+SUMMARY:Ralts and Gardevoir PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-steel-type-pokemon-2025-01-20/
-URL:https://leekduck.com/events/pokemon-showcase-steel-type-pokemon-2025-01
- -20/
+ /pokemon-showcase-ralts-gardevoir-2025-01-25/
+URL:https://leekduck.com/events/pokemon-showcase-ralts-gardevoir-2025-01-25
+ /
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250120
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250122
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250125
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250126
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Steel-type Pokémon PokéStop Showcases
+DESCRIPTION:Ralts and Gardevoir PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

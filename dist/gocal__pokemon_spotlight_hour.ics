@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240429T013459
+DTSTART:20240430T012341
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-01-28
-DTSTAMP:20250124T013459Z
+DTSTAMP:20250125T012341Z
 SUMMARY:Yungoos Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-01-28/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-04
-DTSTAMP:20250124T013459Z
+DTSTAMP:20250125T012341Z
 SUMMARY:Carvanha Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-04/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-11
-DTSTAMP:20250124T013459Z
+DTSTAMP:20250125T012341Z
 SUMMARY:Luvdisc Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-11/
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-18
-DTSTAMP:20250124T013459Z
+DTSTAMP:20250125T012341Z
 SUMMARY:Inkay Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-18/
@@ -100,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-25
-DTSTAMP:20250124T013459Z
+DTSTAMP:20250125T012341Z
 SUMMARY:Snivy\, Tepig\, and Oshawott Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-25/
