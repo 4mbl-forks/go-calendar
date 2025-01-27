@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240501T013709
+DTSTART:20240502T013629
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:steeled-resolve
-DTSTAMP:20250126T013709Z
+DTSTAMP:20250127T013629Z
 SUMMARY:Steeled Resolve
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-dual-destiny
-DTSTAMP:20250126T013709Z
+DTSTAMP:20250127T013629Z
 SUMMARY:GO Battle Week: Dual Destiny
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-dual-destiny/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2025
-DTSTAMP:20250126T013709Z
+DTSTAMP:20250127T013629Z
 SUMMARY:Lunar New Year 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2025/
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:small-yet-strong
-DTSTAMP:20250126T013709Z
+DTSTAMP:20250127T013629Z
 SUMMARY:Small Yet Strong
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /small-yet-strong/
@@ -100,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:beloved-buddies
-DTSTAMP:20250126T013709Z
+DTSTAMP:20250127T013629Z
 SUMMARY:Beloved Buddies
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /beloved-buddies/
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scattered-to-the-winds
-DTSTAMP:20250126T013709Z
+DTSTAMP:20250127T013629Z
 SUMMARY:Scattered to the Winds
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /scattered-to-the-winds/
@@ -134,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-unova
-DTSTAMP:20250126T013709Z
+DTSTAMP:20250127T013629Z
 SUMMARY:Road to Unova
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /road-to-unova/

@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240501T013709
+DTSTART:20240502T013629
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:january-communitydayclassic2025
-DTSTAMP:20250126T013709Z
-SUMMARY:Ralts Community Day Classic
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /january-communitydayclassic2025/
-URL:https://leekduck.com/events/january-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-01-25-january-communitydayclassic2025/ralts-cd-classic.jpg
-DTSTART;TZID=Europe/Helsinki:20250125T140000
-DTEND;TZID=Europe/Helsinki:20250125T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ralts Community Day Classic
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20250126T013709Z
+DTSTAMP:20250127T013629Z
 SUMMARY:February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2025/
