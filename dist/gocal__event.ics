@@ -25,48 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240502T013629
+DTSTART:20240503T012656
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:steeled-resolve
-DTSTAMP:20250127T013629Z
-SUMMARY:Steeled Resolve
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /steeled-resolve/
-URL:https://leekduck.com/events/steeled-resolve/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-01-21-steeled-resolve/steeled-resolve.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250121
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250126
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Steeled Resolve
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-battle-week-dual-destiny
-DTSTAMP:20250127T013629Z
-SUMMARY:GO Battle Week: Dual Destiny
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /go-battle-week-dual-destiny/
-URL:https://leekduck.com/events/go-battle-week-dual-destiny/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-21-dual-destiny.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250121
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250126
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:GO Battle Week: Dual Destiny
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:lunar-new-year-2025
-DTSTAMP:20250127T013629Z
+DTSTAMP:20250128T012656Z
 SUMMARY:Lunar New Year 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2025/
@@ -83,13 +49,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:small-yet-strong
-DTSTAMP:20250127T013629Z
+DTSTAMP:20250128T012656Z
 SUMMARY:Small Yet Strong
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /small-yet-strong/
 URL:https://leekduck.com/events/small-yet-strong/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-02-05-small-yet-strong/small-yet-strong.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250205
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250208
 BEGIN:VALARM
@@ -100,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:beloved-buddies
-DTSTAMP:20250127T013629Z
+DTSTAMP:20250128T012656Z
 SUMMARY:Beloved Buddies
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /beloved-buddies/
@@ -117,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scattered-to-the-winds
-DTSTAMP:20250127T013629Z
+DTSTAMP:20250128T012656Z
 SUMMARY:Scattered to the Winds
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /scattered-to-the-winds/
@@ -134,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-unova
-DTSTAMP:20250127T013629Z
+DTSTAMP:20250128T012656Z
 SUMMARY:Road to Unova
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /road-to-unova/
