@@ -25,24 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240503T012656
+DTSTART:20240504T012658
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:february-communityday2025
-DTSTAMP:20250128T012656Z
-SUMMARY:February Community Day
+DTSTAMP:20250129T012658Z
+SUMMARY:Karrablast and Shelmet Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2025/
 URL:https://leekduck.com/events/february-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-02-09-february-communityday2025/february-cd-karrablast-shelmet.jp
+ g
 DTSTART;TZID=Europe/Helsinki:20250209T140000
 DTEND;TZID=Europe/Helsinki:20250209T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:February Community Day
+DESCRIPTION:Karrablast and Shelmet Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
