@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240505T012601
+DTSTART:20240506T013452
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raid-day-february-2025
-DTSTAMP:20250130T012601Z
-SUMMARY:Raid Day
+UID:hoopa-unbound-raid-day
+DTSTAMP:20250131T013452Z
+SUMMARY:Hoopa Unbound Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-february-2025/
-URL:https://leekduck.com/events/raid-day-february-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /hoopa-unbound-raid-day/
+URL:https://leekduck.com/events/hoopa-unbound-raid-day/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-02-15-hoopa-unbound-raid-day/hoopa-unleashed-raid-day.jpg
 DTSTART;TZID=Europe/Helsinki:20250215T140000
 DTEND;TZID=Europe/Helsinki:20250215T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Raid Day
+DESCRIPTION:Hoopa Unbound Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
