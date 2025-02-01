@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240505T012601
+DTSTART:20240507T013918
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-rookidee-2025-01-27y
-DTSTAMP:20250130T012601Z
-SUMMARY:Rookidee PokéStop Showcases
+UID:pokemon-showcase-ekans-2025-02-01
+DTSTAMP:20250201T013918Z
+SUMMARY:Ekans PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-rookidee-2025-01-27y/
-URL:https://leekduck.com/events/pokemon-showcase-rookidee-2025-01-27y/
+ /pokemon-showcase-ekans-2025-02-01/
+URL:https://leekduck.com/events/pokemon-showcase-ekans-2025-02-01/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250127
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250129
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250201
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250202
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rookidee PokéStop Showcases
+DESCRIPTION:Ekans PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
