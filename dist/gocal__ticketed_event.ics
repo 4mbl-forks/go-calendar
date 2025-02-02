@@ -25,32 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240507T013918
+DTSTART:20240508T013831
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eggs-pedition-access-january-2025
-DTSTAMP:20250201T013918Z
-SUMMARY:Eggs-pedition Access: January
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /eggs-pedition-access-january-2025/
-URL:https://leekduck.com/events/eggs-pedition-access-january-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-01-01-eggs-pedition-access-january-2025/eggs-pedition-access-janu
- ary.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250101
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250131
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Eggs-pedition Access: January
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:eggs-pedition-access-february-2025
-DTSTAMP:20250201T013918Z
+DTSTAMP:20250202T013831Z
 SUMMARY:Eggs-pedition Access: February
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-february-2025/
