@@ -25,25 +25,28 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240512T013619
+DTSTART:20240515T013956
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-rookidee-2025-02-03
-DTSTAMP:20250206T013619Z
-SUMMARY:Joltik and Nymble PokéStop Showcases
+UID:pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08
+DTSTAMP:20250209T013956Z
+SUMMARY:Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop Showcase
+ s
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-rookidee-2025-02-03/
-URL:https://leekduck.com/events/pokemon-showcase-rookidee-2025-02-03/
+ /pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08/
+URL:https://leekduck.com/events/pokemon-showcase-karrablast-escavalier-shel
+ met-accelgor-2025-02-08/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250203
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250205
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250208
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250209
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Joltik and Nymble PokéStop Showcases
+DESCRIPTION:Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop Show
+ cases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
