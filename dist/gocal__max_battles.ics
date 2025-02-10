@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240515T013956
+DTSTART:20240516T013740
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:legendary-flight-max-battles
-DTSTAMP:20250209T013956Z
+DTSTAMP:20250210T013740Z
 SUMMARY:Legendary Flight
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /legendary-flight-max-battles/
@@ -50,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-1-2025
-DTSTAMP:20250209T013956Z
+DTSTAMP:20250210T013740Z
 SUMMARY:Max Battles - February 3 to February 10
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-1-2025/
@@ -67,7 +67,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-2-2025
-DTSTAMP:20250209T013956Z
+DTSTAMP:20250210T013740Z
 SUMMARY:Max Battles - February 10 to February 17
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-2-2025/
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-3-2025
-DTSTAMP:20250209T013956Z
+DTSTAMP:20250210T013740Z
 SUMMARY:Max Battles - February 17 to February 24
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-3-2025/
@@ -101,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-4-2025
-DTSTAMP:20250209T013956Z
+DTSTAMP:20250210T013740Z
 SUMMARY:Max Battles - February 24 to March 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-4-2025/
@@ -118,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-1-2025
-DTSTAMP:20250209T013956Z
+DTSTAMP:20250210T013740Z
 SUMMARY:Max Battles - March 3 to March 4
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-1-2025/
