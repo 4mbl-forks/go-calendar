@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240516T013740
+DTSTART:20240517T013618
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:small-yet-strong
-DTSTAMP:20250210T013740Z
-SUMMARY:Small Yet Strong
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /small-yet-strong/
-URL:https://leekduck.com/events/small-yet-strong/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-02-05-small-yet-strong/small-yet-strong.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250205
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250208
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Small Yet Strong
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:beloved-buddies
-DTSTAMP:20250210T013740Z
+DTSTAMP:20250211T013618Z
 SUMMARY:Beloved Buddies
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /beloved-buddies/
@@ -66,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:scattered-to-the-winds
-DTSTAMP:20250210T013740Z
+DTSTAMP:20250211T013618Z
 SUMMARY:Scattered to the Winds
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /scattered-to-the-winds/
@@ -83,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:road-to-unova
-DTSTAMP:20250210T013740Z
+DTSTAMP:20250211T013618Z
 SUMMARY:Road to Unova
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /road-to-unova/
@@ -95,6 +78,40 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250301
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Road to Unova
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:catch-mastery-march-2025
+DTSTAMP:20250211T013618Z
+SUMMARY:Catch Mastery March 2025
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /catch-mastery-march-2025/
+URL:https://leekduck.com/events/catch-mastery-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250316T100000
+DTEND;TZID=Europe/Helsinki:20250316T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Catch Mastery March 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hatch-day-april-2025
+DTSTAMP:20250211T013618Z
+SUMMARY:Hatch Day April 2025
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /hatch-day-april-2025/
+URL:https://leekduck.com/events/hatch-day-april-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250406T140000
+DTEND;TZID=Europe/Helsinki:20250406T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hatch Day April 2025
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

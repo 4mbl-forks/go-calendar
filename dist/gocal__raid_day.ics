@@ -21,18 +21,23 @@ DTSTART:20250330T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20251026T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240516T013740
+DTSTART:20240517T013618
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:hoopa-unbound-raid-day
-DTSTAMP:20250210T013740Z
+DTSTAMP:20250211T013618Z
 SUMMARY:Hoopa Unbound Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hoopa-unbound-raid-day/
@@ -44,6 +49,91 @@ DTEND;TZID=Europe/Helsinki:20250215T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hoopa Unbound Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-march-2025
+DTSTAMP:20250211T013618Z
+SUMMARY:Raid Day March 2025
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-march-2025/
+URL:https://leekduck.com/events/raid-day-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250323T140000
+DTEND;TZID=Europe/Helsinki:20250323T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day March 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-april-2025
+DTSTAMP:20250211T013618Z
+SUMMARY:Raid Day April 2025
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-april-2025/
+URL:https://leekduck.com/events/raid-day-april-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250405T140000
+DTEND;TZID=Europe/Helsinki:20250405T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day April 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-april-2025-2
+DTSTAMP:20250211T013618Z
+SUMMARY:Raid Day April 2025
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-april-2025-2/
+URL:https://leekduck.com/events/raid-day-april-2025-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250413T140000
+DTEND;TZID=Europe/Helsinki:20250413T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day April 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-may-2025
+DTSTAMP:20250211T013618Z
+SUMMARY:Raid Day May 2025
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-may-2025/
+URL:https://leekduck.com/events/raid-day-may-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250503T140000
+DTEND;TZID=Europe/Helsinki:20250503T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day May 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-raid-day-may-2025
+DTSTAMP:20250211T013618Z
+SUMMARY:Shadow Raid Day May 2025
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /shadow-raid-day-may-2025/
+URL:https://leekduck.com/events/shadow-raid-day-may-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250517T140000
+DTEND;TZID=Europe/Helsinki:20250517T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Raid Day May 2025
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

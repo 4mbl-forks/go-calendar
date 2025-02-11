@@ -25,28 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240516T013740
+DTSTART:20240517T013618
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08
-DTSTAMP:20250210T013740Z
-SUMMARY:Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop Showcase
- s
+UID:pokemon-showcase-ultra-buddy-best-buddy-2025-02-10
+DTSTAMP:20250211T013618Z
+SUMMARY:Ultra Buddy and Best Buddy PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-karrablast-escavalier-shelmet-accelgor-2025-02-08/
-URL:https://leekduck.com/events/pokemon-showcase-karrablast-escavalier-shel
- met-accelgor-2025-02-08/
+ /pokemon-showcase-ultra-buddy-best-buddy-2025-02-10/
+URL:https://leekduck.com/events/pokemon-showcase-ultra-buddy-best-buddy-202
+ 5-02-10/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250208
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250209
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250210
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250212
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Karrablast\, Escavalier\, Shelmet\, and Accelgor PokéStop Show
- cases
+DESCRIPTION:Ultra Buddy and Best Buddy PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
