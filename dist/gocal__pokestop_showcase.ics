@@ -25,26 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240520T013634
+DTSTART:20240521T013521
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-ultra-buddy-best-buddy-2025-02-10
-DTSTAMP:20250214T013634Z
-SUMMARY:Ultra Buddy and Best Buddy PokéStop Showcases
+UID:pokemon-showcase-enamorus-2025-02-15
+DTSTAMP:20250215T013521Z
+SUMMARY:Enamorus PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ultra-buddy-best-buddy-2025-02-10/
-URL:https://leekduck.com/events/pokemon-showcase-ultra-buddy-best-buddy-202
- 5-02-10/
+ /pokemon-showcase-enamorus-2025-02-15/
+URL:https://leekduck.com/events/pokemon-showcase-enamorus-2025-02-15/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250210
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250212
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250215
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250216
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ultra Buddy and Best Buddy PokéStop Showcases
+DESCRIPTION:Enamorus PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
