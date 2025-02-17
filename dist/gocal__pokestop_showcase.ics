@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240522T014315
+DTSTART:20240523T013953
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-enamorus-2025-02-15
-DTSTAMP:20250216T014315Z
+DTSTAMP:20250217T013953Z
 SUMMARY:Enamorus PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-enamorus-2025-02-15/
@@ -44,6 +44,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250216
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Enamorus PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-inkay-2025-02-17
+DTSTAMP:20250217T013953Z
+SUMMARY:Inkay PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-inkay-2025-02-17/
+URL:https://leekduck.com/events/pokemon-showcase-inkay-2025-02-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250217
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250219
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Inkay PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

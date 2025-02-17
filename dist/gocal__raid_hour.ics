@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240522T014315
+DTSTART:20240523T013953
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20250219
-DTSTAMP:20250216T014315Z
+DTSTAMP:20250217T013953Z
 SUMMARY:Yveltal and Xerneas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250219/
@@ -47,9 +47,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20250224
+DTSTAMP:20250217T013953Z
+SUMMARY:Genesect (All Drives) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250224/
+URL:https://leekduck.com/events/raidhour20250224/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250224T180000
+DTEND;TZID=Europe/Helsinki:20250224T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Genesect (All Drives) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250225
+DTSTAMP:20250217T013953Z
+SUMMARY:Cobalion\, Terrkion\, and Virizion Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250225/
+URL:https://leekduck.com/events/raidhour20250225/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250225T180000
+DTEND;TZID=Europe/Helsinki:20250225T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cobalion\, Terrkion\, and Virizion Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raidhour20250226
-DTSTAMP:20250216T014315Z
-SUMMARY:Genesect (All Forms) Raid Hour
+DTSTAMP:20250217T013953Z
+SUMMARY:Tornadus\, Thundurus\, and Landorus Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250226/
 URL:https://leekduck.com/events/raidhour20250226/
@@ -58,7 +90,39 @@ DTSTART;TZID=Europe/Helsinki:20250226T180000
 DTEND;TZID=Europe/Helsinki:20250226T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Genesect (All Forms) Raid Hour
+DESCRIPTION:Tornadus\, Thundurus\, and Landorus Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250227
+DTSTAMP:20250217T013953Z
+SUMMARY:Reshiram Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250227/
+URL:https://leekduck.com/events/raidhour20250227/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250227T180000
+DTEND;TZID=Europe/Helsinki:20250227T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reshiram Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250228
+DTSTAMP:20250217T013953Z
+SUMMARY:Zekrom Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250228/
+URL:https://leekduck.com/events/raidhour20250228/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250228T180000
+DTEND;TZID=Europe/Helsinki:20250228T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zekrom Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
