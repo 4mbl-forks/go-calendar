@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240525T013715
+DTSTART:20240526T013814
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-02-18
-DTSTAMP:20250219T013715Z
-SUMMARY:Inkay Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-02-18/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-02-18/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20250218T180000
-DTEND;TZID=Europe/Helsinki:20250218T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Inkay Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2024-02-25
-DTSTAMP:20250219T013715Z
+DTSTAMP:20250220T013814Z
 SUMMARY:Snivy\, Tepig\, and Oshawott Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-02-25/
