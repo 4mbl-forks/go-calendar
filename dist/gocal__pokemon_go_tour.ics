@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240528T013432
+DTSTART:20240529T014249
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-los-angeles-2025
-DTSTAMP:20250222T013432Z
+DTSTAMP:20250223T014249Z
 SUMMARY:[LA] Pokémon GO Tour: Unova - Los Angeles 2025
 DESCRIPTION:Starts at 09:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-los-angeles-2025/
@@ -50,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-new-taipei-city-2025
-DTSTAMP:20250222T013432Z
+DTSTAMP:20250223T014249Z
 SUMMARY:[NTC] Pokémon GO Tour: Unova - New Taipei City 2025
 DESCRIPTION:Starts at 09:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-new-taipei-city-2025/
@@ -68,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20250222T013432Z
+DTSTAMP:20250223T014249Z
 SUMMARY:Pokémon GO Tour: Unova - Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-unova-global-2025/
