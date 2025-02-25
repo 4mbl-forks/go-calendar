@@ -25,16 +25,16 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240530T014016
+DTSTART:20240531T013947
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:road-to-unova
-DTSTAMP:20250224T014016Z
+DTSTAMP:20250225T013947Z
 SUMMARY:Road to Unova
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /road-to-unova/
 URL:https://leekduck.com/events/road-to-unova/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-march-2025
-DTSTAMP:20250224T014016Z
+DTSTAMP:20250225T013947Z
 SUMMARY:Catch Mastery March 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-march-2025/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250224T014016Z
+DTSTAMP:20250225T013947Z
 SUMMARY:Hatch Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2025/
