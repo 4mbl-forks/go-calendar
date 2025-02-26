@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240531T013947
+DTSTART:20240601T013907
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:february-max-battles-split-3-2025
-DTSTAMP:20250225T013947Z
-SUMMARY:Max Battles - February 17 to February 24
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /february-max-battles-split-3-2025/
-URL:https://leekduck.com/events/february-max-battles-split-3-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
- battles.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250217
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250224
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Max Battles - February 17 to February 24
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:february-max-battles-split-4-2025
-DTSTAMP:20250225T013947Z
+DTSTAMP:20250226T013907Z
 SUMMARY:Max Battles - February 24 to March 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-4-2025/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-1-2025
-DTSTAMP:20250225T013947Z
+DTSTAMP:20250226T013907Z
 SUMMARY:Max Battles - March 3 to March 4
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-1-2025/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-weekend-march-2025
-DTSTAMP:20250225T013947Z
+DTSTAMP:20250226T013907Z
 SUMMARY:Max Battle Weekend March 2025
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-battle-weekend-march-2025/
@@ -105,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-april-2025
-DTSTAMP:20250225T013947Z
+DTSTAMP:20250226T013907Z
 SUMMARY:Max Battle Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-april-2025/
@@ -122,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250225T013947Z
+DTSTAMP:20250226T013907Z
 SUMMARY:Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
