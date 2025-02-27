@@ -25,32 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240601T013907
+DTSTART:20240602T013944
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-virizion-cobalion-terrakion-2025-02-25
-DTSTAMP:20250226T013907Z
-SUMMARY:Virizion\, Cobalion\, and Terrakion PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-virizion-cobalion-terrakion-2025-02-25/
-URL:https://leekduck.com/events/pokemon-showcase-virizion-cobalion-terrakio
- n-2025-02-25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki:20250225T100000
-DTEND;TZID=Europe/Helsinki:20250225T200000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Virizion\, Cobalion\, and Terrakion PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-tornadus-thundurus-landorus-2025-02-26
-DTSTAMP:20250226T013907Z
+DTSTAMP:20250227T013944Z
 SUMMARY:Tornadus\, Thundurus\, and Landorus PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-tornadus-thundurus-landorus-2025-02-26/
