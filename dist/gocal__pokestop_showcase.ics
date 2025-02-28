@@ -25,26 +25,42 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240602T013944
+DTSTART:20240603T013955
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-tornadus-thundurus-landorus-2025-02-26
-DTSTAMP:20250227T013944Z
-SUMMARY:Tornadus\, Thundurus\, and Landorus PokéStop Showcases
+UID:pokemon-showcase-reshiram-2025-02-27
+DTSTAMP:20250228T013955Z
+SUMMARY:Reshiram PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tornadus-thundurus-landorus-2025-02-26/
-URL:https://leekduck.com/events/pokemon-showcase-tornadus-thundurus-landoru
- s-2025-02-26/
+ /pokemon-showcase-reshiram-2025-02-27/
+URL:https://leekduck.com/events/pokemon-showcase-reshiram-2025-02-27/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki:20250226T100000
-DTEND;TZID=Europe/Helsinki:20250226T200000
+DTSTART;TZID=Europe/Helsinki:20250227T100000
+DTEND;TZID=Europe/Helsinki:20250227T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tornadus\, Thundurus\, and Landorus PokéStop Showcases
+DESCRIPTION:Reshiram PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-zekrom-2025-02-28
+DTSTAMP:20250228T013955Z
+SUMMARY:Zekrom PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-zekrom-2025-02-28/
+URL:https://leekduck.com/events/pokemon-showcase-zekrom-2025-02-28/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki:20250228T100000
+DTEND;TZID=Europe/Helsinki:20250228T200000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zekrom PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
