@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240605T014412
+DTSTART:20240606T014219
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:zekrom-in-5-star-raid-battles-february-2025
-DTSTAMP:20250302T014412Z
-SUMMARY:Zekrom in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /zekrom-in-5-star-raid-battles-february-2025/
-URL:https://leekduck.com/events/zekrom-in-5-star-raid-battles-february-2025
- /
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/zekrom2.jpg
-DTSTART;TZID=Europe/Helsinki:20250228T100000
-DTEND;TZID=Europe/Helsinki:20250301T100000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Zekrom in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-dual-destiny
-DTSTAMP:20250302T014412Z
+DTSTAMP:20250303T014219Z
 SUMMARY:Shadow Regirock in Shadow Raids in February
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-dual-destiny/
@@ -67,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2025
-DTSTAMP:20250302T014412Z
+DTSTAMP:20250303T014219Z
 SUMMARY:Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2025/

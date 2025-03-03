@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240605T014412
+DTSTART:20240606T014219
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:road-to-unova
-DTSTAMP:20250302T014412Z
-SUMMARY:Road to Unova
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /road-to-unova/
-URL:https://leekduck.com/events/road-to-unova/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-02-24-road-to-unova/road-to-unova.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250224
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250301
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Road to Unova
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:powerful-potential
-DTSTAMP:20250302T014412Z
+DTSTAMP:20250303T014219Z
 SUMMARY:Powerful Potential
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /powerful-potential/
@@ -66,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-march-2025
-DTSTAMP:20250302T014412Z
+DTSTAMP:20250303T014219Z
 SUMMARY:Catch Mastery March 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-march-2025/
@@ -83,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250302T014412Z
+DTSTAMP:20250303T014219Z
 SUMMARY:Hatch Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2025/
