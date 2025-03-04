@@ -25,24 +25,72 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240604T014517
+DTSTART:20240607T014124
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20250228
-DTSTAMP:20250301T014517Z
-SUMMARY:Zekrom Raid Hour
+UID:raidhour20250305
+DTSTAMP:20250304T014124Z
+SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250228/
-URL:https://leekduck.com/events/raidhour20250228/
+ /raidhour20250305/
+URL:https://leekduck.com/events/raidhour20250305/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20250228T180000
-DTEND;TZID=Europe/Helsinki:20250228T190000
+DTSTART;TZID=Europe/Helsinki:20250305T180000
+DTEND;TZID=Europe/Helsinki:20250305T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Zekrom Raid Hour
+DESCRIPTION:Articuno\, Zapdos\, and Moltres Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250312
+DTSTAMP:20250304T014124Z
+SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250312/
+URL:https://leekduck.com/events/raidhour20250312/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250312T180000
+DTEND;TZID=Europe/Helsinki:20250312T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Articuno\, Zapdos\, and Moltres Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250319
+DTSTAMP:20250304T014124Z
+SUMMARY:Tapu Koko Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250319/
+URL:https://leekduck.com/events/raidhour20250319/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250319T180000
+DTEND;TZID=Europe/Helsinki:20250319T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tapu Koko Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250326
+DTSTAMP:20250304T014124Z
+SUMMARY:Heatran Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250326/
+URL:https://leekduck.com/events/raidhour20250326/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250326T180000
+DTEND;TZID=Europe/Helsinki:20250326T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heatran Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

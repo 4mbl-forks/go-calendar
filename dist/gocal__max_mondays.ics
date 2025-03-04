@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240606T014219
+DTSTART:20240607T014124
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2025-03-03
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Dynamax Beldum during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-03-03/
@@ -44,6 +44,74 @@ DTEND;TZID=Europe/Helsinki:20250303T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Beldum during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-03-10
+DTSTAMP:20250304T014124Z
+SUMMARY:Dynamax Drilbur during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-03-10/
+URL:https://leekduck.com/events/max-mondays-2025-03-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250310T180000
+DTEND;TZID=Europe/Helsinki:20250310T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Drilbur during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-03-17
+DTSTAMP:20250304T014124Z
+SUMMARY:Dynamax Chansey during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-03-17/
+URL:https://leekduck.com/events/max-mondays-2025-03-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250317T180000
+DTEND;TZID=Europe/Helsinki:20250317T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Chansey during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-03-24
+DTSTAMP:20250304T014124Z
+SUMMARY:Dynamax Caterpie during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-03-24/
+URL:https://leekduck.com/events/max-mondays-2025-03-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250324T180000
+DTEND;TZID=Europe/Helsinki:20250324T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Caterpie during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-03-31
+DTSTAMP:20250304T014124Z
+SUMMARY:Dynamax Scorbunny during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-03-31/
+URL:https://leekduck.com/events/max-mondays-2025-03-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250331T180000
+DTEND;TZID=Europe/Helsinki:20250331T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Scorbunny during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

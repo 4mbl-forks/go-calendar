@@ -35,7 +35,7 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240606T014219
+DTSTART:20240607T014124
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -49,79 +49,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-tour-unova-global-2025
-DTSTAMP:20250303T014219Z
-SUMMARY:Pokémon GO Tour: Unova - Global
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-unova-global-2025/
-URL:https://leekduck.com/events/pokemon-go-tour-unova-global-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jp
- g
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250301
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250302
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pokémon GO Tour: Unova - Global
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-showcase-black-kyurem-white-kyurem-2025-03-01
-DTSTAMP:20250303T014219Z
-SUMMARY:Kyurem PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-black-kyurem-white-kyurem-2025-03-01/
-URL:https://leekduck.com/events/pokemon-showcase-black-kyurem-white-kyurem-
- 2025-03-01/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250301
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250302
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Kyurem PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:go-tour-unova-timed-research-codes
-DTSTAMP:20250303T014219Z
-SUMMARY:[Promo Code] Pokémon GO Tour Unova: Timed Research Codes
-DESCRIPTION:Starts at 09:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /go-tour-unova-timed-research-codes/
-URL:https://leekduck.com/events/go-tour-unova-timed-research-codes/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-02-21-go-tour-unova-timed-research-codes/unova-trivia.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250221
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250302
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[Promo Code] Pokémon GO Tour Unova: Timed Research Codes
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shadow-regirock-in-shadow-raids-dual-destiny
-DTSTAMP:20250303T014219Z
-SUMMARY:Shadow Regirock in Shadow Raids in February
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-regirock-in-shadow-raids-dual-destiny/
-URL:https://leekduck.com/events/shadow-regirock-in-shadow-raids-dual-destin
- y/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250203
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250302
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Shadow Regirock in Shadow Raids in February
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2025-03-03
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Dynamax Beldum during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-03-03/
@@ -138,7 +67,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-max-battles-split-4-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Max Battles - February 24 to March 3
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /february-max-battles-split-4-2025/
@@ -155,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-17-dual-destiny
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Dual Destiny
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-17-dual-destiny/
@@ -172,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-garchomp-in-mega-raids-february-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Mega Garchomp in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-garchomp-in-mega-raids-february-2025/
@@ -188,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-dual-destiny_great-league_master-league-mega-edition
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Great League and Master Premier | Dual Destiny
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-dual-destiny_great-league_master-league-mega-edition/
@@ -206,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2024-03-04
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Makuhita Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2024-03-04/
@@ -222,25 +151,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:march-max-battles-split-1-2025
-DTSTAMP:20250303T014219Z
-SUMMARY:Max Battles - March 3 to March 4
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /march-max-battles-split-1-2025/
-URL:https://leekduck.com/events/march-max-battles-split-1-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
- battles.jpg
-DTSTART;TZID=Europe/Helsinki:20250303T210000
-DTEND;TZID=Europe/Helsinki:20250304T210000
+UID:raidhour20250305
+DTSTAMP:20250304T014124Z
+SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250305/
+URL:https://leekduck.com/events/raidhour20250305/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250305T180000
+DTEND;TZID=Europe/Helsinki:20250305T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Max Battles - March 3 to March 4
+DESCRIPTION:Articuno\, Zapdos\, and Moltres Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-presents-25-x-go-tour-timed-research
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:[Promo Code] Pokémon Presents ’25 x GO Tour Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-presents-25-x-go-tour-timed-research/
@@ -259,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communityday2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Fuecoco Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2025/
@@ -276,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-weekend-march-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Max Battle Weekend March 2025
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /max-battle-weekend-march-2025/
@@ -292,8 +220,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-03-10
+DTSTAMP:20250304T014124Z
+SUMMARY:Dynamax Drilbur during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-03-10/
+URL:https://leekduck.com/events/max-mondays-2025-03-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250310T180000
+DTEND;TZID=Europe/Helsinki:20250310T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Drilbur during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:powerful-potential
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Powerful Potential
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /powerful-potential/
@@ -309,8 +254,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:march-max-battles-split-1-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Max Battles - March 3 to March 10
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /march-max-battles-split-1-2025/
+URL:https://leekduck.com/events/march-max-battles-split-1-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250303
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250310
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battles - March 3 to March 10
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-11
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Roselia Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-11/
@@ -326,25 +288,75 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:catch-mastery-march-2025
-DTSTAMP:20250303T014219Z
-SUMMARY:Catch Mastery March 2025
+UID:raidhour20250312
+DTSTAMP:20250304T014124Z
+SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250312/
+URL:https://leekduck.com/events/raidhour20250312/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250312T180000
+DTEND;TZID=Europe/Helsinki:20250312T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Articuno\, Zapdos\, and Moltres Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-lucario-in-mega-raids-march-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Mega Lucario in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-lucario-in-mega-raids-march-2025/
+URL:https://leekduck.com/events/mega-lucario-in-mega-raids-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250304
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250313
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Lucario in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:articuno-zapdos-moltres-in-5-star-raid-battles-march-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /articuno-zapdos-moltres-in-5-star-raid-battles-march-2025/
+URL:https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-batt
+ les-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/kanto-raid-day-2
+ 021-articuno-zapdos-moltres.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250304
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250313
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:catch-mastery-archen
+DTSTAMP:20250304T014124Z
+SUMMARY:Catch Mastery: Archen
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /catch-mastery-march-2025/
-URL:https://leekduck.com/events/catch-mastery-march-2025/
+ /catch-mastery-archen/
+URL:https://leekduck.com/events/catch-mastery-archen/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;TZID=Europe/Helsinki:20250316T100000
 DTEND;TZID=Europe/Helsinki:20250316T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Catch Mastery March 2025
+DESCRIPTION:Catch Mastery: Archen
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-raikou-battle-weekend
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Dynamax Raikou Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-raikou-battle-weekend/
@@ -360,8 +372,59 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2025-03-17
+DTSTAMP:20250304T014124Z
+SUMMARY:Dynamax Chansey during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-03-17/
+URL:https://leekduck.com/events/max-mondays-2025-03-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250317T180000
+DTEND;TZID=Europe/Helsinki:20250317T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Chansey during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-of-colors-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Festival of Colors 2025
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /festival-of-colors-2025/
+URL:https://leekduck.com/events/festival-of-colors-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-13-festival-of-colors-2025/festival-of-colors-2025.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250313
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Festival of Colors 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-max-battles-split-2-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Max Battles - March 10 to March 17
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /march-max-battles-split-2-2025/
+URL:https://leekduck.com/events/march-max-battles-split-2-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250310
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250317
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battles - March 10 to March 17
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-18
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Shellder Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-18/
@@ -377,8 +440,57 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20250319
+DTSTAMP:20250304T014124Z
+SUMMARY:Tapu Koko Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250319/
+URL:https://leekduck.com/events/raidhour20250319/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250319T180000
+DTEND;TZID=Europe/Helsinki:20250319T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tapu Koko Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-swampert-in-mega-raids-march-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Mega Swampert in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-swampert-in-mega-raids-march-2025/
+URL:https://leekduck.com/events/mega-swampert-in-mega-raids-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250313
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250322
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Swampert in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-koko-in-5-star-raid-battles-march-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Tapu Koko in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tapu-koko-in-5-star-raid-battles-march-2025/
+URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-march-2025
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/tapu-koko.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250313
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250322
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tapu Koko in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:march-communitydayclassic2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Totodile Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communitydayclassic2025/
@@ -394,25 +506,76 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raid-day-march-2025
-DTSTAMP:20250303T014219Z
-SUMMARY:Raid Day March 2025
+UID:mega-absol-raid-day
+DTSTAMP:20250304T014124Z
+SUMMARY:Mega Absol Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-march-2025/
-URL:https://leekduck.com/events/raid-day-march-2025/
+ /mega-absol-raid-day/
+URL:https://leekduck.com/events/mega-absol-raid-day/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;TZID=Europe/Helsinki:20250323T140000
 DTEND;TZID=Europe/Helsinki:20250323T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Raid Day March 2025
+DESCRIPTION:Mega Absol Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-03-24
+DTSTAMP:20250304T014124Z
+SUMMARY:Dynamax Caterpie during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-03-24/
+URL:https://leekduck.com/events/max-mondays-2025-03-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250324T180000
+DTEND;TZID=Europe/Helsinki:20250324T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Caterpie during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:deep-depths
+DTSTAMP:20250304T014124Z
+SUMMARY:Deep Depths
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /deep-depths/
+URL:https://leekduck.com/events/deep-depths/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250319
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250324
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deep Depths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-max-battles-split-3-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Max Battles - March 17 to March 24
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /march-max-battles-split-3-2025/
+URL:https://leekduck.com/events/march-max-battles-split-3-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250317
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250324
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battles - March 17 to March 24
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-25
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Cutiefly Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-25/
@@ -428,25 +591,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:research-day-march-2025
-DTSTAMP:20250303T014219Z
-SUMMARY:Research Day March 2025
+UID:raidhour20250326
+DTSTAMP:20250304T014124Z
+SUMMARY:Heatran Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250326/
+URL:https://leekduck.com/events/raidhour20250326/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250326T180000
+DTEND;TZID=Europe/Helsinki:20250326T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heatran Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fuzzy-buddy-research-day
+DTSTAMP:20250304T014124Z
+SUMMARY:Fuzzy Buddy Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /research-day-march-2025/
-URL:https://leekduck.com/events/research-day-march-2025/
+ /fuzzy-buddy-research-day/
+URL:https://leekduck.com/events/fuzzy-buddy-research-day/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;TZID=Europe/Helsinki:20250329T140000
 DTEND;TZID=Europe/Helsinki:20250329T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Research Day March 2025
+DESCRIPTION:Fuzzy Buddy Research Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
@@ -462,8 +641,127 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:bug-out
+DTSTAMP:20250304T014124Z
+SUMMARY:Bug Out
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /bug-out/
+URL:https://leekduck.com/events/bug-out/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250326
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250330
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bug Out
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-pinsir-in-mega-raids-march-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Mega Pinsir in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-pinsir-in-mega-raids-march-2025/
+URL:https://leekduck.com/events/mega-pinsir-in-mega-raids-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250322
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250331
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Pinsir in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:heatran-in-5-star-raid-battles-march-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Heatran in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /heatran-in-5-star-raid-battles-march-2025/
+URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/heatran-raids.jp
+ g
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250322
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250331
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heatran in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-03-31
+DTSTAMP:20250304T014124Z
+SUMMARY:Dynamax Scorbunny during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-03-31/
+URL:https://leekduck.com/events/max-mondays-2025-03-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250331T180000
+DTEND;TZID=Europe/Helsinki:20250331T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Scorbunny during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-max-battles-split-4-2025
+DTSTAMP:20250304T014124Z
+SUMMARY:Max Battles - March 24 to March 31
+DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /march-max-battles-split-4-2025/
+URL:https://leekduck.com/events/march-max-battles-split-4-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
+ battles.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250324
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250331
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battles - March 24 to March 31
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:power-up-ticket-march
+DTSTAMP:20250304T014124Z
+SUMMARY:Power Up Ticket: March
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /power-up-ticket-march/
+URL:https://leekduck.com/events/power-up-ticket-march/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-04-power-up-ticket-march/power-up-ticket-march.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250304
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250404
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Power Up Ticket: March
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-regice-in-shadow-raids-might-and-mastery
+DTSTAMP:20250304T014124Z
+SUMMARY:Shadow Regice in Shadow Raids in March
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-regice-in-shadow-raids-might-and-mastery/
+URL:https://leekduck.com/events/shadow-regice-in-shadow-raids-might-and-mas
+ tery/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250304
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250404
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Regice in Shadow Raids in March
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-april-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Raid Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025/
@@ -480,7 +778,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Hatch Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2025/
@@ -497,7 +795,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025-2
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Raid Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025-2/
@@ -514,7 +812,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-april-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Max Battle Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-april-2025/
@@ -531,7 +829,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2025/
@@ -547,7 +845,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -564,7 +862,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2025/
@@ -580,7 +878,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/
@@ -597,7 +895,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
@@ -613,7 +911,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
@@ -630,7 +928,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-18-might-and-mastery
-DTSTAMP:20250303T014219Z
+DTSTAMP:20250304T014124Z
 SUMMARY:Might and Mastery
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-18-might-and-mastery/
