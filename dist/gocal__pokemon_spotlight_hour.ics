@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240608T014100
+DTSTART:20240609T014119
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2024-03-04
-DTSTAMP:20250305T014100Z
-SUMMARY:Makuhita Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2024-03-04/
-URL:https://leekduck.com/events/pokemonspotlighthour2024-03-04/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20250304T180000
-DTEND;TZID=Europe/Helsinki:20250304T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Makuhita Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-11
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Roselia Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-11/
@@ -66,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-18
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Shellder Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-18/
@@ -83,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-25
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Cutiefly Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-25/

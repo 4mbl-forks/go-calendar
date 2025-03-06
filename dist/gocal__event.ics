@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240608T014100
+DTSTART:20240609T014119
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:powerful-potential
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Powerful Potential
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /powerful-potential/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-archen
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Catch Mastery: Archen
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-archen/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-colors-2025
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Festival of Colors 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-colors-2025/
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deep-depths
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Deep Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /deep-depths/
@@ -100,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Bug Out
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out/
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250305T014100Z
+DTSTAMP:20250306T014119Z
 SUMMARY:Hatch Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2025/
