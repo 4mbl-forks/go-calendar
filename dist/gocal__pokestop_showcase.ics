@@ -25,19 +25,19 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240612T012109
+DTSTART:20240613T011845
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-fuecoco-skeledirge-2025-03-01
-DTSTAMP:20250309T012109Z
+UID:pokemon-showcase-fuecoco-skeledirge-2025-03-08
+DTSTAMP:20250310T011845Z
 SUMMARY:Fuecoco and Skeledirge PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-fuecoco-skeledirge-2025-03-01/
+ /pokemon-showcase-fuecoco-skeledirge-2025-03-08/
 URL:https://leekduck.com/events/pokemon-showcase-fuecoco-skeledirge-2025-03
- -01/
+ -08/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250308
@@ -45,6 +45,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250309
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Fuecoco and Skeledirge PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-charcadet-2025-03-10
+DTSTAMP:20250310T011845Z
+SUMMARY:Charcadet PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-charcadet-2025-03-10/
+URL:https://leekduck.com/events/pokemon-showcase-charcadet-2025-03-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250310
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250311
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Charcadet PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

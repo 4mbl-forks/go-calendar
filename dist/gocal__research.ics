@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240612T012109
+DTSTART:20240613T011845
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-presents-25-x-go-tour-timed-research
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:[Promo Code] Pokémon Presents ’25 x GO Tour Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-presents-25-x-go-tour-timed-research/
@@ -51,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/

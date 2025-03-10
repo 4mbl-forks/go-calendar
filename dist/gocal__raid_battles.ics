@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240612T012109
+DTSTART:20240613T011845
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-lucario-in-mega-raids-march-2025
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:Mega Lucario in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-lucario-in-mega-raids-march-2025/
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:articuno-zapdos-moltres-in-5-star-raid-battles-march-2025
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /articuno-zapdos-moltres-in-5-star-raid-battles-march-2025/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-swampert-in-mega-raids-march-2025
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:Mega Swampert in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-swampert-in-mega-raids-march-2025/
@@ -82,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-march-2025
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-march-2025/
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pinsir-in-mega-raids-march-2025
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:Mega Pinsir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pinsir-in-mega-raids-march-2025/
@@ -115,7 +115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:heatran-in-5-star-raid-battles-march-2025
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /heatran-in-5-star-raid-battles-march-2025/
@@ -132,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regice-in-shadow-raids-might-and-mastery
-DTSTAMP:20250309T012109Z
+DTSTAMP:20250310T011845Z
 SUMMARY:Shadow Regice in Shadow Raids in March
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regice-in-shadow-raids-might-and-mastery/
