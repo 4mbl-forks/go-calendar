@@ -33,7 +33,7 @@ jobs:
         run: echo "date=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_OUTPUT
 
       - name: Determine next semver patch version
-        uses: reecetech/version-increment@2022.10.3
+        uses: reecetech/version-increment@2024.10.1
         id: version
         with:
           scheme: semver
