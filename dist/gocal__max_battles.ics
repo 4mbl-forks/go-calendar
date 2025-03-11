@@ -30,36 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240613T011845
+DTSTART:20240614T014150
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-venusaur-gigantamax-charizard-gigantamax-blastoise-return-to
- -max-battles
-DTSTAMP:20250310T011845Z
-SUMMARY:Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantamax Blastoi
- se in Max Battles
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gigantamax-venusaur-gigantamax-charizard-gigantamax-blastoise-return-to-m
- ax-battles/
-URL:https://leekduck.com/events/gigantamax-venusaur-gigantamax-charizard-gi
- gantamax-blastoise-return-to-max-battles/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-bigger-gigant
- amax.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250308
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250309
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Gigantamax Venusaur\, Gigantamax Charizard\, and Gigantamax Bla
- stoise in Max Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:march-max-battles-split-1-2025
-DTSTAMP:20250310T011845Z
+DTSTAMP:20250311T014150Z
 SUMMARY:Max Battles - March 3 to March 10
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-1-2025/
@@ -76,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-raikou-max-battle-weekend
-DTSTAMP:20250310T011845Z
+DTSTAMP:20250311T014150Z
 SUMMARY:Dynamax Raikou Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-raikou-max-battle-weekend/
@@ -93,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-2-2025
-DTSTAMP:20250310T011845Z
+DTSTAMP:20250311T014150Z
 SUMMARY:Max Battles - March 10 to March 17
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-2-2025/
@@ -110,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-3-2025
-DTSTAMP:20250310T011845Z
+DTSTAMP:20250311T014150Z
 SUMMARY:Max Battles - March 17 to March 24
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-3-2025/
@@ -127,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-4-2025
-DTSTAMP:20250310T011845Z
+DTSTAMP:20250311T014150Z
 SUMMARY:Max Battles - March 24 to March 31
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-4-2025/
@@ -144,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-april-2025
-DTSTAMP:20250310T011845Z
+DTSTAMP:20250311T014150Z
 SUMMARY:Max Battle Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-april-2025/
@@ -161,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250310T011845Z
+DTSTAMP:20250311T014150Z
 SUMMARY:Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
