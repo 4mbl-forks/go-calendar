@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240614T151125
+DTSTART:20240614T151229
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:dynamax-raikou-max-battle-weekend-timed-research
-DTSTAMP:20250311T151125Z
+DTSTAMP:20250311T151229Z
 SUMMARY:Dynamax Raikou Max Battle Weekend Timed Research
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-raikou-max-battle-weekend-timed-research/
@@ -51,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250311T151125Z
+DTSTAMP:20250311T151229Z
 SUMMARY:Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
