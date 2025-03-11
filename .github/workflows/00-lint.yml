@@ -50,5 +50,10 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add .
-          git commit -m "[GitHub Actions Bot: Generate Calendars]"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "[GitHub Actions Bot: Generate Calendars]"
+            git push
+          fi
