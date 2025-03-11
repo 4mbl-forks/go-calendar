@@ -30,7 +30,7 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240614T014150
+DTSTART:20240614T141002
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -44,25 +44,8 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2025-03-10
-DTSTAMP:20250311T014150Z
-SUMMARY:Dynamax Drilbur during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2025-03-10/
-URL:https://leekduck.com/events/max-mondays-2025-03-10/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20250310T180000
-DTEND;TZID=Europe/Helsinki:20250310T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Drilbur during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:powerful-potential
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Powerful Potential
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /powerful-potential/
@@ -79,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-1-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Max Battles - March 3 to March 10
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-1-2025/
@@ -96,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_willpower-cup-great-league-edition
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Great League and Willpower Cup: Great League Edition | Might and Ma
  stery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -116,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-11
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Roselia Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-11/
@@ -133,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-showcase-charcadet-2025-03-10
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Charcadet PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-charcadet-2025-03-10/
@@ -150,7 +133,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250312
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250312/
@@ -166,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-lucario-in-mega-raids-march-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Mega Lucario in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-lucario-in-mega-raids-march-2025/
@@ -182,7 +165,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:articuno-zapdos-moltres-in-5-star-raid-battles-march-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /articuno-zapdos-moltres-in-5-star-raid-battles-march-2025/
@@ -200,7 +183,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-archen
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Catch Mastery: Archen
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-archen/
@@ -217,7 +200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-raikou-max-battle-weekend-timed-research
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Dynamax Raikou Max Battle Weekend Timed Research
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-raikou-max-battle-weekend-timed-research/
@@ -236,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-raikou-max-battle-weekend
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Dynamax Raikou Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-raikou-max-battle-weekend/
@@ -253,7 +236,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-03-17
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Dynamax Chansey during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-03-17/
@@ -270,7 +253,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:festival-of-colors-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Festival of Colors 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /festival-of-colors-2025/
@@ -287,7 +270,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-2-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Max Battles - March 10 to March 17
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-2-2025/
@@ -304,7 +287,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_ultra-league_scroll-cup-great-league-edition
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Ultra League and Scroll Cup: Great League Edition | Might and Maste
  ry
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -324,7 +307,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-18
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Shellder Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-18/
@@ -341,7 +324,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250319
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Tapu Koko Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250319/
@@ -357,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-swampert-in-mega-raids-march-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Mega Swampert in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-swampert-in-mega-raids-march-2025/
@@ -373,7 +356,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-march-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-march-2025/
@@ -390,7 +373,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-communitydayclassic2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Totodile Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communitydayclassic2025/
@@ -407,7 +390,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-absol-raid-day
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Mega Absol Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-absol-raid-day/
@@ -424,7 +407,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-03-24
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Dynamax Caterpie during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-03-24/
@@ -441,7 +424,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:deep-depths
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Deep Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /deep-depths/
@@ -458,7 +441,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-3-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Max Battles - March 17 to March 24
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-3-2025/
@@ -475,7 +458,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_master-league_scroll-cup-great-league-edition
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Master League and Scroll Cup: Great League Edition | Might and Mast
  ery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -495,7 +478,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-25
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Cutiefly Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-25/
@@ -512,7 +495,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250326
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250326/
@@ -528,7 +511,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fuzzy-buddy-research-day
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Fuzzy Buddy Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /fuzzy-buddy-research-day/
@@ -545,7 +528,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
@@ -562,7 +545,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Bug Out
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out/
@@ -579,7 +562,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pinsir-in-mega-raids-march-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Mega Pinsir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pinsir-in-mega-raids-march-2025/
@@ -595,7 +578,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:heatran-in-5-star-raid-battles-march-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /heatran-in-5-star-raid-battles-march-2025/
@@ -612,7 +595,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-03-31
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Dynamax Scorbunny during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-03-31/
@@ -629,7 +612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-4-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Max Battles - March 24 to March 31
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-4-2025/
@@ -646,7 +629,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-1
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_ultra-league_master-league-split-1/
@@ -665,7 +648,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:power-up-ticket-march
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Power Up Ticket: March
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /power-up-ticket-march/
@@ -682,7 +665,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regice-in-shadow-raids-might-and-mastery
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Shadow Regice in Shadow Raids in March
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regice-in-shadow-raids-might-and-mastery/
@@ -700,7 +683,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Raid Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025/
@@ -717,7 +700,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Hatch Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2025/
@@ -734,7 +717,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_master-premier
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Great League and Master Premier | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_master-premier/
@@ -752,7 +735,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025-2
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Raid Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025-2/
@@ -769,7 +752,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_ultra-league_spring-cup-great-league-edition
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Ultra League and Spring Cup: Great League Edition | Might and Maste
  ry
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -789,7 +772,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-april-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Max Battle Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-april-2025/
@@ -806,7 +789,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_master-league_spring-cup-great-league-edition
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Master League and Spring Cup: Great League Edition | Might and Mast
  ery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -826,7 +809,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2025/
@@ -842,7 +825,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-2
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_ultra-league_master-league-split-2/
@@ -861,7 +844,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -878,7 +861,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_great-league-remix
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Great League and Great League Remix | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_great-league-remix/
@@ -896,7 +879,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2025/
@@ -912,7 +895,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_ultra-league_great-league-remix
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Ultra League and Great League Remix | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_ultra-league_great-league-remix/
@@ -930,7 +913,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/
@@ -947,7 +930,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_master-league_retro-cup-great-league-edition
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Master League and Retro Cup: Great League Edition | Might and Maste
  ry
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -967,7 +950,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
@@ -983,7 +966,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
@@ -1000,7 +983,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_catch-cup-great-league-edition
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Great League and Catch Cup: Great League Edition | Might and Master
  y
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -1020,7 +1003,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
@@ -1037,7 +1020,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-18-might-and-mastery
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Might and Mastery
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-18-might-and-mastery/
@@ -1054,7 +1037,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250311T014150Z
+DTSTAMP:20250311T141002Z
 SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_ultra-league_master-league-split-3/
