@@ -25,20 +25,21 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240616T014227
+DTSTART:20240617T014042
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fuzzy-buddy-research-day
-DTSTAMP:20250313T014227Z
+DTSTAMP:20250314T014042Z
 SUMMARY:Fuzzy Buddy Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /fuzzy-buddy-research-day/
 URL:https://leekduck.com/events/fuzzy-buddy-research-day/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-03-29-fuzzy-buddy-research-day/fuzzy-buddy-research-day-event.jpg
+ ?v3
 DTSTART;TZID=Europe/Helsinki:20250329T140000
 DTEND;TZID=Europe/Helsinki:20250329T170000
 BEGIN:VALARM
