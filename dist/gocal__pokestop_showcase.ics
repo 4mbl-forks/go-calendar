@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240620T014504
+DTSTART:20240621T014247
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-bruxish-2025-03-15
-DTSTAMP:20250317T014504Z
-SUMMARY:Bruxish PokéStop Showcases
+UID:pokemon-showcase-smeargle-2025-03-17
+DTSTAMP:20250318T014247Z
+SUMMARY:Smeargle PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-bruxish-2025-03-15/
-URL:https://leekduck.com/events/pokemon-showcase-bruxish-2025-03-15/
+ /pokemon-showcase-smeargle-2025-03-17/
+URL:https://leekduck.com/events/pokemon-showcase-smeargle-2025-03-17/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250315
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250316
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250317
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250318
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Bruxish PokéStop Showcases
+DESCRIPTION:Smeargle PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
