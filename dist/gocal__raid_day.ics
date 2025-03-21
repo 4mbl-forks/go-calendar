@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240623T014150
+DTSTART:20240624T014344
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-absol-raid-day
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Mega Absol Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-absol-raid-day/
@@ -53,25 +53,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raid-day-april-2025
-DTSTAMP:20250320T014150Z
-SUMMARY:Raid Day April 2025
+UID:mega-audino-raid-day
+DTSTAMP:20250321T014344Z
+SUMMARY:Mega Audino Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-april-2025/
-URL:https://leekduck.com/events/raid-day-april-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /mega-audino-raid-day/
+URL:https://leekduck.com/events/mega-audino-raid-day/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-05-mega-audino-raid-day/mega-audino-raid-day.jpg
 DTSTART;TZID=Europe/Helsinki:20250405T140000
 DTEND;TZID=Europe/Helsinki:20250405T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Raid Day April 2025
+DESCRIPTION:Mega Audino Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-april-2025-2
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Raid Day April 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2025-2/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/

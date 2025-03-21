@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240623T014150
+DTSTART:20240624T014344
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2025-03-18
-DTSTAMP:20250320T014150Z
-SUMMARY:Shellder Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2025-03-18/
-URL:https://leekduck.com/events/pokemonspotlighthour2025-03-18/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20250318T180000
-DTEND;TZID=Europe/Helsinki:20250318T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Shellder Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2025-03-25
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Cutiefly Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-03-25/

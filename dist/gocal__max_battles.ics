@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240623T014150
+DTSTART:20240624T014344
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:march-max-battles-split-3-2025
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Max Battles - March 17 to March 24
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-3-2025/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:march-max-battles-split-4-2025
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Max Battles - March 24 to March 31
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /march-max-battles-split-4-2025/
@@ -70,25 +70,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:max-battle-day-april-2025
-DTSTAMP:20250320T014150Z
-SUMMARY:Max Battle Day April 2025
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /max-battle-day-april-2025/
-URL:https://leekduck.com/events/max-battle-day-april-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki:20250419T140000
-DTEND;TZID=Europe/Helsinki:20250419T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Max Battle Day April 2025
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gigantamax-snorlax-max-battle-day
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Gigantamax Snorlax Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-snorlax-max-battle-day/
@@ -106,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-may-2025
-DTSTAMP:20250320T014150Z
+DTSTAMP:20250321T014344Z
 SUMMARY:Max Battle Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-may-2025/
