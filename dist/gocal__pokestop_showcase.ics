@@ -25,25 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240623T014150
+DTSTART:20240625T014105
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-smeargle-2025-03-17
-DTSTAMP:20250320T014150Z
-SUMMARY:Smeargle PokéStop Showcases
+UID:pokemon-showcase-totodile-feraligatr-2025-03-22
+DTSTAMP:20250322T014105Z
+SUMMARY:Totodile and Feraligatr PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-smeargle-2025-03-17/
-URL:https://leekduck.com/events/pokemon-showcase-smeargle-2025-03-17/
+ /pokemon-showcase-totodile-feraligatr-2025-03-22/
+URL:https://leekduck.com/events/pokemon-showcase-totodile-feraligatr-2025-0
+ 3-22/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250317
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250318
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250322
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250323
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Smeargle PokéStop Showcases
+DESCRIPTION:Totodile and Feraligatr PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
