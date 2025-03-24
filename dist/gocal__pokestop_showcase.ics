@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240626T014849
+DTSTART:20240627T014657
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-totodile-feraligatr-2025-03-22
-DTSTAMP:20250323T014849Z
+DTSTAMP:20250324T014657Z
 SUMMARY:Totodile and Feraligatr PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-totodile-feraligatr-2025-03-22/
@@ -45,6 +45,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250323
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Totodile and Feraligatr PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-nickit-2025-03-24
+DTSTAMP:20250324T014657Z
+SUMMARY:Nickit PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-nickit-2025-03-24/
+URL:https://leekduck.com/events/pokemon-showcase-nickit-2025-03-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250324
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250325
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nickit PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
