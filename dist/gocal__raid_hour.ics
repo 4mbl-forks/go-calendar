@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240627T014657
+DTSTART:20240628T014426
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20250326
-DTSTAMP:20250324T014657Z
+DTSTAMP:20250325T014426Z
 SUMMARY:Heatran Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250326/
@@ -43,6 +43,70 @@ DTEND;TZID=Europe/Helsinki:20250326T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Heatran Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250402
+DTSTAMP:20250325T014426Z
+SUMMARY:Tapu Lele Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250402/
+URL:https://leekduck.com/events/raidhour20250402/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250402T180000
+DTEND;TZID=Europe/Helsinki:20250402T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tapu Lele Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250409
+DTSTAMP:20250325T014426Z
+SUMMARY:Blacephalon Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250409/
+URL:https://leekduck.com/events/raidhour20250409/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250409T180000
+DTEND;TZID=Europe/Helsinki:20250409T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Blacephalon Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250416
+DTSTAMP:20250325T014426Z
+SUMMARY:Stakataka Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250416/
+URL:https://leekduck.com/events/raidhour20250416/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250416T180000
+DTEND;TZID=Europe/Helsinki:20250416T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stakataka Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250423
+DTSTAMP:20250325T014426Z
+SUMMARY:Cresselia Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250423/
+URL:https://leekduck.com/events/raidhour20250423/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250423T180000
+DTEND;TZID=Europe/Helsinki:20250423T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cresselia Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

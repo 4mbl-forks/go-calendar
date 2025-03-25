@@ -21,18 +21,23 @@ DTSTART:20250330T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20251026T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240627T014657
+DTSTART:20240628T014426
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-pinsir-in-mega-raids-march-2025
-DTSTAMP:20250324T014657Z
+DTSTAMP:20250325T014426Z
 SUMMARY:Mega Pinsir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pinsir-in-mega-raids-march-2025/
@@ -48,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:heatran-in-5-star-raid-battles-march-2025
-DTSTAMP:20250324T014657Z
+DTSTAMP:20250325T014426Z
 SUMMARY:Heatran in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /heatran-in-5-star-raid-battles-march-2025/
@@ -65,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regice-in-shadow-raids-might-and-mastery
-DTSTAMP:20250324T014657Z
+DTSTAMP:20250325T014426Z
 SUMMARY:Shadow Regice in Shadow Raids in March
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regice-in-shadow-raids-might-and-mastery/
@@ -78,6 +83,125 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250404
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Shadow Regice in Shadow Raids in March
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-registeel-in-shadow-raids-might-and-mastery
+DTSTAMP:20250325T014426Z
+SUMMARY:Shadow Registeel in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-registeel-in-shadow-raids-might-and-mastery/
+URL:https://leekduck.com/events/shadow-registeel-in-shadow-raids-might-and-
+ mastery/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250304
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250404
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Registeel in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-blaziken-in-mega-raids-march-2025
+DTSTAMP:20250325T014426Z
+SUMMARY:Mega Blaziken in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-blaziken-in-mega-raids-march-2025/
+URL:https://leekduck.com/events/mega-blaziken-in-mega-raids-march-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250331
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250409
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Blaziken in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-lele-in-5-star-raid-battles-march-2025
+DTSTAMP:20250325T014426Z
+SUMMARY:Tapu Lele in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /tapu-lele-in-5-star-raid-battles-march-2025/
+URL:https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-march-2025
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/tapu-lele.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250331
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250409
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tapu Lele in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:blacephalon-stakataka-in-5-star-raid-battles-april-2025
+DTSTAMP:20250325T014426Z
+SUMMARY:Blacephalon and Stakataka in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /blacephalon-stakataka-in-5-star-raid-battles-april-2025/
+URL:https://leekduck.com/events/blacephalon-stakataka-in-5-star-raid-battle
+ s-april-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/blacephalon-and-
+ stakataka.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250409
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250421
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Blacephalon and Stakataka in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-sceptile-in-mega-raids-april-2025
+DTSTAMP:20250325T014426Z
+SUMMARY:Mega Sceptile in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-sceptile-in-mega-raids-april-2025/
+URL:https://leekduck.com/events/mega-sceptile-in-mega-raids-april-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250409
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250421
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Sceptile in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-mawile-in-mega-raids-april-2025
+DTSTAMP:20250325T014426Z
+SUMMARY:Mega Mawile in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-mawile-in-mega-raids-april-2025/
+URL:https://leekduck.com/events/mega-mawile-in-mega-raids-april-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250421
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250501
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Mawile in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cresselia-in-5-star-raid-battles-april-2025
+DTSTAMP:20250325T014426Z
+SUMMARY:Cresselia in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /cresselia-in-5-star-raid-battles-april-2025/
+URL:https://leekduck.com/events/cresselia-in-5-star-raid-battles-april-2025
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/legendary-cresse
+ lia.png
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250421
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250501
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cresselia in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
