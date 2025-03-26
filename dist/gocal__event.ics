@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240628T014426
+DTSTART:20240629T014352
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:deep-depths
-DTSTAMP:20250325T014426Z
-SUMMARY:Deep Depths
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /deep-depths/
-URL:https://leekduck.com/events/deep-depths/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-19-deep-depths/deep-depths.jpg?v2
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250319
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250324
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Deep Depths
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:bug-out-2025
-DTSTAMP:20250325T014426Z
+DTSTAMP:20250326T014352Z
 SUMMARY:Bug Out 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out-2025/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tyrogue-hatch-day
-DTSTAMP:20250325T014426Z
+DTSTAMP:20250326T014352Z
 SUMMARY:Tyrogue Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /tyrogue-hatch-day/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stunning-styles
-DTSTAMP:20250325T014426Z
+DTSTAMP:20250326T014352Z
 SUMMARY:Stunning Styles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /stunning-styles/
@@ -105,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-into-spring-2025
-DTSTAMP:20250325T014426Z
+DTSTAMP:20250326T014352Z
 SUMMARY:Spring into Spring 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-into-spring-2025/
@@ -122,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannoucned-event-april-2025
-DTSTAMP:20250325T014426Z
+DTSTAMP:20250326T014352Z
 SUMMARY:Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannoucned-event-april-2025/
@@ -139,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sweet-discoveries-2025
-DTSTAMP:20250325T014426Z
+DTSTAMP:20250326T014352Z
 SUMMARY:Sweet Discoveries
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sweet-discoveries-2025/
@@ -156,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250325T014426Z
+DTSTAMP:20250326T014352Z
 SUMMARY:GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
