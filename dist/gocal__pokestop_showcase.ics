@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240630T014326
+DTSTART:20240702T014244
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-nickit-2025-03-24
-DTSTAMP:20250327T014326Z
-SUMMARY:Nickit PokéStop Showcases
+UID:pokemon-showcase-sizzlipede-2025-03-29
+DTSTAMP:20250329T014244Z
+SUMMARY:Sizzlipede PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-nickit-2025-03-24/
-URL:https://leekduck.com/events/pokemon-showcase-nickit-2025-03-24/
+ /pokemon-showcase-sizzlipede-2025-03-29/
+URL:https://leekduck.com/events/pokemon-showcase-sizzlipede-2025-03-29/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250324
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250325
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250329
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250330
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Nickit PokéStop Showcases
+DESCRIPTION:Sizzlipede PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
