@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240703T015107
+DTSTART:20240704T014927
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-sizzlipede-2025-03-29
-DTSTAMP:20250330T015107Z
+DTSTAMP:20250331T014927Z
 SUMMARY:Sizzlipede PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-sizzlipede-2025-03-29/
@@ -44,6 +44,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250330
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Sizzlipede PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-bug-type-2025-03-31
+DTSTAMP:20250331T014927Z
+SUMMARY:Bug-type Pokémon PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-bug-type-2025-03-31/
+URL:https://leekduck.com/events/pokemon-showcase-bug-type-2025-03-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250331
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250401
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bug-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
