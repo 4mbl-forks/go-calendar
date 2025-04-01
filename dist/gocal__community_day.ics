@@ -30,20 +30,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240704T014927
+DTSTART:20240705T015543
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:april-communityday2025
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:Vanillite Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2025/
 URL:https://leekduck.com/events/april-communityday2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-27-april-communityday2025/vanillite-cd-placeholder.jpg
+ 025/2025-04-27-april-communityday2025/vanillite-community-day.jpg
 DTSTART;TZID=Europe/Helsinki:20250427T140000
 DTEND;TZID=Europe/Helsinki:20250427T170000
 BEGIN:VALARM
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2025
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2025/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/

@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Research (R)
-X-WR-CALNAME:GO Calendar - Research (R)
-DESCRIPTION:All Pokémon GO Research events\, in your local time\, auto-upd
+NAME:GO Calendar - GO Pass (GP)
+X-WR-CALNAME:GO Calendar - GO Pass (GP)
+DESCRIPTION:All Pokémon GO GO Pass events\, in your local time\, auto-upda
+ ted and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
  ated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
- dated and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
@@ -36,19 +36,19 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:masterwork-research-a-dazzling-aria
+UID:go-pass-april-2025
 DTSTAMP:20250401T015543Z
-SUMMARY:Masterwork Research: A Dazzling Aria
+SUMMARY:GO Pass: April
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /masterwork-research-a-dazzling-aria/
-URL:https://leekduck.com/events/masterwork-research-a-dazzling-aria/
+ /go-pass-april-2025/
+URL:https://leekduck.com/events/go-pass-april-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-02-21-masterwork-research-a-dazzling-aria/shiny-meloetta.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250221
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250430
+ 025/2025-04-01-go-pass-april-2025/go-pass-april-2025.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250401
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250506
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Masterwork Research: A Dazzling Aria
+DESCRIPTION:GO Pass: April
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

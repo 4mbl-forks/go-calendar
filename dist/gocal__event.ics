@@ -30,31 +30,31 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240704T014927
+DTSTART:20240705T015543
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bug-out-2025
-DTSTAMP:20250331T014927Z
-SUMMARY:Bug Out 2025
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /bug-out-2025/
-URL:https://leekduck.com/events/bug-out-2025/
+UID:whats-that-pokeball-april-first
+DTSTAMP:20250401T015543Z
+SUMMARY:What's That Poké Ball?
+DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /whats-that-pokeball-april-first/
+URL:https://leekduck.com/events/whats-that-pokeball-april-first/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-26-bug-out-2025/bug-out-2025.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250326
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250330
+ 025/2025-04-01-whats-that-pokeball-april-first/whats-that-poke-ball.jpg
+DTSTART;TZID=Europe/Helsinki:20250401T000000
+DTEND;TZID=Europe/Helsinki:20250401T235959
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Bug Out 2025
+DESCRIPTION:What's That Poké Ball?
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tyrogue-hatch-day
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:Tyrogue Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /tyrogue-hatch-day/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:stunning-styles
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:Stunning Styles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /stunning-styles/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-into-spring-2025
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:Spring into Spring 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-into-spring-2025/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannoucned-event-april-2025
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannoucned-event-april-2025/
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sweet-discoveries-2025
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:Sweet Discoveries
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sweet-discoveries-2025/
@@ -139,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250331T014927Z
+DTSTAMP:20250401T015543Z
 SUMMARY:GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
