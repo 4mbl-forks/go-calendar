@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240705T015543
+DTSTART:20240706T014550
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2025-03-31
-DTSTAMP:20250401T015543Z
-SUMMARY:Dynamax Scorbunny during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2025-03-31/
-URL:https://leekduck.com/events/max-mondays-2025-03-31/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20250331T180000
-DTEND;TZID=Europe/Helsinki:20250331T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Scorbunny during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2025-04-07
-DTSTAMP:20250401T015543Z
+DTSTAMP:20250402T014550Z
 SUMMARY:Dynamax Passimian during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-07/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-04-14
-DTSTAMP:20250401T015543Z
+DTSTAMP:20250402T014550Z
 SUMMARY:Dynamax Wooloo during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-14/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-04-21
-DTSTAMP:20250401T015543Z
+DTSTAMP:20250402T014550Z
 SUMMARY:Dynamax Sobble during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-21/
@@ -105,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-04-28
-DTSTAMP:20250401T015543Z
+DTSTAMP:20250402T014550Z
 SUMMARY:Dynamax Falinks during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-04-28/
