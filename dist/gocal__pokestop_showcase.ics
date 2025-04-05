@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240706T014550
+DTSTART:20240709T014239
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-bug-type-2025-03-31
-DTSTAMP:20250402T014550Z
-SUMMARY:Bug-type Pokémon PokéStop Showcases
+UID:pokemon-showcase-audino-2025-04-05
+DTSTAMP:20250405T014239Z
+SUMMARY:Audino PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-bug-type-2025-03-31/
-URL:https://leekduck.com/events/pokemon-showcase-bug-type-2025-03-31/
+ /pokemon-showcase-audino-2025-04-05/
+URL:https://leekduck.com/events/pokemon-showcase-audino-2025-04-05/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250331
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250401
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250405
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250406
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Bug-type Pokémon PokéStop Showcases
+DESCRIPTION:Audino PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
