@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240709T014239
+DTSTART:20240710T014944
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:power-up-ticket-march
-DTSTAMP:20250405T014239Z
-SUMMARY:Power Up Ticket: March
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /power-up-ticket-march/
-URL:https://leekduck.com/events/power-up-ticket-march/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-04-power-up-ticket-march/power-up-ticket-march.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250304
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250404
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Power Up Ticket: March
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:power-up-ticket-april
-DTSTAMP:20250405T014239Z
+DTSTAMP:20250406T014944Z
 SUMMARY:Power Up Ticket: April
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /power-up-ticket-april/
