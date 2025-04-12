@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240713T014515
+DTSTART:20240716T014253
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-fighting-type-2025-04-07
-DTSTAMP:20250409T014515Z
-SUMMARY:Fighting-type PokéStop Showcases
+UID:pokemon-showcase-gossifleur-2025-04-12
+DTSTAMP:20250412T014253Z
+SUMMARY:Gossifleur PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-fighting-type-2025-04-07/
-URL:https://leekduck.com/events/pokemon-showcase-fighting-type-2025-04-07/
+ /pokemon-showcase-gossifleur-2025-04-12/
+URL:https://leekduck.com/events/pokemon-showcase-gossifleur-2025-04-12/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250407
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250408
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250412
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250413
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Fighting-type PokéStop Showcases
+DESCRIPTION:Gossifleur PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
