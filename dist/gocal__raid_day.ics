@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240718T014934
+DTSTART:20240719T014833
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sparring-partners-raid-day
-DTSTAMP:20250414T014934Z
-SUMMARY:Sparring Partners Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /sparring-partners-raid-day/
-URL:https://leekduck.com/events/sparring-partners-raid-day/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-13-sparring-partners-raid-day/sparring-partners-raid-day.jpg
-DTSTART;TZID=Europe/Helsinki:20250413T140000
-DTEND;TZID=Europe/Helsinki:20250413T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Sparring Partners Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raid-day-may-2025
-DTSTAMP:20250414T014934Z
+DTSTAMP:20250415T014833Z
 SUMMARY:Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2025/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2025
-DTSTAMP:20250414T014934Z
+DTSTAMP:20250415T014833Z
 SUMMARY:Shadow Raid Day May 2025
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2025/

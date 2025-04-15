@@ -30,14 +30,33 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240718T014934
+DTSTART:20240719T014833
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:gigantamax-snorlax-max-battle-day-lead-up-timed-research
+DTSTAMP:20250415T014833Z
+SUMMARY:Gigantamax Snorlax Lead Up Timed Research
+DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /gigantamax-snorlax-max-battle-day-lead-up-timed-research/
+URL:https://leekduck.com/events/gigantamax-snorlax-max-battle-day-lead-up-t
+ imed-research/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-14-gigantamax-snorlax-max-battle-day-lead-up-timed-research/gi
+ gantamax-snorlax-max-battle-day.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250414
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250419
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gigantamax Snorlax Lead Up Timed Research
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250414T014934Z
+DTSTAMP:20250415T014833Z
 SUMMARY:Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
