@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20240712T200000
+DTSTART:20240719T200000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,34 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240720T014809
+DTSTART:20240721T014633
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gbl-might-and-mastery_ultra-league_spring-cup-great-league-edition
-DTSTAMP:20250416T014809Z
-SUMMARY:Ultra League and Spring Cup: Great League Edition | Might and Maste
- ry
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-might-and-mastery_ultra-league_spring-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-might-and-mastery_ultra-league_spring-c
- up-great-league-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -ultra-league-machamp-swampert.jpg
-DTSTART;TZID=Z;VALUE=DATE:20250408
-DTEND;TZID=Z;VALUE=DATE:20250415
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ultra League and Spring Cup: Great League Edition | Might and M
- astery
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-might-and-mastery_master-league_spring-cup-great-league-edition
-DTSTAMP:20250416T014809Z
+DTSTAMP:20250417T014633Z
 SUMMARY:Master League and Spring Cup: Great League Edition | Might and Mast
  ery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -67,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-2
-DTSTAMP:20250416T014809Z
+DTSTAMP:20250417T014633Z
 SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_ultra-league_master-league-split-2/
@@ -86,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_great-league-remix
-DTSTAMP:20250416T014809Z
+DTSTAMP:20250417T014633Z
 SUMMARY:Great League and Great League Remix | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_great-league-remix/
@@ -104,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_ultra-league_great-league-remix
-DTSTAMP:20250416T014809Z
+DTSTAMP:20250417T014633Z
 SUMMARY:Ultra League and Great League Remix | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_ultra-league_great-league-remix/
@@ -122,7 +102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_master-league_retro-cup-great-league-edition
-DTSTAMP:20250416T014809Z
+DTSTAMP:20250417T014633Z
 SUMMARY:Master League and Retro Cup: Great League Edition | Might and Maste
  ry
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -142,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_catch-cup-great-league-edition
-DTSTAMP:20250416T014809Z
+DTSTAMP:20250417T014633Z
 SUMMARY:Great League and Catch Cup: Great League Edition | Might and Master
  y
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -162,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250416T014809Z
+DTSTAMP:20250417T014633Z
 SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_ultra-league_master-league-split-3/
