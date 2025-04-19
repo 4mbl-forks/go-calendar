@@ -25,25 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240720T014809
+DTSTART:20240723T014208
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-grass-type-2025-04-14
-DTSTAMP:20250416T014809Z
-SUMMARY:Grass-type PokéStop Showcases
+UID:pokemon-showcase-floragato-tinkatink-2025-04-19
+DTSTAMP:20250419T014208Z
+SUMMARY:Floragato and Tinkatink PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-grass-type-2025-04-14/
-URL:https://leekduck.com/events/pokemon-showcase-grass-type-2025-04-14/
+ /pokemon-showcase-floragato-tinkatink-2025-04-19/
+URL:https://leekduck.com/events/pokemon-showcase-floragato-tinkatink-2025-0
+ 4-19/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250414
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250415
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250419
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250420
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Grass-type PokéStop Showcases
+DESCRIPTION:Floragato and Tinkatink PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
