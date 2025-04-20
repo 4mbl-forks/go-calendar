@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240723T014208
+DTSTART:20240724T015254
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gigantamax-snorlax-max-battle-day-lead-up-timed-research
-DTSTAMP:20250419T014208Z
+DTSTAMP:20250420T015254Z
 SUMMARY:Gigantamax Snorlax Lead Up Timed Research
 DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-snorlax-max-battle-day-lead-up-timed-research/
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-horizons-bonus-liko-timed-research
-DTSTAMP:20250419T014208Z
+DTSTAMP:20250420T015254Z
 SUMMARY:Bonus Timed Research for Floragato wearing a hat with Liko's pin
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-bonus-liko-timed-research/
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250419T014208Z
+DTSTAMP:20250420T015254Z
 SUMMARY:Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/
