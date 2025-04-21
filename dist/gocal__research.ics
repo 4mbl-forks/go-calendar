@@ -30,33 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240724T015254
+DTSTART:20240725T015159
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-snorlax-max-battle-day-lead-up-timed-research
-DTSTAMP:20250420T015254Z
-SUMMARY:Gigantamax Snorlax Lead Up Timed Research
-DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-snorlax-max-battle-day-lead-up-timed-research/
-URL:https://leekduck.com/events/gigantamax-snorlax-max-battle-day-lead-up-t
- imed-research/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-14-gigantamax-snorlax-max-battle-day-lead-up-timed-research/gi
- gantamax-snorlax-max-battle-day.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250414
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250419
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Gigantamax Snorlax Lead Up Timed Research
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-horizons-bonus-liko-timed-research
-DTSTAMP:20250420T015254Z
+DTSTAMP:20250421T015159Z
 SUMMARY:Bonus Timed Research for Floragato wearing a hat with Liko's pin
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-horizons-bonus-liko-timed-research/
@@ -73,8 +54,27 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dynamax-entei-max-battle-day-lead-up-timed-research
+DTSTAMP:20250421T015159Z
+SUMMARY:Dynamax Entei Lead Up Timed Research
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /dynamax-entei-max-battle-day-lead-up-timed-research/
+URL:https://leekduck.com/events/dynamax-entei-max-battle-day-lead-up-timed-
+ research/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-04-21-dynamax-entei-max-battle-day-lead-up-timed-research/dynamax
+ -entei.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250421
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250427
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Entei Lead Up Timed Research
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250420T015254Z
+DTSTAMP:20250421T015159Z
 SUMMARY:Masterwork Research: A Dazzling Aria
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-dazzling-aria/

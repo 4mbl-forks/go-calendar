@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240724T015254
+DTSTART:20240725T015159
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-floragato-tinkatink-2025-04-19
-DTSTAMP:20250420T015254Z
+DTSTAMP:20250421T015159Z
 SUMMARY:Floragato and Tinkatink PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-floragato-tinkatink-2025-04-19/
@@ -45,6 +45,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250420
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Floragato and Tinkatink PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-pikachu-2025-04-21
+DTSTAMP:20250421T015159Z
+SUMMARY:Captain's Cap Pikachu PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-pikachu-2025-04-21/
+URL:https://leekduck.com/events/pokemon-showcase-pikachu-2025-04-21/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250421
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250422
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Captain's Cap Pikachu PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
