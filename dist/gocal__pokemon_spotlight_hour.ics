@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240727T014741
+DTSTART:20240728T014812
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2025-04-22
-DTSTAMP:20250423T014741Z
-SUMMARY:Morelull Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2025-04-22/
-URL:https://leekduck.com/events/pokemonspotlighthour2025-04-22/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20250422T180000
-DTEND;TZID=Europe/Helsinki:20250422T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Morelull Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2025-04-29
-DTSTAMP:20250423T014741Z
+DTSTAMP:20250424T014812Z
 SUMMARY:Abra Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-04-29/

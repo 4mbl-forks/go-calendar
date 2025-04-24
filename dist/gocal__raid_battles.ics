@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240727T014741
+DTSTART:20240728T014812
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-mawile-in-mega-raids-april-2025
-DTSTAMP:20250423T014741Z
+DTSTAMP:20250424T014812Z
 SUMMARY:Mega Mawile in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-mawile-in-mega-raids-april-2025/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-in-5-star-raid-battles-april-2025
-DTSTAMP:20250423T014741Z
+DTSTAMP:20250424T014812Z
 SUMMARY:Cresselia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /cresselia-in-5-star-raid-battles-april-2025/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-registeel-in-shadow-raids-might-and-mastery
-DTSTAMP:20250423T014741Z
+DTSTAMP:20250424T014812Z
 SUMMARY:Shadow Registeel in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-registeel-in-shadow-raids-might-and-mastery/

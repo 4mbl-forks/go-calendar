@@ -30,33 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240727T014741
+DTSTART:20240728T014812
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-horizons-the-series-celebration-event-2025
-DTSTAMP:20250423T014741Z
-SUMMARY:Pokémon Horizons: The Series Celebration Event
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-horizons-the-series-celebration-event-2025/
-URL:https://leekduck.com/events/pokemon-horizons-the-series-celebration-eve
- nt-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-16-pokemon-horizons-the-series-celebration-event-2025/pokemon-
- horizons-event.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250416
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250422
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pokémon Horizons: The Series Celebration Event
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sweet-discoveries-2025
-DTSTAMP:20250423T014741Z
+DTSTAMP:20250424T014812Z
 SUMMARY:Sweet Discoveries
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sweet-discoveries-2025/
@@ -73,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:growing-up
-DTSTAMP:20250423T014741Z
+DTSTAMP:20250424T014812Z
 SUMMARY:Growing Up
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /growing-up/
@@ -90,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:crown-clash
-DTSTAMP:20250423T014741Z
+DTSTAMP:20250424T014812Z
 SUMMARY:Crown Clash
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /crown-clash/
@@ -107,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-week-might-and-mastery
-DTSTAMP:20250423T014741Z
+DTSTAMP:20250424T014812Z
 SUMMARY:GO Battle Week: Might and Mastery
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-week-might-and-mastery/
