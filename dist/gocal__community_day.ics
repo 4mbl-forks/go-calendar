@@ -30,57 +30,90 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240729T014846
+DTSTART:20240817T015104
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:april-communityday2025
-DTSTAMP:20250425T014846Z
-SUMMARY:Vanillite Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /april-communityday2025/
-URL:https://leekduck.com/events/april-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-27-april-communityday2025/vanillite-community-day.jpg
-DTSTART;TZID=Europe/Helsinki:20250427T140000
-DTEND;TZID=Europe/Helsinki:20250427T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Vanillite Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:may-communityday2025
-DTSTAMP:20250425T014846Z
-SUMMARY:May Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /may-communityday2025/
-URL:https://leekduck.com/events/may-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-DTSTART;TZID=Europe/Helsinki:20250511T140000
-DTEND;TZID=Europe/Helsinki:20250511T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:May Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250425T014846Z
-SUMMARY:May Community Day Classic
+DTSTAMP:20250514T015104Z
+SUMMARY:Machop Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
 URL:https://leekduck.com/events/may-communitydayclassic2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-05-24-may-communitydayclassic2025/machop-community-day-classic-te
+ ase.jpg
 DTSTART;TZID=Europe/Helsinki:20250524T140000
 DTEND;TZID=Europe/Helsinki:20250524T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:May Community Day Classic
+DESCRIPTION:Machop Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:june-communityday2025
+DTSTAMP:20250514T015104Z
+SUMMARY:June Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /june-communityday2025/
+URL:https://leekduck.com/events/june-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20250621T140000
+DTEND;TZID=Europe/Helsinki:20250621T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:June Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:july-communitydayclassic2025
+DTSTAMP:20250514T015104Z
+SUMMARY:July Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /july-communitydayclassic2025/
+URL:https://leekduck.com/events/july-communitydayclassic2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250705
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250706
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:July Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:july-communityday2025
+DTSTAMP:20250514T015104Z
+SUMMARY:July Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /july-communityday2025/
+URL:https://leekduck.com/events/july-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20250720T140000
+DTEND;TZID=Europe/Helsinki:20250720T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:July Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:august-communityday2025
+DTSTAMP:20250514T015104Z
+SUMMARY:August Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /august-communityday2025/
+URL:https://leekduck.com/events/august-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20250830T140000
+DTEND;TZID=Europe/Helsinki:20250830T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:August Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

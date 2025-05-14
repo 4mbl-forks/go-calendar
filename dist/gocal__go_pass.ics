@@ -30,25 +30,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240729T014846
+DTSTART:20240817T015104
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:go-pass-april-2025
-DTSTAMP:20250425T014846Z
-SUMMARY:GO Pass: April
+UID:go-pass-may-2025
+DTSTAMP:20250514T015104Z
+SUMMARY:GO Pass: May
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /go-pass-april-2025/
-URL:https://leekduck.com/events/go-pass-april-2025/
+ /go-pass-may-2025/
+URL:https://leekduck.com/events/go-pass-may-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-01-go-pass-april-2025/go-pass-april-2025.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250401
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250506
+ 025/2025-05-06-go-pass-may-2025/go-pass-may-2025.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250506
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250603
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:GO Pass: April
+DESCRIPTION:GO Pass: May
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

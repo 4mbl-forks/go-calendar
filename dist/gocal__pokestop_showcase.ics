@@ -21,29 +21,35 @@ DTSTART:20250330T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20251026T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240727T014741
+DTSTART:20240817T015104
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-pikachu-2025-04-21
-DTSTAMP:20250423T014741Z
-SUMMARY:Captain's Cap Pikachu PokéStop Showcases
+UID:pokemon-showcase-nidoqueen-nidoking-2025-05-12
+DTSTAMP:20250514T015104Z
+SUMMARY:Nidoqueen and Nidoking PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-pikachu-2025-04-21/
-URL:https://leekduck.com/events/pokemon-showcase-pikachu-2025-04-21/
+ /pokemon-showcase-nidoqueen-nidoking-2025-05-12/
+URL:https://leekduck.com/events/pokemon-showcase-nidoqueen-nidoking-2025-05
+ -12/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250421
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250422
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250512
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250513
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Captain's Cap Pikachu PokéStop Showcases
+DESCRIPTION:Nidoqueen and Nidoking PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

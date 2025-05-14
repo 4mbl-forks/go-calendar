@@ -30,25 +30,42 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240729T014846
+DTSTART:20240817T015104
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2025-04-28
-DTSTAMP:20250425T014846Z
-SUMMARY:Dynamax Falinks during Max Monday
+UID:max-mondays-2025-05-19
+DTSTAMP:20250514T015104Z
+SUMMARY:Dynamax Sableye during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2025-04-28/
-URL:https://leekduck.com/events/max-mondays-2025-04-28/
+ /max-mondays-2025-05-19/
+URL:https://leekduck.com/events/max-mondays-2025-05-19/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=Europe/Helsinki:20250428T180000
-DTEND;TZID=Europe/Helsinki:20250428T190000
+DTSTART;TZID=Europe/Helsinki:20250519T180000
+DTEND;TZID=Europe/Helsinki:20250519T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dynamax Falinks during Max Monday
+DESCRIPTION:Dynamax Sableye during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-05-26
+DTSTAMP:20250514T015104Z
+SUMMARY:Dynamax Rookidee during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-05-26/
+URL:https://leekduck.com/events/max-mondays-2025-05-26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250526T180000
+DTEND;TZID=Europe/Helsinki:20250526T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Rookidee during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

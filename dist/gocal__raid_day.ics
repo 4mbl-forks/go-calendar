@@ -30,43 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240729T014846
+DTSTART:20240817T015104
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mega-kangaskhan-raid-day-april-2025
-DTSTAMP:20250425T014846Z
-SUMMARY:Mega Kangaskhan Raid Day
+UID:shadow-regigigigas-raid-day-may-2025
+DTSTAMP:20250514T015104Z
+SUMMARY:Shadow Regigigas Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-kangaskhan-raid-day-april-2025/
-URL:https://leekduck.com/events/mega-kangaskhan-raid-day-april-2025/
+ /shadow-regigigigas-raid-day-may-2025/
+URL:https://leekduck.com/events/shadow-regigigigas-raid-day-may-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-03-mega-kangaskhan-raid-day-april-2025/mega-kangaskhan-raid-da
- y.jpg
-DTSTART;TZID=Europe/Helsinki:20250503T140000
-DTEND;TZID=Europe/Helsinki:20250503T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Kangaskhan Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shadow-raid-day-may-2025
-DTSTAMP:20250425T014846Z
-SUMMARY:Shadow Raid Day May 2025
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /shadow-raid-day-may-2025/
-URL:https://leekduck.com/events/shadow-raid-day-may-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ 025/2025-05-17-shadow-regigigigas-raid-day-may-2025/shadow-regigigas-raid-
+ day.jpg
 DTSTART;TZID=Europe/Helsinki:20250517T140000
 DTEND;TZID=Europe/Helsinki:20250517T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Shadow Raid Day May 2025
+DESCRIPTION:Shadow Regigigas Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

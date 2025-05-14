@@ -30,24 +30,56 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240729T014846
+DTSTART:20240817T015104
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20250430
-DTSTAMP:20250425T014846Z
-SUMMARY:Cresselia Raid Hour
+UID:raidhour20250514
+DTSTAMP:20250514T015104Z
+SUMMARY:Uxie\, Mesprit\, and Azelf Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250430/
-URL:https://leekduck.com/events/raidhour20250430/
+ /raidhour20250514/
+URL:https://leekduck.com/events/raidhour20250514/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20250430T180000
-DTEND;TZID=Europe/Helsinki:20250430T190000
+DTSTART;TZID=Europe/Helsinki:20250514T180000
+DTEND;TZID=Europe/Helsinki:20250514T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Cresselia Raid Hour
+DESCRIPTION:Uxie\, Mesprit\, and Azelf Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250521
+DTSTAMP:20250514T015104Z
+SUMMARY:Uxie\, Mesprit\, and Azelf Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250521/
+URL:https://leekduck.com/events/raidhour20250521/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250521T180000
+DTEND;TZID=Europe/Helsinki:20250521T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Uxie\, Mesprit\, and Azelf Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250528
+DTSTAMP:20250514T015104Z
+SUMMARY:Tapu Bulu Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250528/
+URL:https://leekduck.com/events/raidhour20250528/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250528T180000
+DTEND;TZID=Europe/Helsinki:20250528T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tapu Bulu Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
