@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240817T015104
+DTSTART:20240818T014914
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2025-05-02
-DTSTAMP:20250514T015104Z
-SUMMARY:Sandygast Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2025-05-02/
-URL:https://leekduck.com/events/pokemonspotlighthour2025-05-02/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20250513T180000
-DTEND;TZID=Europe/Helsinki:20250513T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Sandygast Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-03
-DTSTAMP:20250514T015104Z
+DTSTAMP:20250515T014914Z
 SUMMARY:Poochyena Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-03/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-04
-DTSTAMP:20250514T015104Z
+DTSTAMP:20250515T014914Z
 SUMMARY:Golett Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-04/
