@@ -30,26 +30,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240817T015104
+DTSTART:20240821T015753
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-nidoqueen-nidoking-2025-05-12
-DTSTAMP:20250514T015104Z
-SUMMARY:Nidoqueen and Nidoking PokéStop Showcases
+UID:pokemon-showcase-regigigas-2025-05-17
+DTSTAMP:20250518T015753Z
+SUMMARY:Regigigas PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-nidoqueen-nidoking-2025-05-12/
-URL:https://leekduck.com/events/pokemon-showcase-nidoqueen-nidoking-2025-05
- -12/
+ /pokemon-showcase-regigigas-2025-05-17/
+URL:https://leekduck.com/events/pokemon-showcase-regigigas-2025-05-17/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250512
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250513
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250517
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250518
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Nidoqueen and Nidoking PokéStop Showcases
+DESCRIPTION:Regigigas PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
