@@ -30,44 +30,27 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240729T014846
+DTSTART:20240823T015308
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dynamax-entei-max-battle-day-lead-up-timed-research
-DTSTAMP:20250425T014846Z
-SUMMARY:Dynamax Entei Lead Up Timed Research
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /dynamax-entei-max-battle-day-lead-up-timed-research/
-URL:https://leekduck.com/events/dynamax-entei-max-battle-day-lead-up-timed-
- research/
+UID:gigantamax-machamp-max-battle-day-lead-up-timed-research
+DTSTAMP:20250520T015308Z
+SUMMARY:Gigantamax Machamp Lead Up Timed Research
+DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /gigantamax-machamp-max-battle-day-lead-up-timed-research/
+URL:https://leekduck.com/events/gigantamax-machamp-max-battle-day-lead-up-t
+ imed-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-04-21-dynamax-entei-max-battle-day-lead-up-timed-research/dynamax
- -entei.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250421
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250427
+ 025/2025-05-19-gigantamax-machamp-max-battle-day-lead-up-timed-research/gi
+ gantamax-machamp-max-battles.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250519
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250525
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dynamax Entei Lead Up Timed Research
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:masterwork-research-a-dazzling-aria
-DTSTAMP:20250425T014846Z
-SUMMARY:Masterwork Research: A Dazzling Aria
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /masterwork-research-a-dazzling-aria/
-URL:https://leekduck.com/events/masterwork-research-a-dazzling-aria/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-02-21-masterwork-research-a-dazzling-aria/shiny-meloetta.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250221
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250430
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Masterwork Research: A Dazzling Aria
+DESCRIPTION:Gigantamax Machamp Lead Up Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

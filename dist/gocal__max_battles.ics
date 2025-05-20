@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240822T015702
+DTSTART:20240823T015308
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:may-max-battles-split-3-2025
-DTSTAMP:20250519T015702Z
-SUMMARY:Max Battles - May 12 to May 19
-DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
- /may-max-battles-split-3-2025/
-URL:https://leekduck.com/events/may-max-battles-split-3-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
- battles.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250512
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250519
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Max Battles - May 12 to May 19
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gigantamax-machamp-max-battle-day-may-2025
-DTSTAMP:20250519T015702Z
+DTSTAMP:20250520T015308Z
 SUMMARY:Gigantamax Machamp Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-machamp-max-battle-day-may-2025/
@@ -72,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-4-2025
-DTSTAMP:20250519T015702Z
+DTSTAMP:20250520T015308Z
 SUMMARY:Max Battles - May 19 to May 26
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-4-2025/
@@ -89,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-max-battles-split-5-2025
-DTSTAMP:20250519T015702Z
+DTSTAMP:20250520T015308Z
 SUMMARY:Max Battles - May 26 to June 2
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /may-max-battles-split-5-2025/
