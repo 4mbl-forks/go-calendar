@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240824T015234
+DTSTART:20240825T015208
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:may-communitydayclassic2025
-DTSTAMP:20250521T015234Z
+DTSTAMP:20250522T015208Z
 SUMMARY:Machop Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2025/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:june-communityday2025
-DTSTAMP:20250521T015234Z
+DTSTAMP:20250522T015208Z
 SUMMARY:June Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2025/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communitydayclassic2025
-DTSTAMP:20250521T015234Z
+DTSTAMP:20250522T015208Z
 SUMMARY:July Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communitydayclassic2025/
@@ -87,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2025
-DTSTAMP:20250521T015234Z
+DTSTAMP:20250522T015208Z
 SUMMARY:July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2025/
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250521T015234Z
+DTSTAMP:20250522T015208Z
 SUMMARY:August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/
