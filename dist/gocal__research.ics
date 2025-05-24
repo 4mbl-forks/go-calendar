@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240826T015152
+DTSTART:20240827T014751
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gigantamax-machamp-max-battle-day-lead-up-timed-research
-DTSTAMP:20250523T015152Z
+DTSTAMP:20250524T014751Z
 SUMMARY:Gigantamax Machamp Lead Up Timed Research
 DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-machamp-max-battle-day-lead-up-timed-research/
