@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240829T015542
+DTSTART:20240830T015101
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-machop-machamp-2025-05-24
-DTSTAMP:20250526T015542Z
-SUMMARY:Machop and Machamp PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-machop-machamp-2025-05-24/
-URL:https://leekduck.com/events/pokemon-showcase-machop-machamp-2025-05-24/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250524
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250525
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Machop and Machamp PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-water-and-dark-type-2025-05-26
-DTSTAMP:20250526T015542Z
+DTSTAMP:20250527T015101Z
 SUMMARY:Water- and Dark-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-water-and-dark-type-2025-05-26/
