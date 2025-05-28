@@ -30,25 +30,93 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240830T015101
+DTSTART:20240831T015310
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2025-05-26
-DTSTAMP:20250527T015101Z
-SUMMARY:Dynamax Rookidee during Max Monday
+UID:max-mondays-2025-06-02
+DTSTAMP:20250528T015310Z
+SUMMARY:Dynamax Chansey during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2025-05-26/
-URL:https://leekduck.com/events/max-mondays-2025-05-26/
+ /max-mondays-2025-06-02/
+URL:https://leekduck.com/events/max-mondays-2025-06-02/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=Europe/Helsinki:20250526T180000
-DTEND;TZID=Europe/Helsinki:20250526T190000
+DTSTART;TZID=Europe/Helsinki:20250602T180000
+DTEND;TZID=Europe/Helsinki:20250602T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dynamax Rookidee during Max Monday
+DESCRIPTION:Dynamax Chansey during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-06-09
+DTSTAMP:20250528T015310Z
+SUMMARY:Dynamax Machop during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-06-09/
+URL:https://leekduck.com/events/max-mondays-2025-06-09/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250609T180000
+DTEND;TZID=Europe/Helsinki:20250609T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Machop during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-06-16
+DTSTAMP:20250528T015310Z
+SUMMARY:Dynamax Hatenna during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-06-16/
+URL:https://leekduck.com/events/max-mondays-2025-06-16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250616T180000
+DTEND;TZID=Europe/Helsinki:20250616T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Hatenna during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-06-23
+DTSTAMP:20250528T015310Z
+SUMMARY:Dynamax Caterpie during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-06-23/
+URL:https://leekduck.com/events/max-mondays-2025-06-23/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250623T180000
+DTEND;TZID=Europe/Helsinki:20250623T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Caterpie during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-06-30
+DTSTAMP:20250528T015310Z
+SUMMARY:Dynamax Shuckle during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-06-30/
+URL:https://leekduck.com/events/max-mondays-2025-06-30/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250630T180000
+DTEND;TZID=Europe/Helsinki:20250630T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Shuckle during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

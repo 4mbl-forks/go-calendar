@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240830T015101
+DTSTART:20240831T015310
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-05-04
-DTSTAMP:20250527T015101Z
+DTSTAMP:20250528T015310Z
 SUMMARY:Golett Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-05-04/
@@ -49,6 +49,74 @@ DTEND;TZID=Europe/Helsinki:20250527T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Golett Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-01-copy
+DTSTAMP:20250528T015310Z
+SUMMARY:Spritzee Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-06-01-copy/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-01-copy/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250603T180000
+DTEND;TZID=Europe/Helsinki:20250603T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spritzee Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-10
+DTSTAMP:20250528T015310Z
+SUMMARY:Magnemite Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-06-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250610T180000
+DTEND;TZID=Europe/Helsinki:20250610T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Magnemite Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-17
+DTSTAMP:20250528T015310Z
+SUMMARY:Solosis Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-06-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250617T180000
+DTEND;TZID=Europe/Helsinki:20250617T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Solosis Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-06-24
+DTSTAMP:20250528T015310Z
+SUMMARY:Growlithe Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-06-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-06-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250624T180000
+DTEND;TZID=Europe/Helsinki:20250624T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Growlithe Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
