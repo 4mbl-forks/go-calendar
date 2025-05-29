@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20240823T200000
+DTSTART:20240830T200000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,34 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240831T015310
+DTSTART:20240901T015253
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gbl-might-and-mastery_great-league_catch-cup-great-league-edition
-DTSTAMP:20250528T015310Z
-SUMMARY:Great League and Catch Cup: Great League Edition | Might and Master
- y
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-might-and-mastery_great-league_catch-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-might-and-mastery_great-league_catch-cu
- p-great-league-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
- ague-key.jpg
-DTSTART;TZID=Z;VALUE=DATE:20250520
-DTEND;TZID=Z;VALUE=DATE:20250527
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Great League and Catch Cup: Great League Edition | Might and Ma
- stery
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-might-and-mastery_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250528T015310Z
+DTSTAMP:20250529T015253Z
 SUMMARY:Great League\, Ultra League\, and Master League | Might and Mastery
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-might-and-mastery_great-league_ultra-league_master-league-split-3/
