@@ -30,24 +30,152 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240901T015253
+DTSTART:20240902T015042
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20250528
-DTSTAMP:20250529T015253Z
+UID:raidhour20250604
+DTSTAMP:20250530T015042Z
 SUMMARY:Tapu Bulu Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250528/
-URL:https://leekduck.com/events/raidhour20250528/
+ /raidhour20250604/
+URL:https://leekduck.com/events/raidhour20250604/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20250528T180000
-DTEND;TZID=Europe/Helsinki:20250528T190000
+DTSTART;TZID=Europe/Helsinki:20250604T180000
+DTEND;TZID=Europe/Helsinki:20250604T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tapu Bulu Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250611
+DTSTAMP:20250530T015042Z
+SUMMARY:Groudon Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250611/
+URL:https://leekduck.com/events/raidhour20250611/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250611T180000
+DTEND;TZID=Europe/Helsinki:20250611T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Groudon Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250618
+DTSTAMP:20250530T015042Z
+SUMMARY:Kyogre Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250618/
+URL:https://leekduck.com/events/raidhour20250618/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250618T180000
+DTEND;TZID=Europe/Helsinki:20250618T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kyogre Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250623
+DTSTAMP:20250530T015042Z
+SUMMARY:Regirock\, Regice &amp\; Registeel Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250623/
+URL:https://leekduck.com/events/raidhour20250623/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250623T180000
+DTEND;TZID=Europe/Helsinki:20250623T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regirock\, Regice &amp\; Registeel Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250624
+DTSTAMP:20250530T015042Z
+SUMMARY:Regieleki Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250624/
+URL:https://leekduck.com/events/raidhour20250624/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250624T180000
+DTEND;TZID=Europe/Helsinki:20250624T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regieleki Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250625
+DTSTAMP:20250530T015042Z
+SUMMARY:Regidrago Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250625/
+URL:https://leekduck.com/events/raidhour20250625/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250625T180000
+DTEND;TZID=Europe/Helsinki:20250625T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regidrago Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250626
+DTSTAMP:20250530T015042Z
+SUMMARY:Regigigas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250626/
+URL:https://leekduck.com/events/raidhour20250626/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250626T180000
+DTEND;TZID=Europe/Helsinki:20250626T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regigigas Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250627
+DTSTAMP:20250530T015042Z
+SUMMARY:Legendary Giants Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250627/
+URL:https://leekduck.com/events/raidhour20250627/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250627T180000
+DTEND;TZID=Europe/Helsinki:20250627T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Legendary Giants Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250702
+DTSTAMP:20250530T015042Z
+SUMMARY:Cobalion Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250702/
+URL:https://leekduck.com/events/raidhour20250702/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250702T180000
+DTEND;TZID=Europe/Helsinki:20250702T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cobalion Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
