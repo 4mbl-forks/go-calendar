@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240902T015042
+DTSTART:20240903T015023
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:serene-retreat-go-fest-2025-tie-in
-DTSTAMP:20250530T015042Z
+DTSTAMP:20250531T015023Z
 SUMMARY:Serene Retreat
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /serene-retreat-go-fest-2025-tie-in/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:instrumental-wonders-go-fest-2025-tie-in
-DTSTAMP:20250530T015042Z
+DTSTAMP:20250531T015023Z
 SUMMARY:Instrumental Wonders
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /instrumental-wonders-go-fest-2025-tie-in/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:phantom-ruins-go-fest-2025-tie-in
-DTSTAMP:20250530T015042Z
+DTSTAMP:20250531T015023Z
 SUMMARY:Phantom Ruins
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /phantom-ruins-go-fest-2025-tie-in/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ancients-recovered
-DTSTAMP:20250530T015042Z
+DTSTAMP:20250531T015023Z
 SUMMARY:Ancients Recovered
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ancients-recovered/

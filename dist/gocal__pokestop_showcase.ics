@@ -30,26 +30,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240831T015310
+DTSTART:20240903T015023
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-water-and-dark-type-2025-05-26
-DTSTAMP:20250528T015310Z
-SUMMARY:Water- and Dark-type Pokémon PokéStop Showcases
+UID:pokemon-showcase-ghost-type-2025-05-31
+DTSTAMP:20250531T015023Z
+SUMMARY:Ghost-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-water-and-dark-type-2025-05-26/
-URL:https://leekduck.com/events/pokemon-showcase-water-and-dark-type-2025-0
- 5-26/
+ /pokemon-showcase-ghost-type-2025-05-31/
+URL:https://leekduck.com/events/pokemon-showcase-ghost-type-2025-05-31/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250526
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250527
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250531
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250601
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Water- and Dark-type Pokémon PokéStop Showcases
+DESCRIPTION:Ghost-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
