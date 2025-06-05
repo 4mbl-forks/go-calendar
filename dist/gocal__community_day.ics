@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240907T015458
+DTSTART:20240908T015355
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:june-communityday2025
-DTSTAMP:20250604T015458Z
+DTSTAMP:20250605T015355Z
 SUMMARY:Jangmo-o Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2025/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communitydayclassic2025
-DTSTAMP:20250604T015458Z
+DTSTAMP:20250605T015355Z
 SUMMARY:July Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communitydayclassic2025/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2025
-DTSTAMP:20250604T015458Z
+DTSTAMP:20250605T015355Z
 SUMMARY:July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2025/
@@ -86,7 +86,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250604T015458Z
+DTSTAMP:20250605T015355Z
 SUMMARY:August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/

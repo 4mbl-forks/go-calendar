@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240907T015458
+DTSTART:20240908T015355
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:season-18-might-and-mastery
-DTSTAMP:20250604T015458Z
-SUMMARY:Might and Mastery
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-18-might-and-mastery/
-URL:https://leekduck.com/events/season-18-might-and-mastery/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-03-04-season-18-might-and-mastery/season-18-might-and-mastery.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250304
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250603
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Might and Mastery
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-19-delightful-days
-DTSTAMP:20250604T015458Z
+DTSTAMP:20250605T015355Z
 SUMMARY:Delightful Days
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-19-delightful-days/
