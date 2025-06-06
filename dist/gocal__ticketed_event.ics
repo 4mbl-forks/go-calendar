@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240908T015355
+DTSTART:20240909T015259
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:power-up-ticket-may
-DTSTAMP:20250605T015355Z
-SUMMARY:Power Up Ticket: May
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /power-up-ticket-may/
-URL:https://leekduck.com/events/power-up-ticket-may/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-04-power-up-ticket-may/power-up-ticket-may.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250504
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250604
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Power Up Ticket: May
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:eggs-pedition-access-june-2025
-DTSTAMP:20250605T015355Z
+DTSTAMP:20250606T015259Z
 SUMMARY:Eggs-pedition Access: June
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-june-2025/
