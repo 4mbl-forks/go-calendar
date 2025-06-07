@@ -9,19 +9,36 @@ X-WR-CALDESC:All Pokémon GO Update events\, in your local time\, auto-upda
  ted and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Z
+BEGIN:STANDARD
+DTSTART:20240911T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20240910T015225
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:fusion-adventure-effects-necrozma
-DTSTAMP:20240716T002215Z
-SUMMARY:[U] New Adventure Effects: Sunsteel Strike and Moongeist Beam
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /fusion-adventure-effects-necrozma/
-URL:https://leekduck.com/events/fusion-adventure-effects-necrozma/
-IMAGE;VALUE=URI:https://leekduck.com/assets/img/events/necrozma-fusion.jpg
-DTSTART;VALUE=DATE:20240709
-DTEND;VALUE=DATE:20240715
+UID:community-day-voting-august
+DTSTAMP:20250607T015225Z
+SUMMARY:Community Day Vote for August
+DESCRIPTION:Starts at 01:00\, ends at 01:00.\n\nhttps://leekduck.com/events
+ /community-day-voting-august/
+URL:https://leekduck.com/events/community-day-voting-august/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-06-07-community-day-voting-august/august-community-day-vote.jpg
+DTSTART;TZID=Z:20250608T010000
+DTEND;TZID=Z:20250609T010000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[U] New Adventure Effects: Sunsteel Strike and Moongeist Beam
+DESCRIPTION:Community Day Vote for August
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

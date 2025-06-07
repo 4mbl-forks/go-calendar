@@ -30,25 +30,43 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240905T015809
+DTSTART:20240910T015225
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-ghost-type-2025-05-31
-DTSTAMP:20250602T015809Z
-SUMMARY:Ghost-type Pokémon PokéStop Showcases
+UID:pokemon-showcase-sableye-2025-06-05
+DTSTAMP:20250607T015225Z
+SUMMARY:Sableye PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ghost-type-2025-05-31/
-URL:https://leekduck.com/events/pokemon-showcase-ghost-type-2025-05-31/
+ /pokemon-showcase-sableye-2025-06-05/
+URL:https://leekduck.com/events/pokemon-showcase-sableye-2025-06-05/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250531
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250601
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250605
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250606
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ghost-type Pokémon PokéStop Showcases
+DESCRIPTION:Sableye PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-ferroseed-falinks-2025-06-07
+DTSTAMP:20250607T015225Z
+SUMMARY:Ferroseed and Falinks PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-ferroseed-falinks-2025-06-07/
+URL:https://leekduck.com/events/pokemon-showcase-ferroseed-falinks-2025-06-
+ 07/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250607
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250608
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ferroseed and Falinks PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
