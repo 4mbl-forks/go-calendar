@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240911T020311
+DTSTART:20240912T020020
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-ferroseed-falinks-2025-06-07
-DTSTAMP:20250608T020311Z
+DTSTAMP:20250609T020020Z
 SUMMARY:Ferroseed and Falinks PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ferroseed-falinks-2025-06-07/
@@ -47,6 +47,24 @@ IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250607
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250608
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ferroseed and Falinks PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-ferroseed-falinks-2025-06-09
+DTSTAMP:20250609T020020Z
+SUMMARY:Ferroseed and Falinks PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-ferroseed-falinks-2025-06-09/
+URL:https://leekduck.com/events/pokemon-showcase-ferroseed-falinks-2025-06-
+ 09/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250609
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250610
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Ferroseed and Falinks PokéStop Showcases
