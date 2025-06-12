@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Max Battle (MB)
+X-WR-CALNAME:GO Calendar - Max Battle (MB)
+DESCRIPTION:All Pokémon GO Max Battle events\, in your local time\, auto-u
+ pdated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Max Battle events\, in your local time\, auto-
+ updated and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+BEGIN:STANDARD
+DTSTART:20241027T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20251026T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20240915T015414
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:max-battle-day-july-2025
+DTSTAMP:20250612T015414Z
+SUMMARY:Max Battle Day
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-july-2025/
+URL:https://leekduck.com/events/max-battle-day-july-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250719T060000
+DTEND;TZID=Europe/Helsinki:20250719T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-weekend-july-2025
+DTSTAMP:20250612T015414Z
+SUMMARY:Max Battle Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-weekend-july-2025/
+URL:https://leekduck.com/events/max-battle-weekend-july-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250726
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250727
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-august-2025
+DTSTAMP:20250612T015414Z
+SUMMARY:Max Battle Day
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-august-2025/
+URL:https://leekduck.com/events/max-battle-day-august-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250803T060000
+DTEND;TZID=Europe/Helsinki:20250803T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
