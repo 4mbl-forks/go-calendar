@@ -30,25 +30,59 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240905T015809
+DTSTART:20240916T015520
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:may-max-battles-split-5-2025
-DTSTAMP:20250602T015809Z
-SUMMARY:Max Battles - May 26 to June 2
-DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
- /may-max-battles-split-5-2025/
-URL:https://leekduck.com/events/may-max-battles-split-5-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/power-spots-max-
- battles.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250526
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250602
+UID:max-battle-day-july-2025
+DTSTAMP:20250613T015520Z
+SUMMARY:Max Battle Day
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-july-2025/
+URL:https://leekduck.com/events/max-battle-day-july-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250719T060000
+DTEND;TZID=Europe/Helsinki:20250719T210000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Max Battles - May 26 to June 2
+DESCRIPTION:Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-weekend-july-2025
+DTSTAMP:20250613T015520Z
+SUMMARY:Max Battle Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-weekend-july-2025/
+URL:https://leekduck.com/events/max-battle-weekend-july-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250726
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250727
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-august-2025
+DTSTAMP:20250613T015520Z
+SUMMARY:Max Battle Day
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-august-2025/
+URL:https://leekduck.com/events/max-battle-day-august-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20250803T060000
+DTEND;TZID=Europe/Helsinki:20250803T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
