@@ -30,26 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240914T015535
+DTSTART:20240917T015116
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-ferroseed-falinks-2025-06-09
-DTSTAMP:20250611T015535Z
-SUMMARY:Ferroseed and Falinks PokéStop Showcases
+UID:pokemon-showcase-gothita-phantump-2025-06-14
+DTSTAMP:20250614T015116Z
+SUMMARY:Gothita and Phanthump PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ferroseed-falinks-2025-06-09/
-URL:https://leekduck.com/events/pokemon-showcase-ferroseed-falinks-2025-06-
- 09/
+ /pokemon-showcase-gothita-phantump-2025-06-14/
+URL:https://leekduck.com/events/pokemon-showcase-gothita-phantump-2025-06-1
+ 4/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250609
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250610
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250614
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250615
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ferroseed and Falinks PokéStop Showcases
+DESCRIPTION:Gothita and Phanthump PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
