@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240917T015116
+DTSTART:20240918T020507
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:phantom-ruins-go-fest-2025-tie-in
-DTSTAMP:20250614T015116Z
+DTSTAMP:20250615T020507Z
 SUMMARY:Phantom Ruins
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /phantom-ruins-go-fest-2025-tie-in/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:yampers-paw-prints
-DTSTAMP:20250614T015116Z
+DTSTAMP:20250615T020507Z
 SUMMARY:Yamper’s Paw Prints
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /yampers-paw-prints/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ancients-recovered
-DTSTAMP:20250614T015116Z
+DTSTAMP:20250615T020507Z
 SUMMARY:Ancients Recovered
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ancients-recovered/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2025
-DTSTAMP:20250614T015116Z
+DTSTAMP:20250615T020507Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2025/
