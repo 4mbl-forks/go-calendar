@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240919T015907
+DTSTART:20240920T015550
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-fest-2025-paris-france
-DTSTAMP:20250616T015907Z
-SUMMARY:Paris\, France - Pokémon GO Fest 2025
-DESCRIPTION:Starts at 09:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2025-paris-france/
-URL:https://leekduck.com/events/pokemon-go-fest-2025-paris-france/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-13-pokemon-go-fest-2025-paris-france/go-fest-2025-france.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250613
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250615
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Paris\, France - Pokémon GO Fest 2025
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-fest-2025-global
-DTSTAMP:20250616T015907Z
+DTSTAMP:20250617T015550Z
 SUMMARY:Pokémon GO Fest 2025: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2025-global/
