@@ -30,26 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240921T015510
+DTSTART:20240924T015251
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-gothita-phantump-2025-06-16
-DTSTAMP:20250618T015510Z
-SUMMARY:Gothita and Phantump PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 19:59.\n\nhttps://leekduck.com/events
- /pokemon-showcase-gothita-phantump-2025-06-16/
-URL:https://leekduck.com/events/pokemon-showcase-gothita-phantump-2025-06-1
- 6/
+UID:pokemon-showcase-jangmo-o-kommo-o-2025-06-21
+DTSTAMP:20250621T015251Z
+SUMMARY:Jangmo-o and Kommo-o PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-jangmo-o-kommo-o-2025-06-21/
+URL:https://leekduck.com/events/pokemon-showcase-jangmo-o-kommo-o-2025-06-2
+ 1/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250616
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250617
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250621
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250622
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Gothita and Phantump PokéStop Showcases
+DESCRIPTION:Jangmo-o and Kommo-o PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
