@@ -30,46 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240929T015537
+DTSTART:20240930T015640
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20250624
-DTSTAMP:20250626T015537Z
-SUMMARY:Regieleki Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250624/
-URL:https://leekduck.com/events/raidhour20250624/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20250624T180000
-DTEND;TZID=Europe/Helsinki:20250624T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Regieleki Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:raidhour20250625
-DTSTAMP:20250626T015537Z
-SUMMARY:Regidrago Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250625/
-URL:https://leekduck.com/events/raidhour20250625/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20250625T180000
-DTEND;TZID=Europe/Helsinki:20250625T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Regidrago Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20250626
-DTSTAMP:20250626T015537Z
+DTSTAMP:20250627T015640Z
 SUMMARY:Regigigas Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250626/
@@ -85,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250627
-DTSTAMP:20250626T015537Z
+DTSTAMP:20250627T015640Z
 SUMMARY:Legendary Giants Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250627/
@@ -101,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250702
-DTSTAMP:20250626T015537Z
+DTSTAMP:20250627T015640Z
 SUMMARY:Cobalion Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250702/
@@ -112,6 +80,70 @@ DTEND;TZID=Europe/Helsinki:20250702T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Cobalion Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250709
+DTSTAMP:20250627T015640Z
+SUMMARY:Solgaleo Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250709/
+URL:https://leekduck.com/events/raidhour20250709/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250709T180000
+DTEND;TZID=Europe/Helsinki:20250709T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Solgaleo Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250716
+DTSTAMP:20250627T015640Z
+SUMMARY:Terrakion Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250716/
+URL:https://leekduck.com/events/raidhour20250716/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250716T180000
+DTEND;TZID=Europe/Helsinki:20250716T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Terrakion Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250723
+DTSTAMP:20250627T015640Z
+SUMMARY:Lunala Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250723/
+URL:https://leekduck.com/events/raidhour20250723/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250723T180000
+DTEND;TZID=Europe/Helsinki:20250723T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lunala Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250730
+DTSTAMP:20250627T015640Z
+SUMMARY:Virizion Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250730/
+URL:https://leekduck.com/events/raidhour20250730/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250730T180000
+DTEND;TZID=Europe/Helsinki:20250730T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Virizion Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
