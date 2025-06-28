@@ -30,20 +30,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240930T015640
+DTSTART:20241001T015240
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-fest-2025-global
-DTSTAMP:20250627T015640Z
+DTSTAMP:20250628T015240Z
 SUMMARY:Pokémon GO Fest 2025: Global
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2025-global/
 URL:https://leekduck.com/events/pokemon-go-fest-2025-global/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-28-pokemon-go-fest-2025-global/go-fest-global.jpg
+ 025/2025-06-28-pokemon-go-fest-2025-global/go-fest-2025-updated-key.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250628
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250629
 BEGIN:VALARM
