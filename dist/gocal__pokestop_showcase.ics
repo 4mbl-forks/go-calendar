@@ -30,26 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240929T015537
+DTSTART:20241002T020643
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-regirock-regice-registeel-2025-06-23
-DTSTAMP:20250626T015537Z
-SUMMARY:Regirock\, Regice\, and Registeel PokéStop Showcases
+UID:pokemon-showcase-zacian-zamazenta-2025-06-28
+DTSTAMP:20250629T020643Z
+SUMMARY:Zacian and Zamazenta PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-regirock-regice-registeel-2025-06-23/
-URL:https://leekduck.com/events/pokemon-showcase-regirock-regice-registeel-
- 2025-06-23/
+ /pokemon-showcase-zacian-zamazenta-2025-06-28/
+URL:https://leekduck.com/events/pokemon-showcase-zacian-zamazenta-2025-06-2
+ 8/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250623
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250624
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250628
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250629
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Regirock\, Regice\, and Registeel PokéStop Showcases
+DESCRIPTION:Zacian and Zamazenta PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
