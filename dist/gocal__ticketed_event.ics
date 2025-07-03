@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241005T015618
+DTSTART:20241006T015633
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:eggs-pedition-access-june-2025
-DTSTAMP:20250702T015618Z
+DTSTAMP:20250703T015633Z
 SUMMARY:Eggs-pedition Access: June
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-june-2025/
@@ -50,6 +50,24 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250703
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Eggs-pedition Access: June
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eggs-pedition-access-july-2025
+DTSTAMP:20250703T015633Z
+SUMMARY:Eggs-pedition Access: July
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /eggs-pedition-access-july-2025/
+URL:https://leekduck.com/events/eggs-pedition-access-july-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-07-03-eggs-pedition-access-july-2025/eggs-pedition-access-july.jp
+ g
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250703
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250803
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Eggs-pedition Access: July
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
