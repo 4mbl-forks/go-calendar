@@ -30,15 +30,15 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241008T015208
+DTSTART:20241009T020514
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:july-communitydayclassic2025
-DTSTAMP:20250705T015208Z
-SUMMARY:July Community Day Classic
+DTSTAMP:20250706T020514Z
+SUMMARY:Eevee Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communitydayclassic2025/
 URL:https://leekduck.com/events/july-communitydayclassic2025/
@@ -49,13 +49,13 @@ DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250705
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250706
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:July Community Day Classic
+DESCRIPTION:Eevee Community Day Classic
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2025
-DTSTAMP:20250705T015208Z
+DTSTAMP:20250706T020514Z
 SUMMARY:Quaxly Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2025/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250705T015208Z
+DTSTAMP:20250706T020514Z
 SUMMARY:August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/
