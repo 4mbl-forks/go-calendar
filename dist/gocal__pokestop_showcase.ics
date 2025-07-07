@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241009T020514
+DTSTART:20241010T020226
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-eevee-evolutions-2025-07-05
-DTSTAMP:20250706T020514Z
+DTSTAMP:20250707T020226Z
 SUMMARY:Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-eevee-evolutions-2025-07-05/
@@ -50,6 +50,26 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250706
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-eevee-evolutions-2025-07-07
+DTSTAMP:20250707T020226Z
+SUMMARY:Espeon\, Umbreon\, Leafeon\, Glaceon\, and Sylveon PokéStop Showca
+ ses
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-eevee-evolutions-2025-07-07/
+URL:https://leekduck.com/events/pokemon-showcase-eevee-evolutions-2025-07-0
+ 7/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250707
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250708
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Espeon\, Umbreon\, Leafeon\, Glaceon\, and Sylveon PokéStop Sh
+ owcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
