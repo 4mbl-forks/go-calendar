@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241013T015839
+DTSTART:20241014T020108
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gigantamax-lapras-max-battle-day-july-2025
-DTSTAMP:20250710T015839Z
+DTSTAMP:20250711T020108Z
 SUMMARY:Gigantamax Lapras Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-lapras-max-battle-day-july-2025/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-july-2025
-DTSTAMP:20250710T015839Z
+DTSTAMP:20250711T020108Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-battle-day-july-2025/
@@ -71,25 +71,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:max-battle-weekend-july-2025
-DTSTAMP:20250710T015839Z
-SUMMARY:Max Battle Weekend
+UID:dynamax-latias-latios-max-battle-weekend
+DTSTAMP:20250711T020108Z
+SUMMARY:Dynamax Latias and Dynamax Latios Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-battle-weekend-july-2025/
-URL:https://leekduck.com/events/max-battle-weekend-july-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /dynamax-latias-latios-max-battle-weekend/
+URL:https://leekduck.com/events/dynamax-latias-latios-max-battle-weekend/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-07-26-dynamax-latias-latios-max-battle-weekend/dynamax-latias-lat
+ ios.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250726
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250727
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Max Battle Weekend
+DESCRIPTION:Dynamax Latias and Dynamax Latios Max Battle Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-august-2025
-DTSTAMP:20250710T015839Z
+DTSTAMP:20250711T020108Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-battle-day-august-2025/
