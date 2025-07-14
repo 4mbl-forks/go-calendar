@@ -30,27 +30,27 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240829T015542
+DTSTART:20241017T020540
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-machamp-max-battle-day-lead-up-timed-research
-DTSTAMP:20250526T015542Z
-SUMMARY:Gigantamax Machamp Lead Up Timed Research
-DESCRIPTION:Starts at 18:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-machamp-max-battle-day-lead-up-timed-research/
-URL:https://leekduck.com/events/gigantamax-machamp-max-battle-day-lead-up-t
- imed-research/
+UID:gigantamax-lapras-max-battle-day-lead-up-timed-research
+DTSTAMP:20250714T020540Z
+SUMMARY:Gigantamax Lapras Lead Up Timed Research
+DESCRIPTION:Starts at 06:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /gigantamax-lapras-max-battle-day-lead-up-timed-research/
+URL:https://leekduck.com/events/gigantamax-lapras-max-battle-day-lead-up-ti
+ med-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-19-gigantamax-machamp-max-battle-day-lead-up-timed-research/gi
- gantamax-machamp-max-battles.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250519
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250525
+ 025/2025-07-14-gigantamax-lapras-max-battle-day-lead-up-timed-research/gig
+ antamax-lapras-battle-day.jpg?v2
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250714
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250719
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Gigantamax Machamp Lead Up Timed Research
+DESCRIPTION:Gigantamax Lapras Lead Up Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
