@@ -30,32 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241017T020540
+DTSTART:20241018T020517
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ultra-unlock-hisui-celebration
-DTSTAMP:20250714T020540Z
-SUMMARY:Ultra Unlock: Hisui Celebration
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /ultra-unlock-hisui-celebration/
-URL:https://leekduck.com/events/ultra-unlock-hisui-celebration/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-07-08-ultra-unlock-hisui-celebration/ultra-unlock-hisui-celebrati
- on.jpg?v2
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250708
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250713
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ultra Unlock: Hisui Celebration
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:water-festival-2025
-DTSTAMP:20250714T020540Z
+DTSTAMP:20250715T020517Z
 SUMMARY:Water Festival 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-2025/
@@ -72,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:summer-concert
-DTSTAMP:20250714T020540Z
+DTSTAMP:20250715T020517Z
 SUMMARY:Summer Concert
 DESCRIPTION:Starts at 17:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /summer-concert/
@@ -89,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-steel-and-scales
-DTSTAMP:20250714T020540Z
+DTSTAMP:20250715T020517Z
 SUMMARY:Ultra Unlock: Steel and Scales
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-steel-and-scales/
@@ -106,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adventure-week-2025
-DTSTAMP:20250714T020540Z
+DTSTAMP:20250715T020517Z
 SUMMARY:Adventure Week 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /adventure-week-2025/
@@ -123,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2025
-DTSTAMP:20250714T020540Z
+DTSTAMP:20250715T020517Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2025/
