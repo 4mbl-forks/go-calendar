@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241020T020244
+DTSTART:20241021T020421
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gbl-delightful-days_master-league_sunshine-cup-great-league-edition
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Master League and Sunshine Cup: Great League Edition | Delightful D
  ays
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-2
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_great-league_ultra-league_master-league-split-2/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_fossil-cup-great-league-edition
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Great League and Fossil Cup: Great League Edition | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_great-league_fossil-cup-great-league-edition/
@@ -85,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_ultra-league_summer-cup-ultra-league-edition
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Ultra League and Summer Cup: Ultra League Edition | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_ultra-league_summer-cup-ultra-league-edition/
@@ -104,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_great-league_ultra-league_master-league-split-3/
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_master-league_catch-cup-great-league-edition
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Master League and Catch Cup: Great League Edition | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_master-league_catch-cup-great-league-edition/
@@ -142,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-4
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_great-league_ultra-league_master-league-split-4/

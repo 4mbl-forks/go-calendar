@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241020T020244
+DTSTART:20241021T020421
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gigantamax-lapras-max-battle-day-july-2025
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Gigantamax Lapras Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-lapras-max-battle-day-july-2025/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dynamax-latias-latios-max-battle-weekend
-DTSTAMP:20250717T020244Z
+DTSTAMP:20250718T020421Z
 SUMMARY:Dynamax Latias and Dynamax Latios Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-latias-latios-max-battle-weekend/
@@ -72,19 +72,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:max-battle-day-august-2025
-DTSTAMP:20250717T020244Z
-SUMMARY:Max Battle Day
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-battle-day-august-2025/
-URL:https://leekduck.com/events/max-battle-day-august-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki:20250803T060000
-DTEND;TZID=Europe/Helsinki:20250803T210000
+UID:gigantamax-butterfree-max-battle-day
+DTSTAMP:20250718T020421Z
+SUMMARY:Gigantamax Butterfree Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /gigantamax-butterfree-max-battle-day/
+URL:https://leekduck.com/events/gigantamax-butterfree-max-battle-day/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-03-gigantamax-butterfree-max-battle-day/gigantamax-butterfree-
+ battle-day.jpg
+DTSTART;TZID=Europe/Helsinki:20250803T140000
+DTEND;TZID=Europe/Helsinki:20250803T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Max Battle Day
+DESCRIPTION:Gigantamax Butterfree Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
