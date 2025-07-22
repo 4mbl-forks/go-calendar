@@ -1,12 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Research Day (RD)
-X-WR-CALNAME:GO Calendar - Research Day (RD)
-DESCRIPTION:All Pokémon GO Research Day events\, in your local time\, auto
- -updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Research Day events\, in your local time\, aut
- o-updated and sourced from Leek Duck.
+NAME:GO Calendar - Rocket Takeover (RT)
+X-WR-CALNAME:GO Calendar - Rocket Takeover (RT)
+DESCRIPTION:All Pokémon GO Rocket Takeover events\, in your local time\, a
+ uto-updated and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Rocket Takeover events\, in your local time\, 
+ auto-updated and sourced from Leek Duck.
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
@@ -31,19 +31,19 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:research-day-august-2025
+UID:delightful-days-taken-over
 DTSTAMP:20250722T020323Z
-SUMMARY:Fossil Research Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /research-day-august-2025/
-URL:https://leekduck.com/events/research-day-august-2025/
+SUMMARY:Delightful Days: Taken Over
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /delightful-days-taken-over/
+URL:https://leekduck.com/events/delightful-days-taken-over/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;TZID=Europe/Helsinki:20250802T140000
-DTEND;TZID=Europe/Helsinki:20250802T170000
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250811
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250817
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Fossil Research Day
+DESCRIPTION:Delightful Days: Taken Over
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

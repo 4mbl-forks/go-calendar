@@ -30,26 +30,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241024T020904
+DTSTART:20241025T020323
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-quaxly-quaquaval-2025-07-18
-DTSTAMP:20250721T020904Z
-SUMMARY:Quaxly and Quaquaval PokéStop Showcases
+UID:pokemon-showcase-spinda-2025-07-21
+DTSTAMP:20250722T020323Z
+SUMMARY:Spinda PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-quaxly-quaquaval-2025-07-18/
-URL:https://leekduck.com/events/pokemon-showcase-quaxly-quaquaval-2025-07-1
- 8/
+ /pokemon-showcase-spinda-2025-07-21/
+URL:https://leekduck.com/events/pokemon-showcase-spinda-2025-07-21/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250719
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250720
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250721
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250722
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Quaxly and Quaquaval PokéStop Showcases
+DESCRIPTION:Spinda PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

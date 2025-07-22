@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:STANDARD
-DTSTART:20241027T040000
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0200
-END:STANDARD
 BEGIN:DAYLIGHT
 DTSTART:20250330T020000
 TZOFFSETFROM:+0200
@@ -30,41 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241024T020904
+DTSTART:20241025T020323
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:july-communityday2025
-DTSTAMP:20250721T020904Z
-SUMMARY:Quaxly Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /july-communityday2025/
-URL:https://leekduck.com/events/july-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-07-20-july-communityday2025/quaxly-community-day-temp.jpg?v2
-DTSTART;TZID=Europe/Helsinki:20250720T140000
-DTEND;TZID=Europe/Helsinki:20250720T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Quaxly Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250721T020904Z
-SUMMARY:August Community Day
+DTSTAMP:20250722T020323Z
+SUMMARY:Rookidee Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/
 URL:https://leekduck.com/events/august-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-30-august-communityday2025/august-cd-2025-rookidee-vote.jpg
 DTSTART;TZID=Europe/Helsinki:20250830T140000
 DTEND;TZID=Europe/Helsinki:20250830T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:August Community Day
+DESCRIPTION:Rookidee Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

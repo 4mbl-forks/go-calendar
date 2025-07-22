@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241024T020904
+DTSTART:20241025T020323
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-07-22
-DTSTAMP:20250721T020904Z
+DTSTAMP:20250722T020323Z
 SUMMARY:Jigglypuff Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-07-22/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-07-29
-DTSTAMP:20250721T020904Z
+DTSTAMP:20250722T020323Z
 SUMMARY:Roggenrola Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-07-29/
@@ -66,6 +66,74 @@ DTEND;TZID=Europe/Helsinki:20250729T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Roggenrola Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-08-05
+DTSTAMP:20250722T020323Z
+SUMMARY:Swirlix Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-08-05/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-05/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250805T180000
+DTEND;TZID=Europe/Helsinki:20250805T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Swirlix Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-08-12
+DTSTAMP:20250722T020323Z
+SUMMARY:Plusle and Minun Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-08-12/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-12/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250812T180000
+DTEND;TZID=Europe/Helsinki:20250812T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plusle and Minun Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-08-19
+DTSTAMP:20250722T020323Z
+SUMMARY:Ralts Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-08-19/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-19/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250819T180000
+DTEND;TZID=Europe/Helsinki:20250819T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ralts Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-08-26
+DTSTAMP:20250722T020323Z
+SUMMARY:Lechonk Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-08-26/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-08-26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20250826T180000
+DTEND;TZID=Europe/Helsinki:20250826T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lechonk Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

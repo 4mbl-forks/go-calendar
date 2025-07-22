@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:STANDARD
-DTSTART:20241027T040000
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0200
-END:STANDARD
 BEGIN:DAYLIGHT
 DTSTART:20250330T020000
 TZOFFSETFROM:+0200
@@ -30,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241003T020151
+DTSTART:20241025T020323
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-fest-2025-global
-DTSTAMP:20250630T020151Z
-SUMMARY:Pokémon GO Fest 2025: Global
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2025-global/
-URL:https://leekduck.com/events/pokemon-go-fest-2025-global/
+UID:pokemon-go-fest-2025-max-finale
+DTSTAMP:20250722T020323Z
+SUMMARY:Pokémon GO Fest 2025: Max Finale
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-fest-2025-max-finale/
+URL:https://leekduck.com/events/pokemon-go-fest-2025-max-finale/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-28-pokemon-go-fest-2025-global/go-fest-2025-updated-key.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250628
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250629
+ 025/2025-08-23-pokemon-go-fest-2025-max-finale/go-fest-finale-2025.jpg?v2
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250823
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250824
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pokémon GO Fest 2025: Global
+DESCRIPTION:Pokémon GO Fest 2025: Max Finale
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
