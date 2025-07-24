@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:STANDARD
-DTSTART:20241027T040000
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0200
-END:STANDARD
 BEGIN:DAYLIGHT
 DTSTART:20250330T020000
 TZOFFSETFROM:+0200
@@ -30,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241026T020427
+DTSTART:20241027T020336
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2025-07-22
-DTSTAMP:20250723T020427Z
-SUMMARY:Jigglypuff Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2025-07-22/
-URL:https://leekduck.com/events/pokemonspotlighthour2025-07-22/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20250722T180000
-DTEND;TZID=Europe/Helsinki:20250722T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Jigglypuff Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2025-07-29
-DTSTAMP:20250723T020427Z
+DTSTAMP:20250724T020336Z
 SUMMARY:Roggenrola Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-07-29/
@@ -71,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-08-05
-DTSTAMP:20250723T020427Z
+DTSTAMP:20250724T020336Z
 SUMMARY:Swirlix Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-08-05/
@@ -88,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-08-12
-DTSTAMP:20250723T020427Z
+DTSTAMP:20250724T020336Z
 SUMMARY:Plusle and Minun Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-08-12/
@@ -105,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-08-19
-DTSTAMP:20250723T020427Z
+DTSTAMP:20250724T020336Z
 SUMMARY:Ralts Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-08-19/
@@ -122,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-08-26
-DTSTAMP:20250723T020427Z
+DTSTAMP:20250724T020336Z
 SUMMARY:Lechonk Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-08-26/

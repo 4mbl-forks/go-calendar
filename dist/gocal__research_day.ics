@@ -25,20 +25,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241026T020427
+DTSTART:20241027T020336
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:research-day-august-2025
-DTSTAMP:20250723T020427Z
+UID:fossil-research-day-august-2025
+DTSTAMP:20250724T020336Z
 SUMMARY:Fossil Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /research-day-august-2025/
-URL:https://leekduck.com/events/research-day-august-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /fossil-research-day-august-2025/
+URL:https://leekduck.com/events/fossil-research-day-august-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-02-fossil-research-day-august-2025/fossil-research-day.jpg
 DTSTART;TZID=Europe/Helsinki:20250802T140000
 DTEND;TZID=Europe/Helsinki:20250802T170000
 BEGIN:VALARM
