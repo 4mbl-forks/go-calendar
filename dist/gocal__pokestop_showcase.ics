@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241031T021016
+DTSTART:20241101T022124
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-latios-latias-2025-07-25
-DTSTAMP:20250728T021016Z
-SUMMARY:Latios and Latias PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-latios-latias-2025-07-25/
-URL:https://leekduck.com/events/pokemon-showcase-latios-latias-2025-07-25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250726
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250727
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Latios and Latias PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-ground-type-pokemon-2025-07-28
-DTSTAMP:20250728T021016Z
+DTSTAMP:20250729T022124Z
 SUMMARY:Ground-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ground-type-pokemon-2025-07-28/

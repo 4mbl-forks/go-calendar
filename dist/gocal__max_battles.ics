@@ -25,32 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241031T021016
+DTSTART:20241101T022124
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dynamax-latias-latios-max-battle-weekend
-DTSTAMP:20250728T021016Z
-SUMMARY:Dynamax Latias and Dynamax Latios Max Battle Weekend
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /dynamax-latias-latios-max-battle-weekend/
-URL:https://leekduck.com/events/dynamax-latias-latios-max-battle-weekend/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-07-26-dynamax-latias-latios-max-battle-weekend/dynamax-latias-lat
- ios.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250726
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250727
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Latias and Dynamax Latios Max Battle Weekend
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gigantamax-butterfree-max-battle-day
-DTSTAMP:20250728T021016Z
+DTSTAMP:20250729T022124Z
 SUMMARY:Gigantamax Butterfree Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-butterfree-max-battle-day/
