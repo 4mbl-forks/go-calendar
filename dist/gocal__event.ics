@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241103T020540
+DTSTART:20241104T022237
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:adventure-week-2025
-DTSTAMP:20250731T020540Z
+DTSTAMP:20250801T022237Z
 SUMMARY:Adventure Week 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /adventure-week-2025/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sweet-swarm
-DTSTAMP:20250731T020540Z
+DTSTAMP:20250801T022237Z
 SUMMARY:Sweet Swarm
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /sweet-swarm/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:muchlax-hatch-day-2025
-DTSTAMP:20250731T020540Z
+DTSTAMP:20250801T022237Z
 SUMMARY:Munchlax Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /muchlax-hatch-day-2025/
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-companions
-DTSTAMP:20250731T020540Z
+DTSTAMP:20250801T022237Z
 SUMMARY:Cozy Companions
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /cozy-companions/
@@ -100,13 +100,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:delightful-days-taken-over
-DTSTAMP:20250731T020540Z
+DTSTAMP:20250801T022237Z
 SUMMARY:Delightful Days: Taken Over
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /delightful-days-taken-over/
 URL:https://leekduck.com/events/delightful-days-taken-over/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-11-delightful-days-taken-over/delightful-days-taken-over.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250811
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250817
 BEGIN:VALARM
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-world-championships-go-battle-weekend
-DTSTAMP:20250731T020540Z
+DTSTAMP:20250801T022237Z
 SUMMARY:2025 Pokémon World Championships GO Battle Weekend
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championships-go-battle-weekend/
@@ -135,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dark-skies
-DTSTAMP:20250731T020540Z
+DTSTAMP:20250801T022237Z
 SUMMARY:Pokémon GO: Dark Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dark-skies/
@@ -152,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250731T020540Z
+DTSTAMP:20250801T022237Z
 SUMMARY:Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/
