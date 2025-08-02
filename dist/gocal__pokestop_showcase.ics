@@ -25,26 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241102T020614
+DTSTART:20241105T020020
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-ground-type-pokemon-2025-07-28
-DTSTAMP:20250730T020614Z
-SUMMARY:Ground-type Pokémon PokéStop Showcases
+UID:pokemon-showcase-rock-type-pokemon-2025-08-02
+DTSTAMP:20250802T020020Z
+SUMMARY:Rock-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ground-type-pokemon-2025-07-28/
-URL:https://leekduck.com/events/pokemon-showcase-ground-type-pokemon-2025-0
- 7-28/
+ /pokemon-showcase-rock-type-pokemon-2025-08-02/
+URL:https://leekduck.com/events/pokemon-showcase-rock-type-pokemon-2025-08-
+ 02/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250728
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250729
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250802
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250803
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ground-type Pokémon PokéStop Showcases
+DESCRIPTION:Rock-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

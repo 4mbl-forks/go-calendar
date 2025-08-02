@@ -30,7 +30,7 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241104T022237
+DTSTART:20241105T020020
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -45,7 +45,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fossil-research-day-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Fossil Research Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /fossil-research-day-august-2025/
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggs-pedition-access-july-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Eggs-pedition Access: July
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-july-2025/
@@ -80,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-butterfree-max-battle-day
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Gigantamax Butterfree Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /gigantamax-butterfree-max-battle-day/
@@ -98,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:adventure-week-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Adventure Week 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /adventure-week-2025/
@@ -114,8 +114,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-showcase-rock-type-pokemon-2025-08-02
+DTSTAMP:20250802T020020Z
+SUMMARY:Rock-type Pokémon PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-rock-type-pokemon-2025-08-02/
+URL:https://leekduck.com/events/pokemon-showcase-rock-type-pokemon-2025-08-
+ 02/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250802
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250803
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rock-type Pokémon PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:shadow-registeel-in-shadow-raids-july-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Shadow Registeel in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-registeel-in-shadow-raids-july-august-2025/
@@ -133,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aerodactyl-in-mega-raids-july-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Mega Aerodactyl in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-aerodactyl-in-mega-raids-july-august-2025/
@@ -150,7 +168,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:virizion-in-5-star-raid-battles-july-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Virizion in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /virizion-in-5-star-raid-battles-july-august-2025/
@@ -167,7 +185,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-08-04
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Dynamax Omanyte during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-08-04/
@@ -184,7 +202,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-july-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:GO Pass: July
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-july-2025/
@@ -201,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_fossil-cup-great-league-edition
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Great League and Fossil Cup: Great League Edition | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_great-league_fossil-cup-great-league-edition/
@@ -220,7 +238,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-08-05
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Swirlix Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-08-05/
@@ -237,7 +255,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250806
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250806/
@@ -253,7 +271,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sweet-swarm
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Sweet Swarm
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /sweet-swarm/
@@ -270,7 +288,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:muchlax-hatch-day-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Munchlax Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /muchlax-hatch-day-2025/
@@ -287,7 +305,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-origin-raid-day-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Ultra Unlock: Origin Raid Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-origin-raid-day-2025/
@@ -304,7 +322,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /lugia-in-5-star-raid-battles-august-2025/
@@ -320,7 +338,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-ampharos-in-mega-raids-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Mega Ampharos in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-ampharos-in-mega-raids-august-2025/
@@ -336,7 +354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-08-11
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Dynamax Trubbish during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-08-11/
@@ -353,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_ultra-league_summer-cup-ultra-league-edition
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Ultra League and Summer Cup: Ultra League Edition | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_ultra-league_summer-cup-ultra-league-edition/
@@ -372,7 +390,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-08-12
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Plusle and Minun Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-08-12/
@@ -389,7 +407,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cozy-companions
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Cozy Companions
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /cozy-companions/
@@ -406,7 +424,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250813
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Ho-Oh Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250813/
@@ -421,8 +439,27 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-world-championships-go-battle-weekend
+DTSTAMP:20250802T020020Z
+SUMMARY:2025 Pokémon World Championships Celebration
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-world-championships-go-battle-weekend/
+URL:https://leekduck.com/events/pokemon-world-championships-go-battle-weeke
+ nd/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-15-pokemon-world-championships-go-battle-weekend/2025-world-ch
+ ampionship.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250815
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250817
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2025 Pokémon World Championships Celebration
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:delightful-days-taken-over
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Delightful Days: Taken Over
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /delightful-days-taken-over/
@@ -438,26 +475,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pokemon-world-championships-go-battle-weekend
-DTSTAMP:20250801T022237Z
-SUMMARY:2025 Pokémon World Championships GO Battle Weekend
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championships-go-battle-weekend/
-URL:https://leekduck.com/events/pokemon-world-championships-go-battle-weeke
- nd/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250815
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250817
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:2025 Pokémon World Championships GO Battle Weekend
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-raid-weekend-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Shadow Raid Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /shadow-raid-weekend-august-2025/
@@ -474,7 +493,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Ho-Oh in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /ho-oh-in-5-star-raid-battles-august-2025/
@@ -490,7 +509,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Mega Slowbro in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-slowbro-in-mega-raids-august-2025/
@@ -506,7 +525,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-3
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_great-league_ultra-league_master-league-split-3/
@@ -525,7 +544,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-08-19
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Ralts Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-08-19/
@@ -542,7 +561,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dark-skies
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Pokémon GO: Dark Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dark-skies/
@@ -559,7 +578,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2025-max-finale
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Pokémon GO Fest 2025: Max Finale
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2025-max-finale/
@@ -576,7 +595,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-finale-promo-code
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Promo Code for Max Finale Timed Research
 DESCRIPTION:Starts at 00:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-finale-promo-code/
@@ -593,7 +612,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pidgeot-in-mega-raids-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Mega Pidgeot in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pidgeot-in-mega-raids-august-2025/
@@ -609,7 +628,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-08-25
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Dynamax Chansey during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-08-25/
@@ -626,7 +645,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_master-league_catch-cup-great-league-edition
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Master League and Catch Cup: Great League Edition | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_master-league_catch-cup-great-league-edition/
@@ -645,7 +664,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-08-26
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Lechonk Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-08-26/
@@ -662,7 +681,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20250827
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Necrozma Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20250827/
@@ -678,7 +697,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Rookidee Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/
@@ -695,7 +714,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2025-2
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2025-2/
@@ -712,7 +731,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/
@@ -729,7 +748,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-09-01
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Dynamax Pidove during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-09-01/
@@ -746,7 +765,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-19-delightful-days
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Delightful Days
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-19-delightful-days/
@@ -763,7 +782,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-september-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-september-2025/
@@ -780,7 +799,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:necrozma-in-5-star-raid-battles-august-september-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Necrozma in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /necrozma-in-5-star-raid-battles-august-september-2025/
@@ -797,7 +816,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-delightful-days_great-league_ultra-league_master-league-split-4
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Great League\, Ultra League\, and Master League | Delightful Days
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-delightful-days_great-league_ultra-league_master-league-split-4/
@@ -816,7 +835,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-august-september-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Shadow Regirock in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-august-september-2025/
@@ -834,7 +853,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eggs-pedition-access-august-2025
-DTSTAMP:20250801T022237Z
+DTSTAMP:20250802T020020Z
 SUMMARY:Eggs-pedition Access: August
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /eggs-pedition-access-august-2025/
