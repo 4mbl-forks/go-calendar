@@ -21,18 +21,23 @@ DTSTART:20251026T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241107T022059
+DTSTART:20241108T020849
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:august-communityday2025
-DTSTAMP:20250804T022059Z
+DTSTAMP:20250805T020849Z
 SUMMARY:Rookidee Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2025/
@@ -44,6 +49,54 @@ DTEND;TZID=Europe/Helsinki:20250830T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Rookidee Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:september-communityday2025
+DTSTAMP:20250805T020849Z
+SUMMARY:September Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /september-communityday2025/
+URL:https://leekduck.com/events/september-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20250914T140000
+DTEND;TZID=Europe/Helsinki:20250914T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:September Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2025
+DTSTAMP:20250805T020849Z
+SUMMARY:October Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /october-communityday2025/
+URL:https://leekduck.com/events/october-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20251012T140000
+DTEND;TZID=Europe/Helsinki:20251012T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:October Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2025
+DTSTAMP:20250805T020849Z
+SUMMARY:November Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /november-communityday2025/
+URL:https://leekduck.com/events/november-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20251130T140000
+DTEND;TZID=Europe/Helsinki:20251130T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:November Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

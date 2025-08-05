@@ -25,40 +25,22 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241107T022059
+DTSTART:20241108T020849
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-rock-type-pokemon-2025-08-02
-DTSTAMP:20250804T022059Z
-SUMMARY:Rock-type Pokémon PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-rock-type-pokemon-2025-08-02/
-URL:https://leekduck.com/events/pokemon-showcase-rock-type-pokemon-2025-08-
- 02/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250802
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250803
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rock-type Pokémon PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-swirlix-2025-08-04
-DTSTAMP:20250804T022059Z
+DTSTAMP:20250805T020849Z
 SUMMARY:Swirlix PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-swirlix-2025-08-04/
 URL:https://leekduck.com/events/pokemon-showcase-swirlix-2025-08-04/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250803
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250804
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250804
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250805
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Swirlix PokéStop Showcases
