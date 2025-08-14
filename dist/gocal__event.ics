@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241116T015712
+DTSTART:20241117T015714
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cozy-companions
-DTSTAMP:20250813T015712Z
-SUMMARY:Cozy Companions
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /cozy-companions/
-URL:https://leekduck.com/events/cozy-companions/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-06-cozy-companions/cozy-companions.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250806
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250812
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Cozy Companions
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-world-championships-go-battle-weekend
-DTSTAMP:20250813T015712Z
+DTSTAMP:20250814T015714Z
 SUMMARY:2025 Pokémon World Championships Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championships-go-battle-weekend/
@@ -68,7 +51,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:delightful-days-taken-over
-DTSTAMP:20250813T015712Z
+DTSTAMP:20250814T015714Z
 SUMMARY:Delightful Days: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /delightful-days-taken-over/
@@ -85,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dark-skies
-DTSTAMP:20250813T015712Z
+DTSTAMP:20250814T015714Z
 SUMMARY:Pokémon GO: Dark Skies
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dark-skies/
@@ -102,13 +85,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250813T015712Z
+DTSTAMP:20250814T015714Z
 SUMMARY:Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/
 URL:https://leekduck.com/events/sunkissed-shores/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-25-sunkissed-shores/sunkissed-shores.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250825
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250831
 BEGIN:VALARM
