@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241116T015712
+DTSTART:20241119T015229
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-great-buddy-2025-08-12
-DTSTAMP:20250813T015712Z
-SUMMARY:Great Buddy or Higher PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 19:59.\n\nhttps://leekduck.com/events
- /pokemon-showcase-great-buddy-2025-08-12/
-URL:https://leekduck.com/events/pokemon-showcase-great-buddy-2025-08-12/
+UID:pokemon-showcase-pikachu-2025-08-16
+DTSTAMP:20250816T015229Z
+SUMMARY:Pikachu PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-pikachu-2025-08-16/
+URL:https://leekduck.com/events/pokemon-showcase-pikachu-2025-08-16/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250811
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250812
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250816
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250817
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Great Buddy or Higher PokéStop Showcases
+DESCRIPTION:Pikachu PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
