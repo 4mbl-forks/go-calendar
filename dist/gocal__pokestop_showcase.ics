@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241120T020357
+DTSTART:20241121T020421
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-pikachu-2025-08-16
-DTSTAMP:20250817T020357Z
+DTSTAMP:20250818T020421Z
 SUMMARY:Pikachu PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pikachu-2025-08-16/
@@ -44,6 +44,24 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250817
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Pikachu PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-zacian-zamazenta-2025-08-18
+DTSTAMP:20250818T020421Z
+SUMMARY:Zacian and Zamazenta PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-zacian-zamazenta-2025-08-18/
+URL:https://leekduck.com/events/pokemon-showcase-zacian-zamazenta-2025-08-1
+ 8/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250818
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250819
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zacian and Zamazenta PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
