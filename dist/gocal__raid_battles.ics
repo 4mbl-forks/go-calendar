@@ -25,46 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241122T015146
+DTSTART:20241122T173617
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ho-oh-in-5-star-raid-battles-august-2025
-DTSTAMP:20250819T015146Z
-SUMMARY:Ho-Oh in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /ho-oh-in-5-star-raid-battles-august-2025/
-URL:https://leekduck.com/events/ho-oh-in-5-star-raid-battles-august-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/hooh.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250811
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250818
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ho-Oh in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-slowbro-in-mega-raids-august-2025
-DTSTAMP:20250819T015146Z
-SUMMARY:Mega Slowbro in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-slowbro-in-mega-raids-august-2025/
-URL:https://leekduck.com/events/mega-slowbro-in-mega-raids-august-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250811
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250818
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Slowbro in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-pidgeot-in-mega-raids-august-2025
-DTSTAMP:20250819T015146Z
+DTSTAMP:20250819T173617Z
 SUMMARY:Mega Pidgeot in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pidgeot-in-mega-raids-august-2025/
@@ -80,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-september-2025
-DTSTAMP:20250819T015146Z
+DTSTAMP:20250819T173617Z
 SUMMARY:Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-september-2025/
@@ -97,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:necrozma-in-5-star-raid-battles-august-september-2025
-DTSTAMP:20250819T015146Z
+DTSTAMP:20250819T173617Z
 SUMMARY:Necrozma in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /necrozma-in-5-star-raid-battles-august-september-2025/
@@ -114,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-august-september-2025
-DTSTAMP:20250819T015146Z
+DTSTAMP:20250819T173617Z
 SUMMARY:Shadow Regirock in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-august-september-2025/
