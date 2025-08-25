@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241127T015930
+DTSTART:20241128T015353
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-steel-type-pokemon-2025-08-23
-DTSTAMP:20250824T015930Z
+DTSTAMP:20250825T015353Z
 SUMMARY:Steel-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-steel-type-pokemon-2025-08-23/
@@ -45,6 +45,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250824
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Steel-type Pokémon PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-dondozo-2025-08-25
+DTSTAMP:20250825T015353Z
+SUMMARY:Dondozo PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-dondozo-2025-08-25/
+URL:https://leekduck.com/events/pokemon-showcase-dondozo-2025-08-25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250825
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250826
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dondozo PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
