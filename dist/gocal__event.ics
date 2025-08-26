@@ -21,18 +21,23 @@ DTSTART:20251026T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241128T015353
+DTSTART:20241129T015002
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250825T015353Z
+DTSTAMP:20250826T015002Z
 SUMMARY:Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/
@@ -44,6 +49,41 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250831
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Sunkissed Shores
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-concierge-celebration
+DTSTAMP:20250826T015002Z
+SUMMARY:Pokémon Concierge Celebration
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-concierge-celebration/
+URL:https://leekduck.com/events/pokemon-concierge-celebration/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-09-09-pokemon-concierge-celebration/pokemon-concierge-celebration
+ .jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250909
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250914
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pokémon Concierge Celebration
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xp-celebration-event-2025
+DTSTAMP:20250826T015002Z
+SUMMARY:XP Celebration
+DESCRIPTION:Starts at 13:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+ /xp-celebration-event-2025/
+URL:https://leekduck.com/events/xp-celebration-event-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-08-25-xp-celebration-event-2025/xp-event.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250825
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251014
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:XP Celebration
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
