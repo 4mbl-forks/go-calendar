@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241130T014641
+DTSTART:20241201T014559
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sunkissed-shores
-DTSTAMP:20250827T014641Z
+DTSTAMP:20250828T014559Z
 SUMMARY:Sunkissed Shores
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sunkissed-shores/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kanto-celebration-2025
-DTSTAMP:20250827T014641Z
+DTSTAMP:20250828T014559Z
 SUMMARY:Kanto Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /kanto-celebration-2025/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-concierge-celebration
-DTSTAMP:20250827T014641Z
+DTSTAMP:20250828T014559Z
 SUMMARY:Pokémon Concierge Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-concierge-celebration/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xp-celebration-event-2025
-DTSTAMP:20250827T014641Z
+DTSTAMP:20250828T014559Z
 SUMMARY:XP Celebration
 DESCRIPTION:Starts at 13:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /xp-celebration-event-2025/
