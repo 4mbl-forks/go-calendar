@@ -21,28 +21,97 @@ DTSTART:20251026T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241201T014559
+DTSTART:20241202T014546
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20250827
-DTSTAMP:20250828T014559Z
-SUMMARY:Necrozma Raid Hour
+UID:raidhour20250903
+DTSTAMP:20250829T014546Z
+SUMMARY:Palkia (Origin Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250827/
-URL:https://leekduck.com/events/raidhour20250827/
+ /raidhour20250903/
+URL:https://leekduck.com/events/raidhour20250903/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20250827T180000
-DTEND;TZID=Europe/Helsinki:20250827T190000
+DTSTART;TZID=Europe/Helsinki:20250903T180000
+DTEND;TZID=Europe/Helsinki:20250903T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Necrozma Raid Hour
+DESCRIPTION:Palkia (Origin Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250910
+DTSTAMP:20250829T014546Z
+SUMMARY:Palkia (Origin Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250910/
+URL:https://leekduck.com/events/raidhour20250910/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250910T180000
+DTEND;TZID=Europe/Helsinki:20250910T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Palkia (Origin Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250917
+DTSTAMP:20250829T014546Z
+SUMMARY:Mega Latias and Mega Latios Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250917/
+URL:https://leekduck.com/events/raidhour20250917/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250917T180000
+DTEND;TZID=Europe/Helsinki:20250917T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Latias and Mega Latios Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20250924
+DTSTAMP:20250829T014546Z
+SUMMARY:Dialga (Origin Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20250924/
+URL:https://leekduck.com/events/raidhour20250924/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20250924T180000
+DTEND;TZID=Europe/Helsinki:20250924T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dialga (Origin Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251001
+DTSTAMP:20250829T014546Z
+SUMMARY:Dialga (Origin Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251001/
+URL:https://leekduck.com/events/raidhour20251001/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20251001T180000
+DTEND;TZID=Europe/Helsinki:20251001T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dialga (Origin Forme) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

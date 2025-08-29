@@ -10,6 +10,22 @@ X-WR-CALDESC:All Pokémon GO Wild Area events\, in your local time\, auto-u
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
+TZID:Z
+BEGIN:STANDARD
+DTSTART:20250210T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20241202T014546
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
 BEGIN:DAYLIGHT
 DTSTART:20250330T020000
@@ -27,29 +43,39 @@ TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC
-BEGIN:STANDARD
-DTSTART:20241201T014559
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2025-nagasaki-japan
-DTSTAMP:20250828T014559Z
+DTSTAMP:20250829T014546Z
 SUMMARY:Pokémon GO Wild Area: Nagasaki
-DESCRIPTION:Starts at 09:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 00:00\, ends at 08:00.\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2025-nagasaki-japan/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nag
  asaki-key-art.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251107
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251109
+DTSTART;TZID=Z;VALUE=DATE:20251107
+DTEND;TZID=Z;VALUE=DATE:20251109
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Pokémon GO Wild Area: Nagasaki
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-go-wild-area-2025-global
+DTSTAMP:20250829T014546Z
+SUMMARY:Pokémon GO Wild Area: Global
+DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-wild-area-2025-global/
+URL:https://leekduck.com/events/pokemon-go-wild-area-2025-global/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-
+ art.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251115
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251116
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pokémon GO Wild Area: Global
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -21,18 +21,23 @@ DTSTART:20251026T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241201T014559
+DTSTART:20241202T014546
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2025-09-01
-DTSTAMP:20250828T014559Z
+DTSTAMP:20250829T014546Z
 SUMMARY:Dynamax Pidove during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-09-01/
@@ -44,6 +49,74 @@ DTEND;TZID=Europe/Helsinki:20250901T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Pidove during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-09-08
+DTSTAMP:20250829T014546Z
+SUMMARY:Dynamax Trubbish during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-09-08/
+URL:https://leekduck.com/events/max-mondays-2025-09-08/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250908T180000
+DTEND;TZID=Europe/Helsinki:20250908T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Trubbish during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-09-15
+DTSTAMP:20250829T014546Z
+SUMMARY:Dynamax Abra during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-09-15/
+URL:https://leekduck.com/events/max-mondays-2025-09-15/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250915T180000
+DTEND;TZID=Europe/Helsinki:20250915T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Abra during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-09-22
+DTSTAMP:20250829T014546Z
+SUMMARY:Dynamax Chansey during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-09-22/
+URL:https://leekduck.com/events/max-mondays-2025-09-22/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250922T180000
+DTEND;TZID=Europe/Helsinki:20250922T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Chansey during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2025-09-29
+DTSTAMP:20250829T014546Z
+SUMMARY:Dynamax Beldum during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2025-09-29/
+URL:https://leekduck.com/events/max-mondays-2025-09-29/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20250929T180000
+DTEND;TZID=Europe/Helsinki:20250929T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Beldum during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

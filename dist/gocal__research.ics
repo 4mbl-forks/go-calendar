@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241201T014559
+DTSTART:20241202T014546
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-world-championship-2025-timed-research-twitch-drops
-DTSTAMP:20250828T014559Z
+DTSTAMP:20250829T014546Z
 SUMMARY:Twitch Drops for 2025 Pokémon World Championships
 DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championship-2025-timed-research-twitch-drops/

@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241121T020421
+DTSTART:20241202T014546
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:shadow-kyogre-raid-weekend-august-2025
-DTSTAMP:20250818T020421Z
-SUMMARY:Shadow Kyogre Raid Weekend
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /shadow-kyogre-raid-weekend-august-2025/
-URL:https://leekduck.com/events/shadow-kyogre-raid-weekend-august-2025/
+UID:shadow-raid-weekend-2025
+DTSTAMP:20250829T014546Z
+SUMMARY:Shadow Raid Weekend
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /shadow-raid-weekend-2025/
+URL:https://leekduck.com/events/shadow-raid-weekend-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250816
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250817
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250920
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250921
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Shadow Kyogre Raid Weekend
+DESCRIPTION:Shadow Raid Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -21,18 +21,23 @@ DTSTART:20251026T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241201T014559
+DTSTART:20241202T014546
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-september-2025
-DTSTAMP:20250828T014559Z
+DTSTAMP:20250829T014546Z
 SUMMARY:Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-september-2025/
@@ -49,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:necrozma-in-5-star-raid-battles-august-september-2025
-DTSTAMP:20250828T014559Z
+DTSTAMP:20250829T014546Z
 SUMMARY:Necrozma in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /necrozma-in-5-star-raid-battles-august-september-2025/
@@ -66,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-august-september-2025
-DTSTAMP:20250828T014559Z
+DTSTAMP:20250829T014546Z
 SUMMARY:Shadow Regirock in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-august-september-2025/
@@ -79,6 +84,125 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250902
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Shadow Regirock in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-kanto-starters-in-mega-raids-september-2025
+DTSTAMP:20250829T014546Z
+SUMMARY:Mega Kanto Starters in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-kanto-starters-in-mega-raids-september-2025/
+URL:https://leekduck.com/events/mega-kanto-starters-in-mega-raids-september
+ -2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250902
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250909
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Kanto Starters in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:palkia-in-5-star-raid-battles-september-2025
+DTSTAMP:20250829T014546Z
+SUMMARY:Palkia in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /palkia-in-5-star-raid-battles-september-2025/
+URL:https://leekduck.com/events/palkia-in-5-star-raid-battles-september-202
+ 5/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250902
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250916
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Palkia in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-pidgeot-gyarados-in-mega-raids-september-2025
+DTSTAMP:20250829T014546Z
+SUMMARY:Mega Pidgeot and Mega Gyarados in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-pidgeot-gyarados-in-mega-raids-september-2025/
+URL:https://leekduck.com/events/mega-pidgeot-gyarados-in-mega-raids-septemb
+ er-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250909
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250916
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Pidgeot and Mega Gyarados in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-psychic-dragon-in-mega-raids-september-2025
+DTSTAMP:20250829T014546Z
+SUMMARY:Mega Gardevoir\, Latias\, Latios\, and Gallade in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-psychic-dragon-in-mega-raids-september-2025/
+URL:https://leekduck.com/events/mega-psychic-dragon-in-mega-raids-september
+ -2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250916
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250923
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Gardevoir\, Latias\, Latios\, and Gallade in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-kangaskhan-lopunny-in-mega-raids-september-2025
+DTSTAMP:20250829T014546Z
+SUMMARY:Mega Kangaskhan and Mega Lopunny in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-kangaskhan-lopunny-in-mega-raids-september-2025/
+URL:https://leekduck.com/events/mega-kangaskhan-lopunny-in-mega-raids-septe
+ mber-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250923
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250930
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Kangaskhan and Mega Lopunny in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dialga-in-5-star-raid-battles-september-october-2025
+DTSTAMP:20250829T014546Z
+SUMMARY:Dialga in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /dialga-in-5-star-raid-battles-september-october-2025/
+URL:https://leekduck.com/events/dialga-in-5-star-raid-battles-september-oct
+ ober-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250923
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251007
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dialga in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-steel-fighting-in-mega-raids-september-october-2025
+DTSTAMP:20250829T014546Z
+SUMMARY:Mega Steelix\, Scizor\, and Lucario in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-steel-fighting-in-mega-raids-september-october-2025/
+URL:https://leekduck.com/events/mega-steel-fighting-in-mega-raids-september
+ -october-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250930
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251007
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Steelix\, Scizor\, and Lucario in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
