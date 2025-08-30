@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241202T014546
+DTSTART:20241203T014037
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-august-september-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-august-september-2025/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:necrozma-in-5-star-raid-battles-august-september-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Necrozma in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /necrozma-in-5-star-raid-battles-august-september-2025/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regirock-in-shadow-raids-august-september-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Shadow Regirock in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regirock-in-shadow-raids-august-september-2025/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kanto-starters-in-mega-raids-september-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Mega Kanto Starters in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kanto-starters-in-mega-raids-september-2025/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:palkia-in-5-star-raid-battles-september-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Palkia in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /palkia-in-5-star-raid-battles-september-2025/
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pidgeot-gyarados-in-mega-raids-september-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Mega Pidgeot and Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pidgeot-gyarados-in-mega-raids-september-2025/
@@ -140,7 +140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-psychic-dragon-in-mega-raids-september-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Mega Gardevoir\, Latias\, Latios\, and Gallade in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-psychic-dragon-in-mega-raids-september-2025/
@@ -157,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-kangaskhan-lopunny-in-mega-raids-september-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Mega Kangaskhan and Mega Lopunny in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-kangaskhan-lopunny-in-mega-raids-september-2025/
@@ -174,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-september-october-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Dialga in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /dialga-in-5-star-raid-battles-september-october-2025/
@@ -191,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-steel-fighting-in-mega-raids-september-october-2025
-DTSTAMP:20250829T014546Z
+DTSTAMP:20250830T014037Z
 SUMMARY:Mega Steelix\, Scizor\, and Lucario in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steel-fighting-in-mega-raids-september-october-2025/

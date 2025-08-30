@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241130T014641
+DTSTART:20241203T014037
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-dondozo-2025-08-25
-DTSTAMP:20250827T014641Z
-SUMMARY:Dondozo PokéStop Showcases
+UID:rookidee-corviknight-showcase
+DTSTAMP:20250830T014037Z
+SUMMARY:Rookidee and Corviknight PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-dondozo-2025-08-25/
-URL:https://leekduck.com/events/pokemon-showcase-dondozo-2025-08-25/
+ /rookidee-corviknight-showcase/
+URL:https://leekduck.com/events/rookidee-corviknight-showcase/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250825
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250826
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250830
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250831
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dondozo PokéStop Showcases
+DESCRIPTION:Rookidee and Corviknight PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
