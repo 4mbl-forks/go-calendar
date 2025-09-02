@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241205T020100
+DTSTART:20241206T014733
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rookidee-corviknight-showcase
-DTSTAMP:20250901T020100Z
-SUMMARY:Rookidee and Corviknight PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /rookidee-corviknight-showcase/
-URL:https://leekduck.com/events/rookidee-corviknight-showcase/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250830
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250831
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rookidee and Corviknight PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gyarados-showcase
-DTSTAMP:20250901T020100Z
+DTSTAMP:20250902T014733Z
 SUMMARY:Gyarados PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gyarados-showcase/

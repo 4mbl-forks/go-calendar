@@ -25,25 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241205T020100
+DTSTART:20241206T014733
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:shadow-raid-weekend-2025
-DTSTAMP:20250901T020100Z
-SUMMARY:Shadow Raid Weekend
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /shadow-raid-weekend-2025/
-URL:https://leekduck.com/events/shadow-raid-weekend-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+UID:shadow-groudon-raid-weekend-2025
+DTSTAMP:20250902T014733Z
+SUMMARY:Shadow Groudon Raid Weekend
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-groudon-raid-weekend-2025/
+URL:https://leekduck.com/events/shadow-groudon-raid-weekend-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-09-20-shadow-groudon-raid-weekend-2025/groudon-shadow-raid-weeken
+ d-2025.jpg?v2
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250920
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250921
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Shadow Raid Weekend
+DESCRIPTION:Shadow Groudon Raid Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
