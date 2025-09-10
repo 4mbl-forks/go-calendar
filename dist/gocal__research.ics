@@ -10,37 +10,41 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
-TZID:Z
+TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 BEGIN:STANDARD
-DTSTART:20241118T160000
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
+DTSTART:20251026T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241204T015101
+DTSTART:20241214T014132
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-world-championship-2025-timed-research-twitch-drops
-DTSTAMP:20250831T015101Z
-SUMMARY:Twitch Drops for 2025 Pokémon World Championships
-DESCRIPTION:Starts at 16:00\, ends at 02:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championship-2025-timed-research-twitch-drops/
-URL:https://leekduck.com/events/pokemon-world-championship-2025-timed-resea
- rch-twitch-drops/
+UID:pokemon-concierge-bonus-timed-research
+DTSTAMP:20250910T014132Z
+SUMMARY:Pokémon Concierge Bonus Timed Research
+DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-concierge-bonus-timed-research/
+URL:https://leekduck.com/events/pokemon-concierge-bonus-timed-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-12-pokemon-world-championship-2025-timed-research-twitch-drops
- /wcs-2025-twitch-drops.jpg
-DTSTART;TZID=Z;VALUE=DATE:20250815
-DTEND;TZID=Z;VALUE=DATE:20250831
+ 025/2025-09-09-pokemon-concierge-bonus-timed-research/swim-ring-psyduck-pr
+ omo.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250909
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250914
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Twitch Drops for 2025 Pokémon World Championships
+DESCRIPTION:Pokémon Concierge Bonus Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
