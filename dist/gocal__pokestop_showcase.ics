@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241215T014404
+DTSTART:20241218T014804
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:venusaur-charizard-blastoise-showcase
-DTSTAMP:20250911T014404Z
-SUMMARY:Venusaur\, Charizard\, and Blastoise PokéStop Showcases
+UID:flabebe-showcase
+DTSTAMP:20250914T014804Z
+SUMMARY:Flabébé PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /venusaur-charizard-blastoise-showcase/
-URL:https://leekduck.com/events/venusaur-charizard-blastoise-showcase/
+ /flabebe-showcase/
+URL:https://leekduck.com/events/flabebe-showcase/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250908
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250910
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250913
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250914
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Venusaur\, Charizard\, and Blastoise PokéStop Showcases
+DESCRIPTION:Flabébé PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
