@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241219T014944
+DTSTART:20241220T014125
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:flabebe-showcase
-DTSTAMP:20250915T014944Z
-SUMMARY:Flabébé PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /flabebe-showcase/
-URL:https://leekduck.com/events/flabebe-showcase/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250913
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250914
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Flabébé PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:psyduck-arcanine-shinx-sealeo-showcase
-DTSTAMP:20250915T014944Z
+DTSTAMP:20250916T014125Z
 SUMMARY:Psyduck\, Arcanine\, Shinx\, and Sealeo PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /psyduck-arcanine-shinx-sealeo-showcase/
