@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241223T014414
+DTSTART:20241224T013946
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-camerupt-raid-day-september-2025
-DTSTAMP:20250919T014414Z
+DTSTAMP:20250920T013946Z
 SUMMARY:Mega Camerupt Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-camerupt-raid-day-september-2025/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-raid-day-october-2025
-DTSTAMP:20250919T014414Z
+DTSTAMP:20250920T013946Z
 SUMMARY:Mega Metagross Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-metagross-raid-day-october-2025/
