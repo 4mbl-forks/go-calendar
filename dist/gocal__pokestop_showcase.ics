@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241226T015130
+DTSTART:20241227T014155
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:indeedee-showcase
-DTSTAMP:20250922T015130Z
-SUMMARY:Indeedee PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /indeedee-showcase/
-URL:https://leekduck.com/events/indeedee-showcase/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250920
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250921
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Indeedee PokéStop Showcases
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:ditto-dunsparce-dudunsparce-showcase
-DTSTAMP:20250922T015130Z
+DTSTAMP:20250923T014155Z
 SUMMARY:Ditto\, Dunsparce\, Dudunsparce PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ditto-dunsparce-dudunsparce-showcase/
