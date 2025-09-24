@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241227T014155
+DTSTART:20241228T014324
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-bangkok-2025
-DTSTAMP:20250923T014155Z
+DTSTAMP:20250924T014324Z
 SUMMARY:Bangkok\, Thailand - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-bangkok-2025/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-amsterdam-2025
-DTSTAMP:20250923T014155Z
+DTSTAMP:20250924T014324Z
 SUMMARY:Amsterdam\, Netherlands - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-amsterdam-2025/
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-valencia-2025
-DTSTAMP:20250923T014155Z
+DTSTAMP:20250924T014324Z
 SUMMARY:Valencia\, Spain - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-valencia-2025/
@@ -91,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-cancun-2025
-DTSTAMP:20250923T014155Z
+DTSTAMP:20250924T014324Z
 SUMMARY:Cancún\, Mexico - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-cancun-2025/
@@ -109,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-city-safari-vancouver-2025
-DTSTAMP:20250923T014155Z
+DTSTAMP:20250924T014324Z
 SUMMARY:Vancouver\, Canada - Pokémon GO City Safari
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-city-safari-vancouver-2025/
