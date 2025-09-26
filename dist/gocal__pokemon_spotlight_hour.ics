@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241229T014404
+DTSTART:20241230T014320
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-09-30
-DTSTAMP:20250925T014404Z
+DTSTAMP:20250926T014320Z
 SUMMARY:Aron Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-09-30/
@@ -49,6 +49,74 @@ DTEND;TZID=Europe/Helsinki:20250930T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Aron Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-10-07
+DTSTAMP:20250926T014320Z
+SUMMARY:Ferroseed Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-10-07/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-07/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20251007T180000
+DTEND;TZID=Europe/Helsinki:20251007T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ferroseed Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-10-14
+DTSTAMP:20250926T014320Z
+SUMMARY:Petilil Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-10-14/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-14/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20251014T180000
+DTEND;TZID=Europe/Helsinki:20251014T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Petilil Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-10-21
+DTSTAMP:20250926T014320Z
+SUMMARY:Gastly Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-10-21/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-21/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20251021T180000
+DTEND;TZID=Europe/Helsinki:20251021T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gastly Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-10-28
+DTSTAMP:20250926T014320Z
+SUMMARY:Sinistea Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-10-28/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-10-28/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20251028T180000
+DTEND;TZID=Europe/Helsinki:20251028T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sinistea Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

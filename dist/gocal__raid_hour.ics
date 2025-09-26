@@ -30,30 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241229T014404
+DTSTART:20241230T014320
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20250924
-DTSTAMP:20250925T014404Z
-SUMMARY:Dialga (Origin Forme) Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20250924/
-URL:https://leekduck.com/events/raidhour20250924/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20250924T180000
-DTEND;TZID=Europe/Helsinki:20250924T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dialga (Origin Forme) Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20251001
-DTSTAMP:20250925T014404Z
+DTSTAMP:20250926T014320Z
 SUMMARY:Dialga (Origin Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251001/
@@ -64,6 +48,70 @@ DTEND;TZID=Europe/Helsinki:20251001T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dialga (Origin Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251008
+DTSTAMP:20250926T014320Z
+SUMMARY:Deoxys (Normal &amp\; Defense Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251008/
+URL:https://leekduck.com/events/raidhour20251008/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20251008T180000
+DTEND;TZID=Europe/Helsinki:20251008T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deoxys (Normal &amp\; Defense Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251015
+DTSTAMP:20250926T014320Z
+SUMMARY:Deoxys (Attack &amp\; Speed Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251015/
+URL:https://leekduck.com/events/raidhour20251015/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20251015T180000
+DTEND;TZID=Europe/Helsinki:20251015T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deoxys (Attack &amp\; Speed Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251022
+DTSTAMP:20250926T014320Z
+SUMMARY:Genesect Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251022/
+URL:https://leekduck.com/events/raidhour20251022/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20251022T180000
+DTEND;TZID=Europe/Helsinki:20251022T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Genesect Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251029
+DTSTAMP:20250926T014320Z
+SUMMARY:Giratina (Origin Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251029/
+URL:https://leekduck.com/events/raidhour20251029/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20251029T180000
+DTEND;TZID=Europe/Helsinki:20251029T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Giratina (Origin Forme) Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
