@@ -30,32 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250102T014624
+DTSTART:20250103T014109
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mega-camerupt-raid-day-september-2025
-DTSTAMP:20250929T014624Z
-SUMMARY:Mega Camerupt Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-camerupt-raid-day-september-2025/
-URL:https://leekduck.com/events/mega-camerupt-raid-day-september-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-28-mega-camerupt-raid-day-september-2025/mega-camerupt-raid-da
- y.jpg?v2
-DTSTART;TZID=Europe/Helsinki:20250928T140000
-DTEND;TZID=Europe/Helsinki:20250928T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Camerupt Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-metagross-raid-day-october-2025
-DTSTAMP:20250929T014624Z
+DTSTAMP:20250930T014109Z
 SUMMARY:Mega Metagross Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-metagross-raid-day-october-2025/
@@ -73,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-rayquaza-raid-day-november-2025
-DTSTAMP:20250929T014624Z
+DTSTAMP:20250930T014109Z
 SUMMARY:Mega Rayquaza Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /mega-rayquaza-raid-day-november-2025/

@@ -30,25 +30,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250102T014624
+DTSTART:20250103T014109
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:camerupt-dudunsparce-showcase
-DTSTAMP:20250929T014624Z
-SUMMARY:Camerupt and Dudunsparce PokéStop Showcases
+UID:steel-type-showcases-2025-09-29
+DTSTAMP:20250930T014109Z
+SUMMARY:Steel-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /camerupt-dudunsparce-showcase/
-URL:https://leekduck.com/events/camerupt-dudunsparce-showcase/
+ /steel-type-showcases-2025-09-29/
+URL:https://leekduck.com/events/steel-type-showcases-2025-09-29/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250927
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250928
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250929
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251001
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Camerupt and Dudunsparce PokéStop Showcases
+DESCRIPTION:Steel-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
