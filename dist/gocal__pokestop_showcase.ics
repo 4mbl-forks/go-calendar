@@ -30,25 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250105T014123
+DTSTART:20250107T013752
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:steel-type-showcases-2025-09-29
-DTSTAMP:20251002T014123Z
-SUMMARY:Steel-type PokéStop Showcases
+UID:pokemon-showcase-metagross-duraludon-2025-10-04
+DTSTAMP:20251004T013752Z
+SUMMARY:Metagross and Duraludon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /steel-type-showcases-2025-09-29/
-URL:https://leekduck.com/events/steel-type-showcases-2025-09-29/
+ /pokemon-showcase-metagross-duraludon-2025-10-04/
+URL:https://leekduck.com/events/pokemon-showcase-metagross-duraludon-2025-1
+ 0-04/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250929
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251001
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251004
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251005
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Steel-type PokéStop Showcases
+DESCRIPTION:Metagross and Duraludon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
