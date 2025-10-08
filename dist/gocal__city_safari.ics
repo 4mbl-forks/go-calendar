@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20241231T030000
+DTSTART:20250317T230000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,98 +20,62 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250102T014624
+DTSTART:20250111T014234
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-city-safari-bangkok-2025
-DTSTAMP:20250929T014624Z
-SUMMARY:Bangkok\, Thailand - Pokémon GO City Safari
-DESCRIPTION:Starts at 03:00\, ends at 11:00.\n\nhttps://leekduck.com/events
- /pokemon-go-city-safari-bangkok-2025/
-URL:https://leekduck.com/events/pokemon-go-city-safari-bangkok-2025/
+UID:pokemon-go-city-safari-sydney-2025
+DTSTAMP:20251008T014234Z
+SUMMARY:Sydney\, Australia - Pokémon GO City Safari
+DESCRIPTION:Starts at 23:00\, ends at 07:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-city-safari-sydney-2025/
+URL:https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-27-pokemon-go-city-safari-bangkok-2025/city-safari-bangkok-202
- 5.jpg
-DTSTART;TZID=Z;VALUE=DATE:20250927
-DTEND;TZID=Z;VALUE=DATE:20250928
+ 025/2025-12-13-pokemon-go-city-safari-sydney-2025/city-safari-sydney-2025.
+ jpg?v2
+DTSTART;TZID=Z;VALUE=DATE:20251212
+DTEND;TZID=Z;VALUE=DATE:20251214
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Bangkok\, Thailand - Pokémon GO City Safari
+DESCRIPTION:Sydney\, Australia - Pokémon GO City Safari
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pokemon-go-city-safari-amsterdam-2025
-DTSTAMP:20250929T014624Z
-SUMMARY:Amsterdam\, Netherlands - Pokémon GO City Safari
-DESCRIPTION:Starts at 08:00\, ends at 16:00.\n\nhttps://leekduck.com/events
- /pokemon-go-city-safari-amsterdam-2025/
-URL:https://leekduck.com/events/pokemon-go-city-safari-amsterdam-2025/
+UID:pokemon-go-city-safari-buenos-aires-2025
+DTSTAMP:20251008T014234Z
+SUMMARY:Buenos Aires\, Argentina - Pokémon GO City Safari
+DESCRIPTION:Starts at 13:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /pokemon-go-city-safari-buenos-aires-2025/
+URL:https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-27-pokemon-go-city-safari-amsterdam-2025/city-safari-amsterdam
- -2025.jpg
-DTSTART;TZID=Z;VALUE=DATE:20250927
-DTEND;TZID=Z;VALUE=DATE:20250928
+ 025/2025-12-13-pokemon-go-city-safari-buenos-aires-2025/city-safari-buenos
+ -aires-2025.jpg?v2
+DTSTART;TZID=Z;VALUE=DATE:20251213
+DTEND;TZID=Z;VALUE=DATE:20251214
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Amsterdam\, Netherlands - Pokémon GO City Safari
+DESCRIPTION:Buenos Aires\, Argentina - Pokémon GO City Safari
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pokemon-go-city-safari-valencia-2025
-DTSTAMP:20250929T014624Z
-SUMMARY:Valencia\, Spain - Pokémon GO City Safari
-DESCRIPTION:Starts at 08:00\, ends at 16:00.\n\nhttps://leekduck.com/events
- /pokemon-go-city-safari-valencia-2025/
-URL:https://leekduck.com/events/pokemon-go-city-safari-valencia-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-27-pokemon-go-city-safari-valencia-2025/city-safari-valencia-2
- 025.jpg
-DTSTART;TZID=Z;VALUE=DATE:20250927
-DTEND;TZID=Z;VALUE=DATE:20250928
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Valencia\, Spain - Pokémon GO City Safari
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-go-city-safari-cancun-2025
-DTSTAMP:20250929T014624Z
-SUMMARY:Cancún\, Mexico - Pokémon GO City Safari
+UID:pokemon-go-city-safari-miami-2025
+DTSTAMP:20251008T014234Z
+SUMMARY:Miami\, USA - Pokémon GO City Safari
 DESCRIPTION:Starts at 15:00\, ends at 23:00.\n\nhttps://leekduck.com/events
- /pokemon-go-city-safari-cancun-2025/
-URL:https://leekduck.com/events/pokemon-go-city-safari-cancun-2025/
+ /pokemon-go-city-safari-miami-2025/
+URL:https://leekduck.com/events/pokemon-go-city-safari-miami-2025/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-27-pokemon-go-city-safari-cancun-2025/city-safari-cancun-2025.
- jpg
-DTSTART;TZID=Z;VALUE=DATE:20250927
-DTEND;TZID=Z;VALUE=DATE:20250928
+ 025/2025-12-13-pokemon-go-city-safari-miami-2025/city-safari-miami-2025.jp
+ g?v2
+DTSTART;TZID=Z;VALUE=DATE:20251213
+DTEND;TZID=Z;VALUE=DATE:20251214
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Cancún\, Mexico - Pokémon GO City Safari
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-go-city-safari-vancouver-2025
-DTSTAMP:20250929T014624Z
-SUMMARY:Vancouver\, Canada - Pokémon GO City Safari
-DESCRIPTION:Starts at 17:00\, ends at 01:00.\n\nhttps://leekduck.com/events
- /pokemon-go-city-safari-vancouver-2025/
-URL:https://leekduck.com/events/pokemon-go-city-safari-vancouver-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-09-27-pokemon-go-city-safari-vancouver-2025/city-safari-vancouver
- -2025.jpg
-DTSTART;TZID=Z;VALUE=DATE:20250927
-DTEND;TZID=Z;VALUE=DATE:20250929
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Vancouver\, Canada - Pokémon GO City Safari
+DESCRIPTION:Miami\, USA - Pokémon GO City Safari
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
