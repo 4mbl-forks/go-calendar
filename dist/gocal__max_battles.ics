@@ -21,30 +21,35 @@ DTSTART:20251026T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20241107T022059
+DTSTART:20250112T014311
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-butterfree-max-battle-day
-DTSTAMP:20250804T022059Z
-SUMMARY:Gigantamax Butterfree Max Battle Day
+UID:gigantamax-garbodor-max-battle-day
+DTSTAMP:20251009T014311Z
+SUMMARY:Gigantamax Garbodor Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-butterfree-max-battle-day/
-URL:https://leekduck.com/events/gigantamax-butterfree-max-battle-day/
+ /gigantamax-garbodor-max-battle-day/
+URL:https://leekduck.com/events/gigantamax-garbodor-max-battle-day/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-08-03-gigantamax-butterfree-max-battle-day/gigantamax-butterfree-
+ 025/2025-11-01-gigantamax-garbodor-max-battle-day/gigantamax-garbodor-max-
  battle-day.jpg
-DTSTART;TZID=Europe/Helsinki:20250803T140000
-DTEND;TZID=Europe/Helsinki:20250803T170000
+DTSTART;TZID=Europe/Helsinki:20251101T140000
+DTEND;TZID=Europe/Helsinki:20251101T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Gigantamax Butterfree Max Battle Day
+DESCRIPTION:Gigantamax Garbodor Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
