@@ -53,7 +53,7 @@ jobs:
         run: git checkout -- composer.json
 
       - name: Commit any changes back to the repo
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: '[GitHub Actions Bot: Publish Site Update]'
           commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
