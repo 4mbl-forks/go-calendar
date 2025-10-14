@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250116T015029
+DTSTART:20250117T014357
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-solosis-2025-10-11
-DTSTAMP:20251013T015029Z
-SUMMARY:Solosis PokéStop Showcase
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-solosis-2025-10-11/
-URL:https://leekduck.com/events/pokemon-showcase-solosis-2025-10-11/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
- es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251011
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251012
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Solosis PokéStop Showcase
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-showcase-pumpkaboo-gourgeist-2025-10-13
-DTSTAMP:20251013T015029Z
+DTSTAMP:20251014T014357Z
 SUMMARY:Pumpkaboo\, Gourgeist\, and Applin PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pumpkaboo-gourgeist-2025-10-13/

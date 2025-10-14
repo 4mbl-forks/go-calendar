@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250116T015029
+DTSTART:20250117T014357
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:october-communityday2025
-DTSTAMP:20251013T015029Z
-SUMMARY:Solosis Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /october-communityday2025/
-URL:https://leekduck.com/events/october-communityday2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-10-12-october-communityday2025/solosis-community-day-october.jpg
-DTSTART;TZID=Europe/Helsinki:20251012T140000
-DTEND;TZID=Europe/Helsinki:20251012T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Solosis Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:november-communityday2025
-DTSTAMP:20251013T015029Z
+DTSTAMP:20251014T014357Z
 SUMMARY:November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2025/
