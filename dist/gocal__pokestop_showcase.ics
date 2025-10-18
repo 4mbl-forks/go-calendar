@@ -30,26 +30,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250119T014546
+DTSTART:20250121T013941
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-pumpkaboo-gourgeist-2025-10-13
-DTSTAMP:20251016T014546Z
-SUMMARY:Pumpkaboo\, Gourgeist\, and Applin PokéStop Showcase
+UID:pokemon-showcase-rayquaza-2025-10-18
+DTSTAMP:20251018T013941Z
+SUMMARY:Rayquaza PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-pumpkaboo-gourgeist-2025-10-13/
-URL:https://leekduck.com/events/pokemon-showcase-pumpkaboo-gourgeist-2025-1
- 0-13/
+ /pokemon-showcase-rayquaza-2025-10-18/
+URL:https://leekduck.com/events/pokemon-showcase-rayquaza-2025-10-18/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251013
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251015
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251018
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251019
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pumpkaboo\, Gourgeist\, and Applin PokéStop Showcase
+DESCRIPTION:Rayquaza PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
