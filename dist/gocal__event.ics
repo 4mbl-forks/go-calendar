@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250122T015617
+DTSTART:20250123T015341
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-legends-za-celebration-event-2025
-DTSTAMP:20251019T015617Z
+DTSTAMP:20251020T015341Z
 SUMMARY:Pokémon Legends: Z-A Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-legends-za-celebration-event-2025/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-tales-of-transformation
-DTSTAMP:20251019T015617Z
+DTSTAMP:20251020T015341Z
 SUMMARY:GO Battle Weekend: Tales of Transformation
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-tales-of-transformation/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2025-part-i
-DTSTAMP:20251019T015617Z
+DTSTAMP:20251020T015341Z
 SUMMARY:Halloween 2025 Part I
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /halloween-2025-part-i/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2025-part-ii
-DTSTAMP:20251019T015617Z
+DTSTAMP:20251020T015341Z
 SUMMARY:Halloween 2025 Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /halloween-2025-part-ii/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-2025
-DTSTAMP:20251019T015617Z
+DTSTAMP:20251020T015341Z
 SUMMARY:Into the Wild
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-wild-2025/
@@ -123,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:trade-days-tales-of-transformation
-DTSTAMP:20251019T015617Z
+DTSTAMP:20251020T015341Z
 SUMMARY:Trade Days | Tales of Transformation
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /trade-days-tales-of-transformation/
