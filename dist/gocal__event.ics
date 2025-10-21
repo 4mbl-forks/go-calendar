@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250123T015341
+DTSTART:20250124T014742
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-legends-za-celebration-event-2025
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Pokémon Legends: Z-A Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-legends-za-celebration-event-2025/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-battle-weekend-tales-of-transformation
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:GO Battle Weekend: Tales of Transformation
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /go-battle-weekend-tales-of-transformation/
@@ -72,8 +72,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2025-part-i
-DTSTAMP:20251020T015341Z
-SUMMARY:Halloween 2025 Part I
+DTSTAMP:20251021T014742Z
+SUMMARY:Pokémon GO Halloween 2025 Part I
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /halloween-2025-part-i/
 URL:https://leekduck.com/events/halloween-2025-part-i/
@@ -83,14 +83,14 @@ DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251021
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251027
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Halloween 2025 Part I
+DESCRIPTION:Pokémon GO Halloween 2025 Part I
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2025-part-ii
-DTSTAMP:20251020T015341Z
-SUMMARY:Halloween 2025 Part II
+DTSTAMP:20251021T014742Z
+SUMMARY:Pokémon GO Halloween 2025 Part II
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /halloween-2025-part-ii/
 URL:https://leekduck.com/events/halloween-2025-part-ii/
@@ -100,13 +100,30 @@ DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251027
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251102
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Halloween 2025 Part II
+DESCRIPTION:Pokémon GO Halloween 2025 Part II
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:enchanted-hollow-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Enchanted Hollow
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /enchanted-hollow-2025/
+URL:https://leekduck.com/events/enchanted-hollow-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-04-enchanted-hollow-2025/enchanted-hollow-2025.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251104
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251109
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enchanted Hollow
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-wild-2025
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Into the Wild
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-wild-2025/
@@ -122,8 +139,93 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:go-wild-area-global-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:GO Wild Area Global 2025
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /go-wild-area-global-2025/
+URL:https://leekduck.com/events/go-wild-area-global-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251115
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251116
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GO Wild Area Global 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:high-voltage-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:High Voltage
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /high-voltage-2025/
+URL:https://leekduck.com/events/high-voltage-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251118
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251122
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:High Voltage
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dynamax-max-battle-weekend-2025-1
+DTSTAMP:20251021T014742Z
+SUMMARY:Dynamax Max Battle Weekend
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /dynamax-max-battle-weekend-2025-1/
+URL:https://leekduck.com/events/dynamax-max-battle-weekend-2025-1/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251121
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251124
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Max Battle Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:final-justice-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Final Justice
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /final-justice-2025/
+URL:https://leekduck.com/events/final-justice-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251125
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251130
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Final Justice
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dynamax-max-battle-weekend-2025-2
+DTSTAMP:20251021T014742Z
+SUMMARY:Dynamax Max Battle Weekend
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /dynamax-max-battle-weekend-2025-2/
+URL:https://leekduck.com/events/dynamax-max-battle-weekend-2025-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251129
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251130
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Max Battle Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:trade-days-tales-of-transformation
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Trade Days | Tales of Transformation
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /trade-days-tales-of-transformation/

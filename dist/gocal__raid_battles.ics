@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250123T015341
+DTSTART:20250124T014742
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:deoxys-attack-speed-in-5-star-raid-battles-october-2025
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Deoxys (Attack &amp\; Speed Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /deoxys-attack-speed-in-5-star-raid-battles-october-2025/
@@ -55,14 +55,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-mawile-mega-salamence-in-mega-raids-october-2025
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Mega Mawile and Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-mawile-mega-salamence-in-mega-raids-october-2025/
 URL:https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-oc
  tober-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251014
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251021
 BEGIN:VALARM
@@ -73,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:genesect-douse-shock-in-5-star-raid-battles-october-2025
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Genesect (Douse &amp\; Shock Drive) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /genesect-douse-shock-in-5-star-raid-battles-october-2025/
@@ -90,14 +89,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-houndoom-mega-absol-in-mega-raids-october-2025
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Mega Houndoom and Mega Absol in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-houndoom-mega-absol-in-mega-raids-october-2025/
 URL:https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-octo
  ber-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251021
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251028
 BEGIN:VALARM
@@ -108,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-altered-in-5-star-raid-battles-october-2025
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Giratina (Altered Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /giratina-altered-in-5-star-raid-battles-october-2025/
@@ -126,19 +124,162 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Mega Gengar\, Mega Sableye\, and Mega Banette in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/
 URL:https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-me
  ga-raids-october-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251028
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251104
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Mega Gengar\, Mega Sableye\, and Mega Banette in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-beedrill-pinsir-heracross-in-mega-raids-november-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Mega Beedrill\, Mega Pinsir\, and Mega Heracross in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-beedrill-pinsir-heracross-in-mega-raids-november-2025/
+URL:https://leekduck.com/events/mega-beedrill-pinsir-heracross-in-mega-raid
+ s-november-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251104
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251111
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Beedrill\, Mega Pinsir\, and Mega Heracross in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raikou-entei-suicune-in-5-star-raid-battles-november-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Raikou\, Entei\, and Suicune in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /raikou-entei-suicune-in-5-star-raid-battles-november-2025/
+URL:https://leekduck.com/events/raikou-entei-suicune-in-5-star-raid-battles
+ -november-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251104
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251111
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raikou\, Entei\, and Suicune in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-tyranitar-altaria-in-mega-raids-november-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Mega Tyranitar and Mega Altaria in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-tyranitar-altaria-in-mega-raids-november-2025/
+URL:https://leekduck.com/events/mega-tyranitar-altaria-in-mega-raids-novemb
+ er-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251111
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251118
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Tyranitar and Mega Altaria in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:heatran-in-5-star-raid-battles-november-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Heatran in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /heatran-in-5-star-raid-battles-november-2025/
+URL:https://leekduck.com/events/heatran-in-5-star-raid-battles-november-202
+ 5/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251118
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251125
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heatran in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-ampharos-manectric-in-mega-raids-november-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Mega Ampharos and Mega Manectric in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-ampharos-manectric-in-mega-raids-november-2025/
+URL:https://leekduck.com/events/mega-ampharos-manectric-in-mega-raids-novem
+ ber-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251118
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251125
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Ampharos and Mega Manectric in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-20
+ 25
+DTSTAMP:20251021T014742Z
+SUMMARY:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025
+ /
+URL:https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-
+ battles-november-december-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251125
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251202
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/
+URL:https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-r
+ aids-november-december-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251125
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251202
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Rai
+ ds
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-latios-in-shadow-raids-november-december-2025
+DTSTAMP:20251021T014742Z
+SUMMARY:Shadow Latios in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-latios-in-shadow-raids-november-december-2025/
+URL:https://leekduck.com/events/shadow-latios-in-shadow-raids-november-dece
+ mber-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251102
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251202
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Latios in Shadow Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250123T015341
+DTSTART:20250124T014742
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20251022
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Genesect Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251022/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20251029
-DTSTAMP:20251020T015341Z
+DTSTAMP:20251021T014742Z
 SUMMARY:Giratina (Origin Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20251029/
@@ -64,6 +64,54 @@ DTEND;TZID=Europe/Helsinki:20251029T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Giratina (Origin Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251105
+DTSTAMP:20251021T014742Z
+SUMMARY:Raikou\, Entei\, and Suicune Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251105/
+URL:https://leekduck.com/events/raidhour20251105/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20251105T180000
+DTEND;TZID=Europe/Helsinki:20251105T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raikou\, Entei\, and Suicune Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251119
+DTSTAMP:20251021T014742Z
+SUMMARY:Heatran Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251119/
+URL:https://leekduck.com/events/raidhour20251119/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20251119T180000
+DTEND;TZID=Europe/Helsinki:20251119T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heatran Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20251126
+DTSTAMP:20251021T014742Z
+SUMMARY:Cobalion\, Terrakion\, and Virizion Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20251126/
+URL:https://leekduck.com/events/raidhour20251126/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20251126T180000
+DTEND;TZID=Europe/Helsinki:20251126T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cobalion\, Terrakion\, and Virizion Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
