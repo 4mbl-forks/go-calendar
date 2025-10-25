@@ -30,26 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250126T014633
+DTSTART:20250128T014418
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-ghost-type-sinistea-2025-10-22
-DTSTAMP:20251023T014633Z
-SUMMARY:Ghost-type Pokémon and Sinistea PokéStop Showcases
+UID:pokemon-showcase-poltchageist-ghost-type-2025-10-25
+DTSTAMP:20251025T014418Z
+SUMMARY:Poltchageist and Ghost-type Pokémon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ghost-type-sinistea-2025-10-22/
-URL:https://leekduck.com/events/pokemon-showcase-ghost-type-sinistea-2025-1
- 0-22/
+ /pokemon-showcase-poltchageist-ghost-type-2025-10-25/
+URL:https://leekduck.com/events/pokemon-showcase-poltchageist-ghost-type-20
+ 25-10-25/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251020
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251022
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251025
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251026
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ghost-type Pokémon and Sinistea PokéStop Showcases
+DESCRIPTION:Poltchageist and Ghost-type Pokémon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
