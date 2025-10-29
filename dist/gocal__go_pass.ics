@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250131T014631
+DTSTART:20250201T015341
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:go-pass-halloween-2025
-DTSTAMP:20251028T014631Z
+DTSTAMP:20251029T015341Z
 SUMMARY:GO Pass: Halloween 2025
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /go-pass-halloween-2025/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-october-2025
-DTSTAMP:20251028T014631Z
+DTSTAMP:20251029T015341Z
 SUMMARY:GO Pass: October
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-october-2025/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-into-the-wild
-DTSTAMP:20251028T014631Z
+DTSTAMP:20251029T015341Z
 SUMMARY:GO Pass: Into the Wild
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /go-pass-into-the-wild/
@@ -83,6 +83,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251116
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:GO Pass: Into the Wild
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-november-2025
+DTSTAMP:20251029T015341Z
+SUMMARY:GO Pass: November
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /go-pass-november-2025/
+URL:https://leekduck.com/events/go-pass-november-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-04-go-pass-november-2025/go-pass-november-2025.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251104
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251202
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GO Pass: November
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
