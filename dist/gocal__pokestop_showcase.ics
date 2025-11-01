@@ -30,26 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250203T014939
+DTSTART:20250204T015311
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27
-DTSTAMP:20251031T014939Z
-SUMMARY:Noibat\, Teddiursa\, Noivern\, and Ursaluna PokéStop Showcases
+UID:pokemon-showcase-garbodor-polteageist-sinistcha-2025-11-01
+DTSTAMP:20251101T015311Z
+SUMMARY:Garbodor\, Polteageist\, and Sinistcha PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-noibat-teddiursa-noivern-ursaluna-2025-10-27/
-URL:https://leekduck.com/events/pokemon-showcase-noibat-teddiursa-noivern-u
- rsaluna-2025-10-27/
+ /pokemon-showcase-garbodor-polteageist-sinistcha-2025-11-01/
+URL:https://leekduck.com/events/pokemon-showcase-garbodor-polteageist-sinis
+ tcha-2025-11-01/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251027
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251029
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251101
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251102
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Noibat\, Teddiursa\, Noivern\, and Ursaluna PokéStop Showcases
+DESCRIPTION:Garbodor\, Polteageist\, and Sinistcha PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
