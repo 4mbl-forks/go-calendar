@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250205T015540
+DTSTART:20250206T015451
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-garbodor-polteageist-sinistcha-2025-11-01
-DTSTAMP:20251102T015540Z
+DTSTAMP:20251103T015451Z
 SUMMARY:Garbodor\, Polteageist\, and Sinistcha PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-garbodor-polteageist-sinistcha-2025-11-01/
@@ -50,6 +50,24 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251102
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Garbodor\, Polteageist\, and Sinistcha PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-poison-grass-bug-type-2025-11-03
+DTSTAMP:20251103T015451Z
+SUMMARY:Poison-type\, Grass-type\, and Bug-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-poison-grass-bug-type-2025-11-03/
+URL:https://leekduck.com/events/pokemon-showcase-poison-grass-bug-type-2025
+ -11-03/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251103
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251105
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Poison-type\, Grass-type\, and Bug-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
