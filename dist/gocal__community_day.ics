@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250209T015132
+DTSTART:20250210T015015
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:november-communityday2025
-DTSTAMP:20251106T015132Z
+DTSTAMP:20251107T015015Z
 SUMMARY:Pikipek Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2025/
@@ -50,6 +50,70 @@ DTEND;TZID=Europe/Helsinki:20251130T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Pikipek Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:december-communityday2025
+DTSTAMP:20251107T015015Z
+SUMMARY:December Community Day 2025
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /december-communityday2025/
+URL:https://leekduck.com/events/december-communityday2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251206
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251207
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:December Community Day 2025
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-communitydayclassic2026
+DTSTAMP:20251107T015015Z
+SUMMARY:January Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /january-communitydayclassic2026/
+URL:https://leekduck.com/events/january-communitydayclassic2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260104T140000
+DTEND;TZID=Europe/Helsinki:20260104T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:January Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:january-communityday2026
+DTSTAMP:20251107T015015Z
+SUMMARY:January Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /january-communityday2026/
+URL:https://leekduck.com/events/january-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260118T140000
+DTEND;TZID=Europe/Helsinki:20260118T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:January Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:february-communityday2026
+DTSTAMP:20251107T015015Z
+SUMMARY:February Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /february-communityday2026/
+URL:https://leekduck.com/events/february-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260201T140000
+DTEND;TZID=Europe/Helsinki:20260201T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:February Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

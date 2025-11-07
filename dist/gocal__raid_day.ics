@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:DAYLIGHT
-DTSTART:20250330T020000
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0300
-END:DAYLIGHT
 BEGIN:STANDARD
 DTSTART:20251026T040000
 TZOFFSETFROM:+0300
@@ -30,26 +25,59 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250123T015341
+DTSTART:20250210T015015
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mega-rayquaza-raid-day-november-2025
-DTSTAMP:20251020T015341Z
-SUMMARY:Mega Rayquaza Raid Day
+UID:raid-day-january-2026
+DTSTAMP:20251107T015015Z
+SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /mega-rayquaza-raid-day-november-2025/
-URL:https://leekduck.com/events/mega-rayquaza-raid-day-november-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-10-18-mega-rayquaza-raid-day-november-2025/mega-rayquaza-raid-day
- .jpg
-DTSTART;TZID=Europe/Helsinki:20251018T140000
-DTEND;TZID=Europe/Helsinki:20251018T170000
+ /raid-day-january-2026/
+URL:https://leekduck.com/events/raid-day-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260110T140000
+DTEND;TZID=Europe/Helsinki:20260110T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Mega Rayquaza Raid Day
+DESCRIPTION:Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-raid-day-january-2026
+DTSTAMP:20251107T015015Z
+SUMMARY:Shadow Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /shadow-raid-day-january-2026/
+URL:https://leekduck.com/events/shadow-raid-day-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260124T140000
+DTEND;TZID=Europe/Helsinki:20260124T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-february-2026
+DTSTAMP:20251107T015015Z
+SUMMARY:Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-february-2026/
+URL:https://leekduck.com/events/raid-day-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260214T140000
+DTEND;TZID=Europe/Helsinki:20260214T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
