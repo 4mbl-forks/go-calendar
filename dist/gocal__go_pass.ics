@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250220T015311
+DTSTART:20250221T015134
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:go-pass-into-the-wild
-DTSTAMP:20251117T015311Z
-SUMMARY:GO Pass: Into the Wild
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /go-pass-into-the-wild/
-URL:https://leekduck.com/events/go-pass-into-the-wild/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-10-go-pass-into-the-wild/go-pass-into-the-wild.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251110
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251116
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:GO Pass: Into the Wild
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-november-2025
-DTSTAMP:20251117T015311Z
+DTSTAMP:20251118T015134Z
 SUMMARY:GO Pass: November
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-november-2025/

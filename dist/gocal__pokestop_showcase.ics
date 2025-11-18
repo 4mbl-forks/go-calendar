@@ -30,26 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250220T015311
+DTSTART:20250221T015134
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16
-DTSTAMP:20251117T015311Z
-SUMMARY:Cresselia\, Darkrai\, and Grimmsnarl PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-cresselia-darkrai-grimmsnarl-2025-11-16/
-URL:https://leekduck.com/events/pokemon-showcase-cresselia-darkrai-grimmsna
- rl-2025-11-16/
+UID:pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17
+DTSTAMP:20251118T015134Z
+SUMMARY:Dedenne\, Morpeko\, and Togedemaru PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17/
+URL:https://leekduck.com/events/pokemon-showcase-dedenne-morpeko-togedemaru
+ -2025-11-17/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251115
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251116
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251117
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251119
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Cresselia\, Darkrai\, and Grimmsnarl PokéStop Showcases
+DESCRIPTION:Dedenne\, Morpeko\, and Togedemaru PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

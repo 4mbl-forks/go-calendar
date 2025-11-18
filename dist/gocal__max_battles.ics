@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250220T015311
+DTSTART:20250221T015134
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:dynamax-eevee-max-battle-weekend
-DTSTAMP:20251117T015311Z
+DTSTAMP:20251118T015134Z
 SUMMARY:Dynamax Eevee Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /dynamax-eevee-max-battle-weekend/
@@ -53,8 +53,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:dynamax-lugia-max-battle-weekend
+DTSTAMP:20251118T015134Z
+SUMMARY:Dynamax Lugia Max Battle Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /dynamax-lugia-max-battle-weekend/
+URL:https://leekduck.com/events/dynamax-lugia-max-battle-weekend/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-11-29-dynamax-lugia-max-battle-weekend/dynamax-lugia.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251129
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251130
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Lugia Max Battle Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:max-battle-day-december-2025
-DTSTAMP:20251117T015311Z
+DTSTAMP:20251118T015134Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-december-2025/
@@ -71,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-weekend-february-2026
-DTSTAMP:20251117T015311Z
+DTSTAMP:20251118T015134Z
 SUMMARY:Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-battle-weekend-february-2026/
@@ -88,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2026
-DTSTAMP:20251117T015311Z
+DTSTAMP:20251118T015134Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2026/
