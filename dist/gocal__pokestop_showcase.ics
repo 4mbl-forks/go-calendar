@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250221T015134
+DTSTART:20250222T015114
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17
-DTSTAMP:20251118T015134Z
+DTSTAMP:20251119T015114Z
 SUMMARY:Dedenne\, Morpeko\, and Togedemaru PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17/
