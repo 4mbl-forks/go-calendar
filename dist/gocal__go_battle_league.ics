@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20250214T210000
+DTSTART:20250221T210000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,37 +20,15 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250223T014938
+DTSTART:20250224T015042
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gbl-tales-of-transformation_great-league_ultra-league_master-league-spl
- it-3
-DTSTAMP:20251120T014938Z
-SUMMARY:Great League\, Ultra League\, and Master League | Tales of Transfor
- mation
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-tales-of-transformation_great-league_ultra-league_master-league-split
- -3/
-URL:https://leekduck.com/events/gbl-tales-of-transformation_great-league_ul
- tra-league_master-league-split-3/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-24-tales-of-transformation.jpg
-DTSTART;TZID=Z;VALUE=DATE:20251111
-DTEND;TZID=Z;VALUE=DATE:20251118
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Great League\, Ultra League\, and Master League | Tales of Tran
- sformation
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-tales-of-transformation_2025-championship-series-cup_master-league-
  mega-edition
-DTSTAMP:20251120T014938Z
+DTSTAMP:20251121T015042Z
 SUMMARY:2025 Championship Series Cup and Master League: Mega Edition | Tale
  s of Transformation
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -72,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edi
  tion_ultra-league_master-league
-DTSTAMP:20251120T014938Z
+DTSTAMP:20251121T015042Z
 SUMMARY:Catch Cup: Tales of Transformation: Great Edition\, Ultra League\, 
  and Master League | Tales of Transformation
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
