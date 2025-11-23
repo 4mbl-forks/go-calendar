@@ -30,26 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250223T014938
+DTSTART:20250226T020504
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17
-DTSTAMP:20251120T014938Z
-SUMMARY:Dedenne\, Morpeko\, and Togedemaru PokéStop Showcases
+UID:pokemon-showcase-eevee-vaporeon-jolteon-flareon
+DTSTAMP:20251123T020504Z
+SUMMARY:Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-dedenne-morpeko-togedemaru-2025-11-17/
-URL:https://leekduck.com/events/pokemon-showcase-dedenne-morpeko-togedemaru
- -2025-11-17/
+ /pokemon-showcase-eevee-vaporeon-jolteon-flareon/
+URL:https://leekduck.com/events/pokemon-showcase-eevee-vaporeon-jolteon-fla
+ reon/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251117
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251119
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251122
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251123
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dedenne\, Morpeko\, and Togedemaru PokéStop Showcases
+DESCRIPTION:Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
