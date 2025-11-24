@@ -20,7 +20,7 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250226T020504
+DTSTART:20250227T015917
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -28,7 +28,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-latin-america-international-championships-2026-timed-research-t
  witch-drops
-DTSTAMP:20251123T020504Z
+DTSTAMP:20251124T015917Z
 SUMMARY:Twitch Drops for 2026 Pokémon Latin America International Champion
  ships
 DESCRIPTION:Starts at 11:30\, ends at 08:00.\n\nhttps://leekduck.com/events
