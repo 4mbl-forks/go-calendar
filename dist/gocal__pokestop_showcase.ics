@@ -30,26 +30,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250227T015917
+DTSTART:20250228T015251
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-eevee-vaporeon-jolteon-flareon
-DTSTAMP:20251124T015917Z
-SUMMARY:Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
+UID:pokemon-showcase-fighting-type
+DTSTAMP:20251125T015251Z
+SUMMARY:Fighting-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-eevee-vaporeon-jolteon-flareon/
-URL:https://leekduck.com/events/pokemon-showcase-eevee-vaporeon-jolteon-fla
- reon/
+ /pokemon-showcase-fighting-type/
+URL:https://leekduck.com/events/pokemon-showcase-fighting-type/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251122
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251123
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251124
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251126
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Eevee\, Vaporeon\, Jolteon\, and Flareon PokéStop Showcases
+DESCRIPTION:Fighting-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
