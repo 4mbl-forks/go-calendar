@@ -30,52 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250301T015258
+DTSTART:20250302T015027
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-20
- 25
-DTSTAMP:20251126T015258Z
-SUMMARY:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025
- /
-URL:https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-
- battles-november-december-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/swordsofjustice.
- jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251125
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251202
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025
-DTSTAMP:20251126T015258Z
-SUMMARY:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/
-URL:https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-r
- aids-november-december-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251125
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251202
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Rai
- ds
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-latios-in-shadow-raids-november-december-2025
-DTSTAMP:20251126T015258Z
+DTSTAMP:20251127T015027Z
 SUMMARY:Shadow Latios in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-latios-in-shadow-raids-november-december-2025/
@@ -88,6 +50,161 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251202
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Shadow Latios in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-20
+ 25
+DTSTAMP:20251127T015027Z
+SUMMARY:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /cobalion-terrakion-virizion-in-5-star-raid-battles-november-december-2025
+ /
+URL:https://leekduck.com/events/cobalion-terrakion-virizion-in-5-star-raid-
+ battles-november-december-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/swordsofjustice.
+ jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251125
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251204
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cobalion\, Terrakion\, and Virizion in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025
+DTSTAMP:20251127T015027Z
+SUMMARY:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-aerodactyl-medicham-garchomp-in-mega-raids-november-december-2025/
+URL:https://leekduck.com/events/mega-aerodactyl-medicham-garchomp-in-mega-r
+ aids-november-december-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251125
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251204
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Aerodactyl\, Mega Medicham\, and Mega Garchomp in Mega Rai
+ ds
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kyurem-in-5-star-raid-battles-december-2025
+DTSTAMP:20251127T015027Z
+SUMMARY:Kyurem in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /kyurem-in-5-star-raid-battles-december-2025/
+URL:https://leekduck.com/events/kyurem-in-5-star-raid-battles-december-2025
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/kyurem.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251204
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251213
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kyurem in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-gyarados-in-mega-raids-december-2025
+DTSTAMP:20251127T015027Z
+SUMMARY:Mega Gyarados in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-gyarados-in-mega-raids-december-2025/
+URL:https://leekduck.com/events/mega-gyarados-in-mega-raids-december-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251204
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251213
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Gyarados in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-abomasnow-in-mega-raids-december-2025
+DTSTAMP:20251127T015027Z
+SUMMARY:Mega Abomasnow in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-abomasnow-in-mega-raids-december-2025/
+URL:https://leekduck.com/events/mega-abomasnow-in-mega-raids-december-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251213
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251222
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Abomasnow in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:reshiram-in-5-star-raid-battles-december-2025
+DTSTAMP:20251127T015027Z
+SUMMARY:Reshiram in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /reshiram-in-5-star-raid-battles-december-2025/
+URL:https://leekduck.com/events/reshiram-in-5-star-raid-battles-december-20
+ 25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/reshiram.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251213
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251222
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reshiram in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-glalie-in-mega-raids-december-2025
+DTSTAMP:20251127T015027Z
+SUMMARY:Mega Glalie in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-glalie-in-mega-raids-december-2025/
+URL:https://leekduck.com/events/mega-glalie-in-mega-raids-december-2025/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251222
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251231
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Glalie in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:zekrom-in-5-star-raid-battles-december-2025
+DTSTAMP:20251127T015027Z
+SUMMARY:Zekrom in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /zekrom-in-5-star-raid-battles-december-2025/
+URL:https://leekduck.com/events/zekrom-in-5-star-raid-battles-december-2025
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/zekrom2.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251222
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251231
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zekrom in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-heatran-in-shadow-raids-december-january-2026
+DTSTAMP:20251127T015027Z
+SUMMARY:Shadow Heatran in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-heatran-in-shadow-raids-december-january-2026/
+URL:https://leekduck.com/events/shadow-heatran-in-shadow-raids-december-jan
+ uary-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251202
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260101
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Heatran in Shadow Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

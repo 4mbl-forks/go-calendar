@@ -30,25 +30,93 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250301T015258
+DTSTART:20250302T015027
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2025-11-25
-DTSTAMP:20251126T015258Z
-SUMMARY:Scraggy Spotlight Hour
+UID:pokemonspotlighthour2025-12-02
+DTSTAMP:20251127T015027Z
+SUMMARY:Cranidos Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2025-11-25/
-URL:https://leekduck.com/events/pokemonspotlighthour2025-11-25/
+ /pokemonspotlighthour2025-12-02/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-02/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART;TZID=Europe/Helsinki:20251125T180000
-DTEND;TZID=Europe/Helsinki:20251125T190000
+DTSTART;TZID=Europe/Helsinki:20251202T180000
+DTEND;TZID=Europe/Helsinki:20251202T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Scraggy Spotlight Hour
+DESCRIPTION:Cranidos Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-12-09
+DTSTAMP:20251127T015027Z
+SUMMARY:Shieldon Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-12-09/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-09/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20251209T180000
+DTEND;TZID=Europe/Helsinki:20251209T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shieldon Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-12-16
+DTSTAMP:20251127T015027Z
+SUMMARY:Mienfoo Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-12-16/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20251216T180000
+DTEND;TZID=Europe/Helsinki:20251216T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mienfoo Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-12-23
+DTSTAMP:20251127T015027Z
+SUMMARY:Spheal Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-12-23/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-23/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20251223T180000
+DTEND;TZID=Europe/Helsinki:20251223T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spheal Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2025-12-30
+DTSTAMP:20251127T015027Z
+SUMMARY:Delibird Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2025-12-30/
+URL:https://leekduck.com/events/pokemonspotlighthour2025-12-30/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20251230T180000
+DTEND;TZID=Europe/Helsinki:20251230T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Delibird Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
