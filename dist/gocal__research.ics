@@ -10,41 +10,45 @@ X-WR-CALDESC:All Pokémon GO Research events\, in your local time\, auto-up
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
-TZID:Z
+TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 BEGIN:STANDARD
-DTSTART:20250224T113000
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
+DTSTART:20251026T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250227T015917
+DTSTART:20250307T015504
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-latin-america-international-championships-2026-timed-research-t
- witch-drops
-DTSTAMP:20251124T015917Z
-SUMMARY:Twitch Drops for 2026 Pokémon Latin America International Champion
- ships
-DESCRIPTION:Starts at 11:30\, ends at 08:00.\n\nhttps://leekduck.com/events
- /pokemon-latin-america-international-championships-2026-timed-research-twi
- tch-drops/
-URL:https://leekduck.com/events/pokemon-latin-america-international-champio
- nships-2026-timed-research-twitch-drops/
+UID:masterwork-research-a-precious-catch
+DTSTAMP:20251202T015504Z
+SUMMARY:Masterwork Research: A Precious Catch
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /masterwork-research-a-precious-catch/
+URL:https://leekduck.com/events/masterwork-research-a-precious-catch/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-21-pokemon-latin-america-international-championships-2026-time
- d-research-twitch-drops/laic-2026-stream-viewership-rewards.webp
-DTSTART;TZID=Z;VALUE=DATE:20251121
-DTEND;TZID=Z;VALUE=DATE:20251124
+ 025/2025-12-02-masterwork-research-a-precious-catch/masterball.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251202
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260303
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Twitch Drops for 2026 Pokémon Latin America International Cham
- pionships
+DESCRIPTION:Masterwork Research: A Precious Catch
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
