@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250307T015504
+DTSTART:20250308T015429
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:go-pass-november-2025
-DTSTAMP:20251202T015504Z
-SUMMARY:GO Pass: November
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /go-pass-november-2025/
-URL:https://leekduck.com/events/go-pass-november-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-11-04-go-pass-november-2025/go-pass-november-2025.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251104
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251202
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:GO Pass: November
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-december-2025
-DTSTAMP:20251202T015504Z
+DTSTAMP:20251203T015429Z
 SUMMARY:GO Pass: December
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-december-2025/
