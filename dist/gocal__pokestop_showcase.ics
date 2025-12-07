@@ -30,25 +30,28 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250306T021122
+DTSTART:20250312T020432
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-pikipek-lugia
-DTSTAMP:20251201T021122Z
-SUMMARY:Pikipek and Lugia PokéStop Showcases
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-pikipek-lugia/
-URL:https://leekduck.com/events/pokemon-showcase-pikipek-lugia/
+UID:pokemon-showcase-kommo-o-feraligatr-corviknight-vanilluxe
+DTSTAMP:20251207T020432Z
+SUMMARY:Kommo-o\, Feraligatr\, Corviknight\, and Vanilluxe PokéStop Showca
+ ses
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-kommo-o-feraligatr-corviknight-vanilluxe/
+URL:https://leekduck.com/events/pokemon-showcase-kommo-o-feraligatr-corvikn
+ ight-vanilluxe/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251129
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251201
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251206
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251207
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pikipek and Lugia PokéStop Showcases
+DESCRIPTION:Kommo-o\, Feraligatr\, Corviknight\, and Vanilluxe PokéStop Sh
+ owcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
