@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250314T015545
+DTSTART:20250315T015739
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-nacli-garganacl-tyranitar-salamence
-DTSTAMP:20251209T015545Z
+DTSTAMP:20251210T015739Z
 SUMMARY:Nacli\, Garganacl\, Tyranitar\, and Salamence PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-nacli-garganacl-tyranitar-salamence/
