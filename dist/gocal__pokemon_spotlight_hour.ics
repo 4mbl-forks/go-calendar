@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250315T015739
+DTSTART:20250316T015912
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2025-12-09
-DTSTAMP:20251210T015739Z
-SUMMARY:Shieldon Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2025-12-09/
-URL:https://leekduck.com/events/pokemonspotlighthour2025-12-09/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20251209T180000
-DTEND;TZID=Europe/Helsinki:20251209T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Shieldon Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2025-12-16
-DTSTAMP:20251210T015739Z
+DTSTAMP:20251211T015912Z
 SUMMARY:Mienfoo Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-12-16/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-12-23
-DTSTAMP:20251210T015739Z
+DTSTAMP:20251211T015912Z
 SUMMARY:Spheal Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-12-23/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-12-30
-DTSTAMP:20251210T015739Z
+DTSTAMP:20251211T015912Z
 SUMMARY:Delibird Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-12-30/
