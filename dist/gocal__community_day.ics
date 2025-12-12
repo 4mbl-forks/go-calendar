@@ -25,30 +25,32 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250316T015912
+DTSTART:20250317T015816
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:january-communitydayclassic2026
-DTSTAMP:20251211T015912Z
-SUMMARY:January Community Day Classic
+DTSTAMP:20251212T015816Z
+SUMMARY:Piplup Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communitydayclassic2026/
 URL:https://leekduck.com/events/january-communitydayclassic2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-04-january-communitydayclassic2026/piplup-community-day-classi
+ c.jpg
 DTSTART;TZID=Europe/Helsinki:20260104T140000
 DTEND;TZID=Europe/Helsinki:20260104T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:January Community Day Classic
+DESCRIPTION:Piplup Community Day Classic
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2026
-DTSTAMP:20251211T015912Z
+DTSTAMP:20251212T015816Z
 SUMMARY:Grookey Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /january-communityday2026/
@@ -66,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2026
-DTSTAMP:20251211T015912Z
+DTSTAMP:20251212T015816Z
 SUMMARY:February Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2026/
