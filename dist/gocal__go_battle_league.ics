@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250317T015816
+DTSTART:20250318T015223
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gbl-precious-paths_ultra-league_scroll-cup-great-league-edition
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Ultra League and Scroll Cup: Great League Edition | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_ultra-league_scroll-cup-great-league-edition/
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_master-league_holiday-cup-great-league-edition
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Master League and Holiday Cup: Great League Edition | Precious Path
  s
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_holiday-cup-ultra-league-edition
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Great League and Holiday Cup: Ultra League Edition | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_great-league_holiday-cup-ultra-league-edition/
@@ -85,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-league_master-league-split-2
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Great League\, Ultra League\, and Master League | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_great-league_ultra-league_master-league-split-2/
@@ -104,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_ultra-league_sunshine-cup-great-league-edition
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Ultra League and Sunshine Cup: Great League Edition | Precious Path
  s
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -124,7 +124,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_master-premier_retro-cup-great-league-edition
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Master Premier and Retro Cup: Great League Edition | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_master-premier_retro-cup-great-league-edition/
@@ -143,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-premier
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Great League and Ultra Premier | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_great-league_ultra-premier/
@@ -161,7 +161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-league_master-league-split-3
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Great League\, Ultra League\, and Master League | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_great-league_ultra-league_master-league-split-3/
@@ -180,7 +180,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_ultra-league_2026-championship-series-cup
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Ultra League and 2026 Championship Series Cup | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_ultra-league_2026-championship-series-cup/
@@ -198,7 +198,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_master-league_2026-championship-series-cup
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Master League and 2026 Championship Series Cup | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_master-league_2026-championship-series-cup/
@@ -216,7 +216,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_love-cup-great-league-edition
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Great League and Love Cup: Great League Edition | Precious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /gbl-precious-paths_great-league_love-cup-great-league-edition/
@@ -235,7 +235,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-league_master-league-mega-edition
-DTSTAMP:20251212T015816Z
+DTSTAMP:20251213T015223Z
 SUMMARY:Great League\, Ultra League\, and Master League: Mega Edition | Pre
  cious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events

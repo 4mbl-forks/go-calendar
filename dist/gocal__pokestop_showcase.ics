@@ -30,27 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250316T015912
+DTSTART:20250318T015223
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-nacli-garganacl-tyranitar-salamence
-DTSTAMP:20251211T015912Z
-SUMMARY:Nacli\, Garganacl\, Tyranitar\, and Salamence PokéStop Showcases
+UID:pokemon-showcase-hitmonchan-hitmonlee-snorlax
+DTSTAMP:20251213T015223Z
+SUMMARY:Hitmonchan\, Hitmonlee\, and Snorlax PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-nacli-garganacl-tyranitar-salamence/
-URL:https://leekduck.com/events/pokemon-showcase-nacli-garganacl-tyranitar-
- salamence/
+ /pokemon-showcase-hitmonchan-hitmonlee-snorlax/
+URL:https://leekduck.com/events/pokemon-showcase-hitmonchan-hitmonlee-snorl
+ ax/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251208
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251210
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251213
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251214
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Nacli\, Garganacl\, Tyranitar\, and Salamence PokéStop Showcas
- es
+DESCRIPTION:Hitmonchan\, Hitmonlee\, and Snorlax PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
