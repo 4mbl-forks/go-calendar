@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250318T015223
+DTSTART:20250319T020458
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:kyurem-in-5-star-raid-battles-december-2025
-DTSTAMP:20251213T015223Z
+DTSTAMP:20251214T020458Z
 SUMMARY:Kyurem in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /kyurem-in-5-star-raid-battles-december-2025/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-december-2025
-DTSTAMP:20251213T015223Z
+DTSTAMP:20251214T020458Z
 SUMMARY:Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-december-2025/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-abomasnow-in-mega-raids-december-2025
-DTSTAMP:20251213T015223Z
+DTSTAMP:20251214T020458Z
 SUMMARY:Mega Abomasnow in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-abomasnow-in-mega-raids-december-2025/
@@ -86,7 +86,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:reshiram-in-5-star-raid-battles-december-2025
-DTSTAMP:20251213T015223Z
+DTSTAMP:20251214T020458Z
 SUMMARY:Reshiram in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /reshiram-in-5-star-raid-battles-december-2025/
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2025
-DTSTAMP:20251213T015223Z
+DTSTAMP:20251214T020458Z
 SUMMARY:Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-glalie-in-mega-raids-december-2025/
@@ -119,7 +119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-december-2025
-DTSTAMP:20251213T015223Z
+DTSTAMP:20251214T020458Z
 SUMMARY:Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-december-2025/
@@ -136,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-heatran-in-shadow-raids-december-january-2026
-DTSTAMP:20251213T015223Z
+DTSTAMP:20251214T020458Z
 SUMMARY:Shadow Heatran in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-heatran-in-shadow-raids-december-january-2026/
