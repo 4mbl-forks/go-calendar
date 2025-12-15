@@ -11,13 +11,18 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 BEGIN:STANDARD
-DTSTART:20241027T040000
+DTSTART:20251026T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
 BEGIN:DAYLIGHT
-DTSTART:20250330T020000
+DTSTART:20260329T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
@@ -25,26 +30,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240510T013501
+DTSTART:20250320T020243
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:legendary-flight-lead-up-timed-research-for-moltres
-DTSTAMP:20250204T013501Z
-SUMMARY:Legendary Flight Lead-Up Timed Research for Moltres
-DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /legendary-flight-lead-up-timed-research-for-moltres/
-URL:https://leekduck.com/events/legendary-flight-lead-up-timed-research-for
- -moltres/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dynamax-moltres.
- jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20250131
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20250203
+UID:best-friends-forever-timed-research
+DTSTAMP:20251215T020243Z
+SUMMARY:Best Friends Forever Timed Research
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /best-friends-forever-timed-research/
+URL:https://leekduck.com/events/best-friends-forever-timed-research/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-12-15-best-friends-forever-timed-research/best-friends-forever.jp
+ g
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251215
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251229
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Legendary Flight Lead-Up Timed Research for Moltres
+DESCRIPTION:Best Friends Forever Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

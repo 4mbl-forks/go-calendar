@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250319T020458
+DTSTART:20250320T020243
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-hitmonchan-hitmonlee-snorlax
-DTSTAMP:20251214T020458Z
+DTSTAMP:20251215T020243Z
 SUMMARY:Hitmonchan\, Hitmonlee\, and Snorlax PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-hitmonchan-hitmonlee-snorlax/
@@ -50,6 +50,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251214
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hitmonchan\, Hitmonlee\, and Snorlax PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-clobbopus-grapploct
+DTSTAMP:20251215T020243Z
+SUMMARY:Clobbopus and Grapploct PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-clobbopus-grapploct/
+URL:https://leekduck.com/events/pokemon-showcase-clobbopus-grapploct/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251215
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251217
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Clobbopus and Grapploct PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
