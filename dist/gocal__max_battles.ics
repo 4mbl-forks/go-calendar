@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:DAYLIGHT
-DTSTART:20250330T020000
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0300
-END:DAYLIGHT
 BEGIN:STANDARD
 DTSTART:20251026T040000
 TZOFFSETFROM:+0300
@@ -30,33 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250320T020243
+DTSTART:20250321T015910
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-snorlax-max-battle-day-december-2025
-DTSTAMP:20251215T020243Z
-SUMMARY:Gigantamax Snorlax Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-snorlax-max-battle-day-december-2025/
-URL:https://leekduck.com/events/gigantamax-snorlax-max-battle-day-december-
- 2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-14-gigantamax-snorlax-max-battle-day-december-2025/gigantamax-
- snorlax-december-2025.jpg
-DTSTART;TZID=Europe/Helsinki:20251214T140000
-DTEND;TZID=Europe/Helsinki:20251214T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Gigantamax Snorlax Max Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-battle-weekend-february-2026
-DTSTAMP:20251215T020243Z
+DTSTAMP:20251216T015910Z
 SUMMARY:Max Battle Weekend
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-battle-weekend-february-2026/
@@ -73,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2026
-DTSTAMP:20251215T020243Z
+DTSTAMP:20251216T015910Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2026/
