@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250322T015427
+DTSTART:20250323T015506
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:well-armed-2025
-DTSTAMP:20251217T015427Z
-SUMMARY:Well Armed
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /well-armed-2025/
-URL:https://leekduck.com/events/well-armed-2025/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-11-well-armed-2025/well-armed.jpg?v2
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251211
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251216
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Well Armed
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:winter-holiday-part-1-2025
-DTSTAMP:20251217T015427Z
+DTSTAMP:20251218T015506Z
 SUMMARY:Winter Holiday Part 1
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /winter-holiday-part-1-2025/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-weekend-2025
-DTSTAMP:20251217T015427Z
+DTSTAMP:20251218T015506Z
 SUMMARY:Winter Weekend
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-weekend-2025/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-part-2-2025
-DTSTAMP:20251217T015427Z
+DTSTAMP:20251218T015506Z
 SUMMARY:Winter Holiday Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-holiday-part-2-2025/
@@ -105,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2026
-DTSTAMP:20251217T015427Z
+DTSTAMP:20251218T015506Z
 SUMMARY:New Year's 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2026/
@@ -121,8 +104,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pinch-perfect-2026
+DTSTAMP:20251218T015506Z
+SUMMARY:Pinch Perfect
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pinch-perfect-2026/
+URL:https://leekduck.com/events/pinch-perfect-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260106
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260111
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pinch Perfect
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20251217T015427Z
+DTSTAMP:20251218T015506Z
 SUMMARY:Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
