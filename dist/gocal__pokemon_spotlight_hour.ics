@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250323T015506
+DTSTART:20250324T015801
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-12-23
-DTSTAMP:20251218T015506Z
+DTSTAMP:20251219T015801Z
 SUMMARY:Spheal Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-12-23/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2025-12-30
-DTSTAMP:20251218T015506Z
+DTSTAMP:20251219T015801Z
 SUMMARY:Delibird Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2025-12-30/
@@ -66,6 +66,74 @@ DTEND;TZID=Europe/Helsinki:20251230T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Delibird Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-01-06
+DTSTAMP:20251219T015801Z
+SUMMARY:Barboach Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-01-06/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-01-06/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260106T180000
+DTEND;TZID=Europe/Helsinki:20260106T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Barboach Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-01-13
+DTSTAMP:20251219T015801Z
+SUMMARY:Mareep Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-01-13/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-01-13/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260113T180000
+DTEND;TZID=Europe/Helsinki:20260113T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mareep Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-01-20
+DTSTAMP:20251219T015801Z
+SUMMARY:Hatenna Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-01-20/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-01-20/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260120T180000
+DTEND;TZID=Europe/Helsinki:20260120T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hatenna Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-01-27
+DTSTAMP:20251219T015801Z
+SUMMARY:Foongus Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-01-27/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-01-27/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260127T180000
+DTEND;TZID=Europe/Helsinki:20260127T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Foongus Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250323T015506
+DTSTART:20250324T015801
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:winter-holiday-part-1-2025
-DTSTAMP:20251218T015506Z
+DTSTAMP:20251219T015801Z
 SUMMARY:Winter Holiday Part 1
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /winter-holiday-part-1-2025/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-weekend-2025
-DTSTAMP:20251218T015506Z
+DTSTAMP:20251219T015801Z
 SUMMARY:Winter Weekend
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-weekend-2025/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-part-2-2025
-DTSTAMP:20251218T015506Z
+DTSTAMP:20251219T015801Z
 SUMMARY:Winter Holiday Part 2
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-holiday-part-2-2025/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2026
-DTSTAMP:20251218T015506Z
+DTSTAMP:20251219T015801Z
 SUMMARY:New Year's 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2026/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pinch-perfect-2026
-DTSTAMP:20251218T015506Z
+DTSTAMP:20251219T015801Z
 SUMMARY:Pinch Perfect
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pinch-perfect-2026/
@@ -121,8 +121,76 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:high-zaptitude-2026
+DTSTAMP:20251219T015801Z
+SUMMARY:High Zaptitude
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /high-zaptitude-2026/
+URL:https://leekduck.com/events/high-zaptitude-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260113
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260118
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:High Zaptitude
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:precious-pals-2026
+DTSTAMP:20251219T015801Z
+SUMMARY:Precious Pals
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /precious-pals-2026/
+URL:https://leekduck.com/events/precious-pals-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260120
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260125
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Precious Pals
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:into-the-depths-2026
+DTSTAMP:20251219T015801Z
+SUMMARY:Into the Depths
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /into-the-depths-2026/
+URL:https://leekduck.com/events/into-the-depths-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260127
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Into the Depths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dynamax-weekend-2026
+DTSTAMP:20251219T015801Z
+SUMMARY:Dynamax Weekend
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /dynamax-weekend-2026/
+URL:https://leekduck.com/events/dynamax-weekend-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260131
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Weekend
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20251218T015506Z
+DTSTAMP:20251219T015801Z
 SUMMARY:Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
