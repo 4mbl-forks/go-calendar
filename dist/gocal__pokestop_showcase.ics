@@ -30,25 +30,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250323T015506
+DTSTART:20250325T015218
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-clobbopus-grapploct
-DTSTAMP:20251218T015506Z
-SUMMARY:Clobbopus and Grapploct PokéStop Showcases
+UID:pokemon-showcase-lunatone-solrock
+DTSTAMP:20251220T015218Z
+SUMMARY:Lunatone and Solrock PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-clobbopus-grapploct/
-URL:https://leekduck.com/events/pokemon-showcase-clobbopus-grapploct/
+ /pokemon-showcase-lunatone-solrock/
+URL:https://leekduck.com/events/pokemon-showcase-lunatone-solrock/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251215
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251217
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251220
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251221
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Clobbopus and Grapploct PokéStop Showcases
+DESCRIPTION:Lunatone and Solrock PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

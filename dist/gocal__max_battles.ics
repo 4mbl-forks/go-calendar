@@ -25,31 +25,31 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250324T015801
+DTSTART:20250325T015218
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-battle-weekend-february-2026
-DTSTAMP:20251219T015801Z
-SUMMARY:Max Battle Weekend
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-battle-weekend-february-2026/
-URL:https://leekduck.com/events/max-battle-weekend-february-2026/
+UID:dynamax-weekend-february-2026
+DTSTAMP:20251220T015218Z
+SUMMARY:Dynamax Weekend
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /dynamax-weekend-february-2026/
+URL:https://leekduck.com/events/dynamax-weekend-february-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260131
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260201
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Max Battle Weekend
+DESCRIPTION:Dynamax Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2026
-DTSTAMP:20251219T015801Z
+DTSTAMP:20251220T015218Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2026/
