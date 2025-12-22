@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250326T020457
+DTSTART:20250327T020407
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:celestial-research-day
-DTSTAMP:20251221T020457Z
-SUMMARY:Celestial Research Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /celestial-research-day/
-URL:https://leekduck.com/events/celestial-research-day/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-20-celestial-research-day/celestial-research-day.jpg
-DTSTART;TZID=Europe/Helsinki:20251220T140000
-DTEND;TZID=Europe/Helsinki:20251220T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Celestial Research Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:masterwork-research-a-precious-catch
-DTSTAMP:20251221T020457Z
+DTSTAMP:20251222T020407Z
 SUMMARY:Masterwork Research: A Precious Catch
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /masterwork-research-a-precious-catch/

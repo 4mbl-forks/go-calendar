@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250326T020457
+DTSTART:20250327T020407
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-lunatone-solrock
-DTSTAMP:20251221T020457Z
+DTSTAMP:20251222T020407Z
 SUMMARY:Lunatone and Solrock PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-lunatone-solrock/
@@ -49,6 +49,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251221
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Lunatone and Solrock PokéStop Showcases
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-sudowoodo-charjabug
+DTSTAMP:20251222T020407Z
+SUMMARY:Sudowoodo and Charjabug PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-sudowoodo-charjabug/
+URL:https://leekduck.com/events/pokemon-showcase-sudowoodo-charjabug/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251222
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sudowoodo and Charjabug PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250326T020457
+DTSTART:20250327T020407
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2025-12-22
-DTSTAMP:20251221T020457Z
+DTSTAMP:20251222T020407Z
 SUMMARY:Dynamax Spheal during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-12-22/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2025-12-29
-DTSTAMP:20251221T020457Z
+DTSTAMP:20251222T020407Z
 SUMMARY:Dynamax Omanyte during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2025-12-29/
@@ -71,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-01-05
-DTSTAMP:20251221T020457Z
+DTSTAMP:20251222T020407Z
 SUMMARY:Dynamax Drampa during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-05/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-01-12
-DTSTAMP:20251221T020457Z
+DTSTAMP:20251222T020407Z
 SUMMARY:Dynamax Caterpie during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-12/
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-01-19
-DTSTAMP:20251221T020457Z
+DTSTAMP:20251222T020407Z
 SUMMARY:Dynamax Beldum during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-19/
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-01-26
-DTSTAMP:20251221T020457Z
+DTSTAMP:20251222T020407Z
 SUMMARY:Dynamax Roggenrola during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-01-26/
