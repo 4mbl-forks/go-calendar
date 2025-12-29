@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250402T021031
+DTSTART:20250403T020847
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-eevee
-DTSTAMP:20251228T021031Z
+DTSTAMP:20251229T020847Z
 SUMMARY:Eevee PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-eevee/
@@ -44,6 +44,24 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251228
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Eevee PokéStop Showcase
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-stantler-rolycoly-coalossal
+DTSTAMP:20251229T020847Z
+SUMMARY:Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-stantler-rolycoly-coalossal/
+URL:https://leekduck.com/events/pokemon-showcase-stantler-rolycoly-coalossa
+ l/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251229
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251231
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
