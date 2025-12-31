@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250404T020020
+DTSTART:20250405T020036
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-stantler-rolycoly-coalossal
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-stantler-rolycoly-coalossal/

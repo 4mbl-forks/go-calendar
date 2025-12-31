@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250404T020020
+DTSTART:20250405T020036
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2025
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-glalie-in-mega-raids-december-2025/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-december-2025
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-december-2025/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-heatran-in-shadow-raids-december-january-2026
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Shadow Heatran in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-heatran-in-shadow-raids-december-january-2026/
@@ -87,9 +87,42 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:blacephalon-in-raids-january-2026
+DTSTAMP:20251231T020036Z
+SUMMARY:Blacephalon in Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /blacephalon-in-raids-january-2026/
+URL:https://leekduck.com/events/blacephalon-in-raids-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251231
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260105
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Blacephalon in Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-swampert-in-mega-raids-january-2026
+DTSTAMP:20251231T020036Z
+SUMMARY:Mega Swampert in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-swampert-in-mega-raids-january-2026/
+URL:https://leekduck.com/events/mega-swampert-in-mega-raids-january-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251231
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260105
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Swampert in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:genesect-burn-drive-genesect-chill-drive-in-5-star-raid-battles-january
  -2026
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Genesect (Burn Drive)\, Genesect (Chill Drive) in 5-star Raid Battl
  es
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
@@ -110,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-blaziken-in-mega-raids-january-2026
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Mega Blaziken in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-blaziken-in-mega-raids-january-2026/
@@ -126,7 +159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sceptile-in-mega-raids-january-2026
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Mega Sceptile in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sceptile-in-mega-raids-january-2026/
@@ -142,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thundurus-incarnate-forme-in-5-star-raid-battles-january-2026
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Thundurus (Incarnate Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/
@@ -160,7 +193,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-cresselia-in-shadow-raids-january-february-2026
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Shadow Cresselia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-cresselia-in-shadow-raids-january-february-2026/
@@ -178,7 +211,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-ampharos-in-mega-raids-january-2026
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Mega Ampharos in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-ampharos-in-mega-raids-january-2026/
@@ -194,7 +227,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-incarnate-forme-in-5-star-raid-battles-january-2026
-DTSTAMP:20251230T020020Z
+DTSTAMP:20251231T020036Z
 SUMMARY:Tornadus (Incarnate Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/
