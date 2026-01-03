@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:spatie/icalendar-generator
+NAME:GO Calendar - Season (S)
+X-WR-CALNAME:GO Calendar - Season (S)
+DESCRIPTION:All Pokémon GO Season events\, in your local time\, auto-updat
+ ed and sourced from Leek Duck.
+X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
+ ted and sourced from Leek Duck.
+REFRESH-INTERVAL;VALUE=DURATION:PT1440M
+X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Europe/Helsinki
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20251026T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260329T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20250408T015555
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:season-21-precious-paths
+DTSTAMP:20260103T015555Z
+SUMMARY:Precious Paths
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-21-precious-paths/
+URL:https://leekduck.com/events/season-21-precious-paths/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 025/2025-12-02-season-21-precious-paths/season-21-precious-paths.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251202
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260303
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Precious Paths
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
