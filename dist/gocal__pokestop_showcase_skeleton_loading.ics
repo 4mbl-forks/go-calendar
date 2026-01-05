@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250409T021208
+DTSTART:20250410T021154
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-pikachu
-DTSTAMP:20260104T021208Z
+DTSTAMP:20260105T021154Z
 SUMMARY:Pikachu PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-pikachu/
@@ -44,6 +44,23 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260104
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Pikachu PokéStop Showcase
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemon-showcase-water-grass-type
+DTSTAMP:20260105T021154Z
+SUMMARY:Water-type and Grass-type PokéStop Showcases
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-water-grass-type/
+URL:https://leekduck.com/events/pokemon-showcase-water-grass-type/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
+ es-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260105
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260107
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Water-type and Grass-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
