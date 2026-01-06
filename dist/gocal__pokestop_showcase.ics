@@ -25,26 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250406T021059
+DTSTART:20250411T020213
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-stantler-rolycoly-coalossal
-DTSTAMP:20260101T021059Z
-SUMMARY:Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
+UID:pokemon-showcase-water-grass-type
+DTSTAMP:20260106T020213Z
+SUMMARY:Water-type and Grass-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-stantler-rolycoly-coalossal/
-URL:https://leekduck.com/events/pokemon-showcase-stantler-rolycoly-coalossa
- l/
+ /pokemon-showcase-water-grass-type/
+URL:https://leekduck.com/events/pokemon-showcase-water-grass-type/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251229
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251231
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260105
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260107
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Stantler\, Rolycoly\, and Coalossal PokéStop Showcase
+DESCRIPTION:Water-type and Grass-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250407T020224
+DTSTART:20250411T020213
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:new-years-2026
-DTSTAMP:20260102T020224Z
-SUMMARY:New Year's 2026
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /new-years-2026/
-URL:https://leekduck.com/events/new-years-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-31-new-years-2026/new-years-2026.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251231
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260104
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:New Year's 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pinch-perfect-2026
-DTSTAMP:20260102T020224Z
+DTSTAMP:20260106T020213Z
 SUMMARY:Pinch Perfect
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pinch-perfect-2026/
@@ -66,13 +49,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:high-zaptitude-2026
-DTSTAMP:20260102T020224Z
+DTSTAMP:20260106T020213Z
 SUMMARY:High Zaptitude
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /high-zaptitude-2026/
 URL:https://leekduck.com/events/high-zaptitude-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260113
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260118
 BEGIN:VALARM
@@ -83,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20260102T020224Z
+DTSTAMP:20260106T020213Z
 SUMMARY:Precious Pals
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /precious-pals-2026/
@@ -100,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260102T020224Z
+DTSTAMP:20260106T020213Z
 SUMMARY:Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -117,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260102T020224Z
+DTSTAMP:20260106T020213Z
 SUMMARY:Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
