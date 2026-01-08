@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250412T020149
+DTSTART:20250413T020213
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pinch-perfect-2026
-DTSTAMP:20260107T020149Z
+DTSTAMP:20260108T020213Z
 SUMMARY:Pinch Perfect
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pinch-perfect-2026/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:high-zaptitude-2026
-DTSTAMP:20260107T020149Z
+DTSTAMP:20260108T020213Z
 SUMMARY:High Zaptitude
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /high-zaptitude-2026/
@@ -66,13 +66,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20260107T020149Z
+DTSTAMP:20260108T020213Z
 SUMMARY:Precious Pals
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /precious-pals-2026/
 URL:https://leekduck.com/events/precious-pals-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-20-precious-pals-2026/precious-pals.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260120
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260125
 BEGIN:VALARM
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260107T020149Z
+DTSTAMP:20260108T020213Z
 SUMMARY:Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -100,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260107T020149Z
+DTSTAMP:20260108T020213Z
 SUMMARY:Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
