@@ -25,25 +25,27 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250420T020152
+DTSTART:20250422T015735
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-rock-type
-DTSTAMP:20260115T020152Z
-SUMMARY:Rock-type Pokémon PokéStop Showcases
+UID:pokemon-showcase-tadbulb-bellibolt-wattrel-kilowattrel
+DTSTAMP:20260117T015735Z
+SUMMARY:Tadbulb\, Bellibolt\, Wattrel\, and Kilowattrel PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-rock-type/
-URL:https://leekduck.com/events/pokemon-showcase-rock-type/
+ /pokemon-showcase-tadbulb-bellibolt-wattrel-kilowattrel/
+URL:https://leekduck.com/events/pokemon-showcase-tadbulb-bellibolt-wattrel-
+ kilowattrel/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260112
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260114
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260117
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260118
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rock-type Pokémon PokéStop Showcases
+DESCRIPTION:Tadbulb\, Bellibolt\, Wattrel\, and Kilowattrel PokéStop Showc
+ ase
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
