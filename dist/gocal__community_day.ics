@@ -21,46 +21,98 @@ DTSTART:20260329T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250424T020841
+DTSTART:20250425T020336
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:january-communityday2026
-DTSTAMP:20260119T020841Z
-SUMMARY:Grookey Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /january-communityday2026/
-URL:https://leekduck.com/events/january-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-01-18-january-communityday2026/grookey-community-day-january-2026
- .jpg
-DTSTART;TZID=Europe/Helsinki:20260118T140000
-DTEND;TZID=Europe/Helsinki:20260118T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Grookey Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:february-communityday2026
-DTSTAMP:20260119T020841Z
-SUMMARY:February Community Day
+DTSTAMP:20260120T020336Z
+SUMMARY:Vulpix Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2026/
 URL:https://leekduck.com/events/february-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-01-february-communityday2026/vulpix-community-day-temp.jpg
 DTSTART;TZID=Europe/Helsinki:20260201T140000
 DTEND;TZID=Europe/Helsinki:20260201T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:February Community Day
+DESCRIPTION:Vulpix Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:march-communityday2026
+DTSTAMP:20260120T020336Z
+SUMMARY:March Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /march-communityday2026/
+URL:https://leekduck.com/events/march-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260314T140000
+DTEND;TZID=Europe/Helsinki:20260314T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:March Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:april-communityday2026
+DTSTAMP:20260120T020336Z
+SUMMARY:April Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /april-communityday2026/
+URL:https://leekduck.com/events/april-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260411T140000
+DTEND;TZID=Europe/Helsinki:20260411T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:April Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:may-communityday2026
+DTSTAMP:20260120T020336Z
+SUMMARY:May Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /may-communityday2026/
+URL:https://leekduck.com/events/may-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260509T140000
+DTEND;TZID=Europe/Helsinki:20260509T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:May Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:may-communitydayclassic2026
+DTSTAMP:20260120T020336Z
+SUMMARY:May Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /may-communitydayclassic2026/
+URL:https://leekduck.com/events/may-communitydayclassic2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260516T140000
+DTEND;TZID=Europe/Helsinki:20260516T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:May Community Day Classic
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

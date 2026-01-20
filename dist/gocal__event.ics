@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250424T020841
+DTSTART:20250425T020336
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:high-zaptitude-2026
-DTSTAMP:20260119T020841Z
-SUMMARY:High Zaptitude
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /high-zaptitude-2026/
-URL:https://leekduck.com/events/high-zaptitude-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260113
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260118
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:High Zaptitude
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20260119T020841Z
+DTSTAMP:20260120T020336Z
 SUMMARY:Precious Pals
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /precious-pals-2026/
@@ -66,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260119T020841Z
+DTSTAMP:20260120T020336Z
 SUMMARY:Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -83,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260119T020841Z
+DTSTAMP:20260120T020336Z
 SUMMARY:Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
@@ -95,6 +78,23 @@ DTEND;TZID=Europe/Helsinki:20260207T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Catch Mastery Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hatch-day-april-2026
+DTSTAMP:20260120T020336Z
+SUMMARY:Hatch Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /hatch-day-april-2026/
+URL:https://leekduck.com/events/hatch-day-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260418T140000
+DTEND;TZID=Europe/Helsinki:20260418T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hatch Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

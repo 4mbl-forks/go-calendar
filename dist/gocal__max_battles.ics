@@ -21,35 +21,41 @@ DTSTART:20260329T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250424T020841
+DTSTART:20250425T020336
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dynamax-weekend-february-2026
-DTSTAMP:20260119T020841Z
-SUMMARY:Dynamax Weekend
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /dynamax-weekend-february-2026/
-URL:https://leekduck.com/events/dynamax-weekend-february-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+UID:dynamax-ho-oh-max-battle-weekend
+DTSTAMP:20260120T020336Z
+SUMMARY:Dynamax Ho-Oh Max Battle Weekend
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /dynamax-ho-oh-max-battle-weekend/
+URL:https://leekduck.com/events/dynamax-ho-oh-max-battle-weekend/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-01-31-dynamax-ho-oh-max-battle-weekend/dynamax-ho-oh-max-battle-w
+ eekend.jpg?v2
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260131
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260201
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Dynamax Weekend
+DESCRIPTION:Dynamax Ho-Oh Max Battle Weekend
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-february-2026
-DTSTAMP:20260119T020841Z
+DTSTAMP:20260120T020336Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-february-2026/
@@ -58,6 +64,40 @@ IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;TZID=Europe/Helsinki:20260215T140000
 DTEND;TZID=Europe/Helsinki:20260215T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-march-2026
+DTSTAMP:20260120T020336Z
+SUMMARY:Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-march-2026/
+URL:https://leekduck.com/events/max-battle-day-march-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260328T140000
+DTEND;TZID=Europe/Helsinki:20260328T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-april-2026
+DTSTAMP:20260120T020336Z
+SUMMARY:Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-april-2026/
+URL:https://leekduck.com/events/max-battle-day-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260425T140000
+DTEND;TZID=Europe/Helsinki:20260425T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Max Battle Day

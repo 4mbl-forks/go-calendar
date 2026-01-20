@@ -21,18 +21,23 @@ DTSTART:20260329T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250424T020841
+DTSTART:20250425T020336
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:shadow-raikou-raid-day-january-2026
-DTSTAMP:20260119T020841Z
+DTSTAMP:20260120T020336Z
 SUMMARY:Shadow Raikou Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raikou-raid-day-january-2026/
@@ -50,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2026
-DTSTAMP:20260119T020841Z
+DTSTAMP:20260120T020336Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-february-2026/
@@ -59,6 +64,57 @@ IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;TZID=Europe/Helsinki:20260214T140000
 DTEND;TZID=Europe/Helsinki:20260214T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-april-2026
+DTSTAMP:20260120T020336Z
+SUMMARY:Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-april-2026/
+URL:https://leekduck.com/events/raid-day-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260404T140000
+DTEND;TZID=Europe/Helsinki:20260404T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-raid-day-may-2026
+DTSTAMP:20260120T020336Z
+SUMMARY:Shadow Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /shadow-raid-day-may-2026/
+URL:https://leekduck.com/events/shadow-raid-day-may-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260502T140000
+DTEND;TZID=Europe/Helsinki:20260502T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-may-2026
+DTSTAMP:20260120T020336Z
+SUMMARY:Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-may-2026/
+URL:https://leekduck.com/events/raid-day-may-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260523T140000
+DTEND;TZID=Europe/Helsinki:20260523T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Raid Day
