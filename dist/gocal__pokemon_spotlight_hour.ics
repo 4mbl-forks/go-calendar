@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250426T020615
+DTSTART:20250427T020731
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-01-20
-DTSTAMP:20260121T020615Z
-SUMMARY:Hatenna Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2026-01-20/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-01-20/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20260120T180000
-DTEND;TZID=Europe/Helsinki:20260120T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Hatenna Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-01-27
-DTSTAMP:20260121T020615Z
+DTSTAMP:20260122T020731Z
 SUMMARY:Foongus Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-01-27/
