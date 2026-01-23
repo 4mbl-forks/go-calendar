@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250427T020731
+DTSTART:20250428T020326
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:precious-pals-2026
-DTSTAMP:20260122T020731Z
+DTSTAMP:20260123T020326Z
 SUMMARY:Precious Pals
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /precious-pals-2026/
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260122T020731Z
+DTSTAMP:20260123T020326Z
 SUMMARY:Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260122T020731Z
+DTSTAMP:20260123T020326Z
 SUMMARY:Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
@@ -82,8 +82,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:carnival-of-flamigo
+DTSTAMP:20260123T020326Z
+SUMMARY:Carnival of Flamigo
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /carnival-of-flamigo/
+URL:https://leekduck.com/events/carnival-of-flamigo/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260203
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260208
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Carnival of Flamigo
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260122T020731Z
+DTSTAMP:20260123T020326Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
