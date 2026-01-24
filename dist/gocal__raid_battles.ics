@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250428T020326
+DTSTART:20250429T015933
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-sceptile-in-mega-raids-january-2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:Mega Sceptile in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sceptile-in-mega-raids-january-2026/
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:thundurus-incarnate-forme-in-5-star-raid-battles-january-2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:Thundurus (Incarnate Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /thundurus-incarnate-forme-in-5-star-raid-battles-january-2026/
@@ -66,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-cresselia-in-shadow-raids-january-february-2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:Shadow Cresselia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-cresselia-in-shadow-raids-january-february-2026/
@@ -84,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-ampharos-in-mega-raids-january-2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:Mega Ampharos in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-ampharos-in-mega-raids-january-2026/
@@ -100,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-incarnate-forme-in-5-star-raid-battles-january-2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:Tornadus (Incarnate Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /tornadus-incarnate-forme-in-5-star-raid-battles-january-2026/
@@ -113,6 +113,124 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260204
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tornadus (Incarnate Forme) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:landorus-incarnate-forme-in-5-star-raid-battles-february-2026
+DTSTAMP:20260124T015933Z
+SUMMARY:Landorus (Incarnate Forme) in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /landorus-incarnate-forme-in-5-star-raid-battles-february-2026/
+URL:https://leekduck.com/events/landorus-incarnate-forme-in-5-star-raid-bat
+ tles-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/landorus-raids-m
+ ar2020.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260204
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260216
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Landorus (Incarnate Forme) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-pidgeot-in-mega-raids-february-2026
+DTSTAMP:20260124T015933Z
+SUMMARY:Mega Pidgeot in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-pidgeot-in-mega-raids-february-2026/
+URL:https://leekduck.com/events/mega-pidgeot-in-mega-raids-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260204
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260216
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Pidgeot in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-sableye-in-mega-raids-february-2026
+DTSTAMP:20260124T015933Z
+SUMMARY:Mega Sableye in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-sableye-in-mega-raids-february-2026/
+URL:https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260216
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260221
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Sableye in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:solgaleo-in-5-star-raid-battles-february-2026
+DTSTAMP:20260124T015933Z
+SUMMARY:Solgaleo in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /solgaleo-in-5-star-raid-battles-february-2026/
+URL:https://leekduck.com/events/solgaleo-in-5-star-raid-battles-february-20
+ 26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260216
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260221
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Solgaleo in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lunala-in-5-star-raid-battles-february-2026
+DTSTAMP:20260124T015933Z
+SUMMARY:Lunala in 5-star Raid Battles
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /lunala-in-5-star-raid-battles-february-2026/
+URL:https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260221
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lunala in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-absol-in-mega-raids-february-2026
+DTSTAMP:20260124T015933Z
+SUMMARY:Mega Absol in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /mega-absol-in-mega-raids-february-2026/
+URL:https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260221
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Absol in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-regigigas-in-shadow-raids-february-march-2026
+DTSTAMP:20260124T015933Z
+SUMMARY:Shadow Regigigas in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-regigigas-in-shadow-raids-february-march-2026/
+URL:https://leekduck.com/events/shadow-regigigas-in-shadow-raids-february-m
+ arch-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260201
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Regigigas in Shadow Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

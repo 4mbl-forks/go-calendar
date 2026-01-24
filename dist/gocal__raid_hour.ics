@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250428T020326
+DTSTART:20250429T015933
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20260128
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:Tornadus (Incarnate Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260128/
@@ -43,6 +43,70 @@ DTEND;TZID=Europe/Helsinki:20260128T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tornadus (Incarnate Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260204
+DTSTAMP:20260124T015933Z
+SUMMARY:Landorus (Incarnate Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260204/
+URL:https://leekduck.com/events/raidhour20260204/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260204T180000
+DTEND;TZID=Europe/Helsinki:20260204T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Landorus (Incarnate Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260211
+DTSTAMP:20260124T015933Z
+SUMMARY:Landorus (Incarnate Forme) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260211/
+URL:https://leekduck.com/events/raidhour20260211/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260211T180000
+DTEND;TZID=Europe/Helsinki:20260211T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Landorus (Incarnate Forme) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260218
+DTSTAMP:20260124T015933Z
+SUMMARY:Solgaleo Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260218/
+URL:https://leekduck.com/events/raidhour20260218/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260218T180000
+DTEND;TZID=Europe/Helsinki:20260218T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Solgaleo Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260225
+DTSTAMP:20260124T015933Z
+SUMMARY:Lunala Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260225/
+URL:https://leekduck.com/events/raidhour20260225/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260225T180000
+DTEND;TZID=Europe/Helsinki:20260225T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Lunala Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

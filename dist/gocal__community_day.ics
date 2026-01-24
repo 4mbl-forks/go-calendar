@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250428T020326
+DTSTART:20250429T015933
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:february-communityday2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:Vulpix Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /february-communityday2026/
@@ -53,8 +53,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:february-community-day-2026
+DTSTAMP:20260124T015933Z
+SUMMARY:February Community Day 2026
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /february-community-day-2026/
+URL:https://leekduck.com/events/february-community-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260201T140000
+DTEND;TZID=Europe/Helsinki:20260201T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:February Community Day 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:march-communityday2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:March Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /march-communityday2026/
@@ -70,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:april-communityday2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:April Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2026/
@@ -86,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2026/
@@ -102,7 +119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260123T020326Z
+DTSTAMP:20260124T015933Z
 SUMMARY:May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2026/
