@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250501T021949
+DTSTART:20250502T021021
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:precious-pals-2026
-DTSTAMP:20260126T021949Z
-SUMMARY:Precious Pals
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /precious-pals-2026/
-URL:https://leekduck.com/events/precious-pals-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-01-20-precious-pals-2026/precious-pals.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260120
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260125
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Precious Pals
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:into-the-depths-2026
-DTSTAMP:20260126T021949Z
+DTSTAMP:20260127T021021Z
 SUMMARY:Into the Depths
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /into-the-depths-2026/
@@ -66,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-day-february-2026
-DTSTAMP:20260126T021949Z
+DTSTAMP:20260127T021021Z
 SUMMARY:Catch Mastery Day
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-day-february-2026/
@@ -83,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:carnival-of-flamigo
-DTSTAMP:20260126T021949Z
+DTSTAMP:20260127T021021Z
 SUMMARY:Carnival of Flamigo
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /carnival-of-flamigo/
@@ -100,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:valentines-day-2026
-DTSTAMP:20260126T021949Z
+DTSTAMP:20260127T021021Z
 SUMMARY:Valentine's Day 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /valentines-day-2026/
@@ -117,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunar-new-year-2026
-DTSTAMP:20260126T021949Z
+DTSTAMP:20260127T021021Z
 SUMMARY:Lunar New Year 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunar-new-year-2026/
@@ -134,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260126T021949Z
+DTSTAMP:20260127T021021Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/

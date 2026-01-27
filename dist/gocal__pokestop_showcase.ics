@@ -25,25 +25,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250501T021949
+DTSTART:20250502T021021
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-ultra-buddy-or-higher
-DTSTAMP:20260126T021949Z
-SUMMARY:Ultra Buddy and Best Buddy PokéStop Showcases
+UID:pokemon-showcase-normal-type
+DTSTAMP:20260127T021021Z
+SUMMARY:Normal-type PokéStop Showcases
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-showcase-ultra-buddy-or-higher/
-URL:https://leekduck.com/events/pokemon-showcase-ultra-buddy-or-higher/
+ /pokemon-showcase-normal-type/
+URL:https://leekduck.com/events/pokemon-showcase-normal-type/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260124
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260125
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260126
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260128
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Ultra Buddy and Best Buddy PokéStop Showcases
+DESCRIPTION:Normal-type PokéStop Showcases
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
