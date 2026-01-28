@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250502T021021
+DTSTART:20250503T020602
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2026-01-26
-DTSTAMP:20260127T021021Z
-SUMMARY:Dynamax Roggenrola during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-01-26/
-URL:https://leekduck.com/events/max-mondays-2026-01-26/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20260126T180000
-DTEND;TZID=Europe/Helsinki:20260126T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Roggenrola during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-02-02
-DTSTAMP:20260127T021021Z
+DTSTAMP:20260128T020602Z
 SUMMARY:Dynamax Wailmer during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-02-02/
@@ -66,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-02-09
-DTSTAMP:20260127T021021Z
+DTSTAMP:20260128T020602Z
 SUMMARY:Dynamax Growlithe during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-02-09/
@@ -83,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-02-16
-DTSTAMP:20260127T021021Z
+DTSTAMP:20260128T020602Z
 SUMMARY:Dynamax Machop during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-02-16/
@@ -100,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-02-23
-DTSTAMP:20260127T021021Z
+DTSTAMP:20260128T020602Z
 SUMMARY:Dynamax Chansey during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-02-23/
