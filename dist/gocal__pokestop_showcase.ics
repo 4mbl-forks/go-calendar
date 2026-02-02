@@ -25,16 +25,16 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250507T024811
+DTSTART:20250508T023750
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-showcase-ho-oh
-DTSTAMP:20260201T024811Z
+DTSTAMP:20260202T023750Z
 SUMMARY:Ho-Oh PokéStop Showcase
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-showcase-ho-oh/
 URL:https://leekduck.com/events/pokemon-showcase-ho-oh/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
