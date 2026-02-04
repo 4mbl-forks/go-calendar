@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250509T023409
+DTSTART:20250510T022846
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:toucannon-ludicolo-quaquaval-showcase-february-2026
-DTSTAMP:20260203T023409Z
+DTSTAMP:20260204T022846Z
 SUMMARY:Toucannon\, Ludicolo\, and Quaquaval PokéStop Showcase
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /toucannon-ludicolo-quaquaval-showcase-february-2026/
