@@ -30,32 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250521T024114
+DTSTART:20250522T023650
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:therian-forme-enamorus-raid-day-2026
-DTSTAMP:20260215T024114Z
-SUMMARY:Therian Forme Enamorus Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /therian-forme-enamorus-raid-day-2026/
-URL:https://leekduck.com/events/therian-forme-enamorus-raid-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-14-therian-forme-enamorus-raid-day-2026/therian-forme-enamorus
- -raid-day.jpg
-DTSTART;TZID=Europe/Helsinki:20260214T140000
-DTEND;TZID=Europe/Helsinki:20260214T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Therian Forme Enamorus Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raid-day-april-2026
-DTSTAMP:20260215T024114Z
+DTSTAMP:20260216T023650Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2026/
@@ -72,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2026
-DTSTAMP:20260215T024114Z
+DTSTAMP:20260216T023650Z
 SUMMARY:Shadow Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2026/
@@ -89,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2026
-DTSTAMP:20260215T024114Z
+DTSTAMP:20260216T023650Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2026/
