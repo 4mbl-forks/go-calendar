@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250524T023626
+DTSTART:20250525T023559
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2026-02-16
-DTSTAMP:20260218T023626Z
-SUMMARY:Dynamax Machop during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-02-16/
-URL:https://leekduck.com/events/max-mondays-2026-02-16/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20260216T180000
-DTEND;TZID=Europe/Helsinki:20260216T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Machop during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-02-23
-DTSTAMP:20260218T023626Z
+DTSTAMP:20260219T023559Z
 SUMMARY:Unannounced Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-02-23/

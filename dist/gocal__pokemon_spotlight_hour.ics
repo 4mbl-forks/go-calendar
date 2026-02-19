@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250524T023626
+DTSTART:20250525T023559
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-02-17
-DTSTAMP:20260218T023626Z
-SUMMARY:Horsea Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2026-02-17/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-02-17/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20260217T180000
-DTEND;TZID=Europe/Helsinki:20260217T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Horsea Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-02-24
-DTSTAMP:20260218T023626Z
+DTSTAMP:20260219T023559Z
 SUMMARY:Totodile Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-02-24/
