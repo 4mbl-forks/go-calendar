@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250527T022455
+DTSTART:20250528T023631
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-february-2026
-DTSTAMP:20260221T022455Z
+DTSTAMP:20260222T023631Z
 SUMMARY:Mega Sableye in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-sableye-in-mega-raids-february-2026/
@@ -48,7 +48,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solgaleo-in-5-star-raid-battles-february-2026
-DTSTAMP:20260221T022455Z
+DTSTAMP:20260222T023631Z
 SUMMARY:Solgaleo in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /solgaleo-in-5-star-raid-battles-february-2026/
@@ -65,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-february-2026
-DTSTAMP:20260221T022455Z
+DTSTAMP:20260222T023631Z
 SUMMARY:Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunala-in-5-star-raid-battles-february-2026/
@@ -81,8 +81,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:mega-absol-in-mega-raids-february-2026
+DTSTAMP:20260222T023631Z
+SUMMARY:Mega Absol in Mega Raids
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /mega-absol-in-mega-raids-february-2026/
+URL:https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260221
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260222
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Absol in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-march-2026
-DTSTAMP:20260221T022455Z
+DTSTAMP:20260222T023631Z
 SUMMARY:Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /lunala-in-5-star-raid-battles-march-2026/
@@ -97,15 +113,15 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mega-absol-in-mega-raids-february-2026
-DTSTAMP:20260221T022455Z
+UID:mega-absol-in-mega-raids-march-2026
+DTSTAMP:20260222T023631Z
 SUMMARY:Mega Absol in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /mega-absol-in-mega-raids-february-2026/
-URL:https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /mega-absol-in-mega-raids-march-2026/
+URL:https://leekduck.com/events/mega-absol-in-mega-raids-march-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260221
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260304
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260302
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260303
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Mega Absol in Mega Raids
@@ -114,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-regigigas-in-shadow-raids-february-march-2026
-DTSTAMP:20260221T022455Z
+DTSTAMP:20260222T023631Z
 SUMMARY:Shadow Regigigas in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regigigas-in-shadow-raids-february-march-2026/
