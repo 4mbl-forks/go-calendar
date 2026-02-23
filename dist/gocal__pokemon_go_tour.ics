@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20250526T010000
+DTSTART:20250526T170000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,7 +20,7 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250528T023631
+DTSTART:20250529T023713
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -39,45 +39,8 @@ TZOFFSETTO:+0300
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-tour-kalos-tainan-2026
-DTSTAMP:20260222T023631Z
-SUMMARY:Pokémon GO Tour: Kalos - Tainan 2026
-DESCRIPTION:Starts at 01:00\, ends at 09:00.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-kalos-tainan-2026/
-URL:https://leekduck.com/events/pokemon-go-tour-kalos-tainan-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-20-pokemon-go-tour-kalos-tainan-2026/pokemon-go-tour-kalos-tai
- nan-2026.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260220
-DTEND;TZID=Z;VALUE=DATE:20260222
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Pokémon GO Tour: Kalos - Tainan 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-night-pokemon-go-tour-kalos-tainan-2026
-DTSTAMP:20260222T023631Z
-SUMMARY:Mega Night at Pokémon GO Tour: Kalos - Tainan 2026
-DESCRIPTION:Starts at 09:00\, ends at 11:00.\n\nhttps://leekduck.com/events
- /mega-night-pokemon-go-tour-kalos-tainan-2026/
-URL:https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-tainan-202
- 6/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-20-mega-night-pokemon-go-tour-kalos-tainan-2026/mega-night-pok
- emon-go-tour-kalos-tainan-2026.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260220
-DTEND;TZID=Z;VALUE=DATE:20260222
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Night at Pokémon GO Tour: Kalos - Tainan 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-los-angeles-2026
-DTSTAMP:20260222T023631Z
+DTSTAMP:20260223T023713Z
 SUMMARY:Pokémon GO Tour: Kalos - Los Angeles 2026
 DESCRIPTION:Starts at 17:00\, ends at 01:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-kalos-los-angeles-2026/
@@ -95,7 +58,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-night-pokemon-go-tour-kalos-los-angeles-2026
-DTSTAMP:20260222T023631Z
+DTSTAMP:20260223T023713Z
 SUMMARY:Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026
 DESCRIPTION:Starts at 02:00\, ends at 04:00.\n\nhttps://leekduck.com/events
  /mega-night-pokemon-go-tour-kalos-los-angeles-2026/
@@ -114,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-kalos-global-2026
-DTSTAMP:20260222T023631Z
+DTSTAMP:20260223T023713Z
 SUMMARY:Pokémon GO Tour: Kalos - Global 2026
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-tour-kalos-global-2026/
