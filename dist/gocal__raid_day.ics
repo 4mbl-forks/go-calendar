@@ -30,14 +30,31 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250530T212939
+DTSTART:20250531T023440
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:max-battle-day-march-2026
+DTSTAMP:20260225T023440Z
+SUMMARY:Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-march-2026/
+URL:https://leekduck.com/events/max-battle-day-march-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260328T140000
+DTEND;TZID=Europe/Helsinki:20260328T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-april-2026
-DTSTAMP:20260224T212939Z
+DTSTAMP:20260225T023440Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-april-2026/
@@ -54,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-raid-day-may-2026
-DTSTAMP:20260224T212939Z
+DTSTAMP:20260225T023440Z
 SUMMARY:Shadow Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-raid-day-may-2026/
@@ -71,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2026
-DTSTAMP:20260224T212939Z
+DTSTAMP:20260225T023440Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2026/

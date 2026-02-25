@@ -25,14 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250530T212939
+DTSTART:20250531T023440
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20260225
-DTSTAMP:20260224T212939Z
+DTSTAMP:20260225T023440Z
 SUMMARY:Lunala Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260225/
@@ -43,6 +43,70 @@ DTEND;TZID=Europe/Helsinki:20260225T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Lunala Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260304
+DTSTAMP:20260225T023440Z
+SUMMARY:Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260304/
+URL:https://leekduck.com/events/raidhour20260304/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260304T180000
+DTEND;TZID=Europe/Helsinki:20260304T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Articuno\, Zapdos\, and Moltres Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260311
+DTSTAMP:20260225T023440Z
+SUMMARY:Zacian (Hero of Many Battles) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260311/
+URL:https://leekduck.com/events/raidhour20260311/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260311T180000
+DTEND;TZID=Europe/Helsinki:20260311T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zacian (Hero of Many Battles) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260318
+DTSTAMP:20260225T023440Z
+SUMMARY:Zamazenta (Hero of Many Battles) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260318/
+URL:https://leekduck.com/events/raidhour20260318/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260318T180000
+DTEND;TZID=Europe/Helsinki:20260318T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zamazenta (Hero of Many Battles) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260325
+DTSTAMP:20260225T023440Z
+SUMMARY:Regieleki Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260325/
+URL:https://leekduck.com/events/raidhour20260325/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260325T180000
+DTEND;TZID=Europe/Helsinki:20260325T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regieleki Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

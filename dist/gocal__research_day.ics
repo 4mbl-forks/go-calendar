@@ -25,22 +25,22 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250530T212939
+DTSTART:20250531T023440
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:research-day-march-2026
-DTSTAMP:20260224T212939Z
+DTSTAMP:20260225T023440Z
 SUMMARY:Research Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /research-day-march-2026/
 URL:https://leekduck.com/events/research-day-march-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;TZID=Europe/Helsinki:20260321T140000
-DTEND;TZID=Europe/Helsinki:20260321T170000
+DTSTART;TZID=Europe/Helsinki:20260321T100000
+DTEND;TZID=Europe/Helsinki:20260321T200000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Research Day

@@ -25,25 +25,93 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250530T023332
+DTSTART:20250531T023440
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2026-02-23
-DTSTAMP:20260224T023332Z
-SUMMARY:Kanto Starters Max Monday
+UID:max-mondays-2026-03-02
+DTSTAMP:20260225T023440Z
+SUMMARY:Dynamax Rookidee during Max Monday
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-02-23/
-URL:https://leekduck.com/events/max-mondays-2026-02-23/
+ /max-mondays-2026-03-02/
+URL:https://leekduck.com/events/max-mondays-2026-03-02/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=Europe/Helsinki:20260223T180000
-DTEND;TZID=Europe/Helsinki:20260223T190000
+DTSTART;TZID=Europe/Helsinki:20260302T180000
+DTEND;TZID=Europe/Helsinki:20260302T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Kanto Starters Max Monday
+DESCRIPTION:Dynamax Rookidee during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-03-09
+DTSTAMP:20260225T023440Z
+SUMMARY:Dynamax Pikachu during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-03-09/
+URL:https://leekduck.com/events/max-mondays-2026-03-09/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260309T180000
+DTEND;TZID=Europe/Helsinki:20260309T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Pikachu during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-03-16
+DTSTAMP:20260225T023440Z
+SUMMARY:Dynamax Falinks during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-03-16/
+URL:https://leekduck.com/events/max-mondays-2026-03-16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260316T180000
+DTEND;TZID=Europe/Helsinki:20260316T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Falinks during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-03-23
+DTSTAMP:20260225T023440Z
+SUMMARY:Dynamax Regice during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-03-23/
+URL:https://leekduck.com/events/max-mondays-2026-03-23/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260323T180000
+DTEND;TZID=Europe/Helsinki:20260323T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Regice during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-03-30
+DTSTAMP:20260225T023440Z
+SUMMARY:Dynamax Woobat during Max Monday
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-03-30/
+URL:https://leekduck.com/events/max-mondays-2026-03-30/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260330T180000
+DTEND;TZID=Europe/Helsinki:20260330T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Woobat during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -23,6 +23,10 @@
         "name": "Max Battles",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_battles.ics"
     },
+    "max_mondays": {
+        "name": "Max Mondays",
+        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
+    },
     "pokemon_go_tour": {
         "name": "Pokémon GO Tour",
         "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
