@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20250523T210000
+DTSTART:20250530T210000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,33 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250531T023440
+DTSTART:20250601T023026
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gbl-precious-paths_great-league_love-cup-great-league-edition
-DTSTAMP:20260225T023440Z
-SUMMARY:Great League and Love Cup: Great League Edition | Precious Paths
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-precious-paths_great-league_love-cup-great-league-edition/
-URL:https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-gr
- eat-league-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
- ague-key.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260217
-DTEND;TZID=Z;VALUE=DATE:20260224
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Great League and Love Cup: Great League Edition | Precious Path
- s
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:gbl-precious-paths_great-league_ultra-league_master-league-mega-edition
-DTSTAMP:20260225T023440Z
+DTSTAMP:20260226T023026Z
 SUMMARY:Great League\, Ultra League\, and Master League: Mega Edition | Pre
  cious Paths
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
