@@ -35,14 +35,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250601T023026
+DTSTART:20250602T022917
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:road-to-kalos
-DTSTAMP:20260226T023026Z
+DTSTAMP:20260227T022917Z
 SUMMARY:Road to Kalos
 DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /road-to-kalos/
@@ -59,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbd-march-2026-week-1
-DTSTAMP:20260226T023026Z
+DTSTAMP:20260227T022917Z
 SUMMARY:Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /tbd-march-2026-week-1/
@@ -76,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbd-march-2026-week-2
-DTSTAMP:20260226T023026Z
+DTSTAMP:20260227T022917Z
 SUMMARY:Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /tbd-march-2026-week-2/
@@ -92,8 +92,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemon-pokopia-celebration-event-2026
+DTSTAMP:20260227T022917Z
+SUMMARY:Pokémon Pokopia Celebration Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-pokopia-celebration-event-2026/
+URL:https://leekduck.com/events/pokemon-pokopia-celebration-event-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-03-10-pokemon-pokopia-celebration-event-2026/pokopia-celebration-
+ event.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260310
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260316
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pokémon Pokopia Celebration Event
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:bug-out-2026
-DTSTAMP:20260226T023026Z
+DTSTAMP:20260227T022917Z
 SUMMARY:Bug Out 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out-2026/
@@ -110,7 +128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbd-march-2026-week-3
-DTSTAMP:20260226T023026Z
+DTSTAMP:20260227T022917Z
 SUMMARY:Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /tbd-march-2026-week-3/
@@ -127,7 +145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260226T023026Z
+DTSTAMP:20260227T022917Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
@@ -144,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260226T023026Z
+DTSTAMP:20260227T022917Z
 SUMMARY:Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
