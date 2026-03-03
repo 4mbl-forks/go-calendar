@@ -25,25 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250605T023221
+DTSTART:20250606T023432
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:research-day-march-2026
-DTSTAMP:20260302T023221Z
-SUMMARY:Research Day
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /research-day-march-2026/
-URL:https://leekduck.com/events/research-day-march-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki:20260321T100000
-DTEND;TZID=Europe/Helsinki:20260321T200000
+UID:replay-water-research-day-2026
+DTSTAMP:20260303T023432Z
+SUMMARY:Replay: Water Research Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /replay-water-research-day-2026/
+URL:https://leekduck.com/events/replay-water-research-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-03-21-replay-water-research-day-2026/replay-water-research-day.jp
+ g
+DTSTART;TZID=Europe/Helsinki:20260321T140000
+DTEND;TZID=Europe/Helsinki:20260321T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Research Day
+DESCRIPTION:Replay: Water Research Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

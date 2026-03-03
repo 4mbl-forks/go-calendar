@@ -35,14 +35,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250605T023221
+DTSTART:20250606T023432
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:precious-paths-finale-timed-research
-DTSTAMP:20260302T023221Z
+DTSTAMP:20260303T023432Z
 SUMMARY:Precious Paths Finale Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /precious-paths-finale-timed-research/
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-anniversary-2026
-DTSTAMP:20260302T023221Z
+DTSTAMP:20260303T023432Z
 SUMMARY:Pokémon 30th Anniversary
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-30th-anniversary-2026/
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-anniversary-all-out-2026
-DTSTAMP:20260302T023221Z
+DTSTAMP:20260303T023432Z
 SUMMARY:Pokémon 30th Anniversary: All Out
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-30th-anniversary-all-out-2026/
@@ -95,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-pokopia-celebration-event-2026
-DTSTAMP:20260302T023221Z
+DTSTAMP:20260303T023432Z
 SUMMARY:Pokémon Pokopia Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-pokopia-celebration-event-2026/
@@ -113,7 +113,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out-2026
-DTSTAMP:20260302T023221Z
+DTSTAMP:20260303T023432Z
 SUMMARY:Bug Out 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out-2026/
@@ -130,7 +130,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbd-march-2026-week-3
-DTSTAMP:20260302T023221Z
+DTSTAMP:20260303T023432Z
 SUMMARY:Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /tbd-march-2026-week-3/
@@ -147,7 +147,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260302T023221Z
+DTSTAMP:20260303T023432Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
@@ -164,7 +164,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260302T023221Z
+DTSTAMP:20260303T023432Z
 SUMMARY:Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
