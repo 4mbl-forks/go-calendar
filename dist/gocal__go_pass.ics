@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250606T023432
+DTSTART:20250607T022732
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:go-pass-february-2026
-DTSTAMP:20260303T023432Z
-SUMMARY:GO Pass: February
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /go-pass-february-2026/
-URL:https://leekduck.com/events/go-pass-february-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-02-03-go-pass-february-2026/go-pass-february-2026.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260203
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260303
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:GO Pass: February
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:go-pass-march-2026
-DTSTAMP:20260303T023432Z
+DTSTAMP:20260304T022732Z
 SUMMARY:GO Pass: March
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-march-2026/
