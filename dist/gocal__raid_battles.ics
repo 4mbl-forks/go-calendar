@@ -25,46 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250607T022732
+DTSTART:20250608T023034
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:lunala-in-5-star-raid-battles-march-2026
-DTSTAMP:20260304T022732Z
-SUMMARY:Lunala in 5-star Raid Battles
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /lunala-in-5-star-raid-battles-march-2026/
-URL:https://leekduck.com/events/lunala-in-5-star-raid-battles-march-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260302
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260303
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Lunala in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-absol-in-mega-raids-march-2026
-DTSTAMP:20260304T022732Z
-SUMMARY:Mega Absol in Mega Raids
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /mega-absol-in-mega-raids-march-2026/
-URL:https://leekduck.com/events/mega-absol-in-mega-raids-march-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260302
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260303
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Absol in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-regigigas-in-shadow-raids-february-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Shadow Regigigas in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-regigigas-in-shadow-raids-february-march-2026/
@@ -82,7 +50,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:articuno-zapdos-moltres-in-5-star-raid-battles-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /articuno-zapdos-moltres-in-5-star-raid-battles-march-2026/
@@ -100,7 +68,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pinsir-in-mega-raids-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Mega Pinsir in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-pinsir-in-mega-raids-march-2026/
@@ -116,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-steelix-in-mega-raids-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Mega Steelix in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-steelix-in-mega-raids-march-2026/
@@ -132,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zacian-hero-of-many-battles-in-5-star-raid-battles-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Zacian (Hero of Many Battles) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zacian-hero-of-many-battles-in-5-star-raid-battles-march-2026/
@@ -150,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Mega Slowbro in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-slowbro-in-mega-raids-march-2026/
@@ -166,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-hero-of-many-battles-in-5-star-raid-battles-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Zamazenta (Hero of Many Battles) in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /zamazenta-hero-of-many-battles-in-5-star-raid-battles-march-2026/
@@ -184,7 +152,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-houndoom-in-mega-raids-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Mega Houndoom in Mega Raids
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /mega-houndoom-in-mega-raids-march-2026/
@@ -200,7 +168,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regieleki-in-5-star-raid-battles-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Regieleki in 5-star Raid Battles
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /regieleki-in-5-star-raid-battles-march-2026/
@@ -218,7 +186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-latias-in-shadow-raids-march-2026
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Shadow Latias in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-latias-in-shadow-raids-march-2026/

@@ -25,22 +25,22 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250607T022732
+DTSTART:20250608T023034
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2026-03-09
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Dynamax Pikachu during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-03-09/
 URL:https://leekduck.com/events/max-mondays-2026-03-09/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=Europe/Helsinki:20260309T180000
-DTEND;TZID=Europe/Helsinki:20260309T190000
+DTSTART;TZID=Europe/Helsinki:20260309T060000
+DTEND;TZID=Europe/Helsinki:20260309T210000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Pikachu during Max Monday
@@ -49,15 +49,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-03-16
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Dynamax Falinks during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-03-16/
 URL:https://leekduck.com/events/max-mondays-2026-03-16/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=Europe/Helsinki:20260316T180000
-DTEND;TZID=Europe/Helsinki:20260316T190000
+DTSTART;TZID=Europe/Helsinki:20260316T060000
+DTEND;TZID=Europe/Helsinki:20260316T210000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Falinks during Max Monday
@@ -66,15 +66,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-03-23
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Dynamax Regice during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-03-23/
 URL:https://leekduck.com/events/max-mondays-2026-03-23/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=Europe/Helsinki:20260323T180000
-DTEND;TZID=Europe/Helsinki:20260323T190000
+DTSTART;TZID=Europe/Helsinki:20260323T060000
+DTEND;TZID=Europe/Helsinki:20260323T210000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Regice during Max Monday
@@ -83,15 +83,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-03-30
-DTSTAMP:20260304T022732Z
+DTSTAMP:20260305T023034Z
 SUMMARY:Dynamax Woobat during Max Monday
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-03-30/
 URL:https://leekduck.com/events/max-mondays-2026-03-30/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
-DTSTART;TZID=Europe/Helsinki:20260330T180000
-DTEND;TZID=Europe/Helsinki:20260330T190000
+DTSTART;TZID=Europe/Helsinki:20260330T060000
+DTEND;TZID=Europe/Helsinki:20260330T210000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Woobat during Max Monday
