@@ -35,14 +35,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250609T022839
+DTSTART:20250610T022227
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-30th-anniversary-2026
-DTSTAMP:20260306T022839Z
+DTSTAMP:20260307T022227Z
 SUMMARY:Pokémon 30th Anniversary
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-30th-anniversary-2026/
@@ -59,14 +59,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-30th-anniversary-all-out-2026
-DTSTAMP:20260306T022839Z
+DTSTAMP:20260307T022227Z
 SUMMARY:Pokémon 30th Anniversary: All Out
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-30th-anniversary-all-out-2026/
 URL:https://leekduck.com/events/pokemon-30th-anniversary-all-out-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-07-pokemon-30th-anniversary-all-out-2026/30th-anniversary-even
- t.jpg
+ 026/2026-03-07-pokemon-30th-anniversary-all-out-2026/pokemon-30th-annivers
+ ary-all-out.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260307
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260309
 BEGIN:VALARM
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-pokopia-celebration-event-2026
-DTSTAMP:20260306T022839Z
+DTSTAMP:20260307T022227Z
 SUMMARY:Pokémon Pokopia Celebration Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-pokopia-celebration-event-2026/
@@ -95,7 +95,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bug-out-2026
-DTSTAMP:20260306T022839Z
+DTSTAMP:20260307T022227Z
 SUMMARY:Bug Out 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /bug-out-2026/
@@ -112,7 +112,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tbd-march-2026-week-3
-DTSTAMP:20260306T022839Z
+DTSTAMP:20260307T022227Z
 SUMMARY:Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /tbd-march-2026-week-3/
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-april-2026
-DTSTAMP:20260306T022839Z
+DTSTAMP:20260307T022227Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-april-2026/
@@ -146,7 +146,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260306T022839Z
+DTSTAMP:20260307T022227Z
 SUMMARY:Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
