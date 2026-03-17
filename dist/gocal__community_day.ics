@@ -30,37 +30,20 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250619T024909
+DTSTART:20250620T023202
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:march-communityday2026
-DTSTAMP:20260316T024909Z
-SUMMARY:Scorbunny Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /march-communityday2026/
-URL:https://leekduck.com/events/march-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-14-march-communityday2026/scorbunny-cd-march-2026.jpg
-DTSTART;TZID=Europe/Helsinki:20260314T140000
-DTEND;TZID=Europe/Helsinki:20260314T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Scorbunny Community Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:april-communityday2026
-DTSTAMP:20260316T024909Z
+DTSTAMP:20260317T023202Z
 SUMMARY:Tinkatink Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /april-communityday2026/
 URL:https://leekduck.com/events/april-communityday2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026.jpg
+ 026/2026-04-11-april-communityday2026/tinkatink-cd-april-2026-key.jpg
 DTSTART;TZID=Europe/Helsinki:20260411T140000
 DTEND;TZID=Europe/Helsinki:20260411T170000
 BEGIN:VALARM
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260316T024909Z
+DTSTAMP:20260317T023202Z
 SUMMARY:May Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2026/
@@ -87,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260316T024909Z
+DTSTAMP:20260317T023202Z
 SUMMARY:May Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2026/
