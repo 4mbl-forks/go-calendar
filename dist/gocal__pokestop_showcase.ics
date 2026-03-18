@@ -25,25 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250607T022732
+DTSTART:20250621T023807
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-showcase-tuesday
-DTSTAMP:20260304T022732Z
-SUMMARY:Pokémon Showcase Tuesday
-DESCRIPTION:Starts at 00:00\, ends at 11:59.\n\nhttps://leekduck.com/events
- /pokemon-showcase-tuesday/
-URL:https://leekduck.com/events/pokemon-showcase-tuesday/
+UID:pokemon-showcase-showcase-tuesday-march-2026
+DTSTAMP:20260318T023807Z
+SUMMARY:Showcase Tuesday PokéStop Showcases – March 17
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /pokemon-showcase-showcase-tuesday-march-2026/
+URL:https://leekduck.com/events/pokemon-showcase-showcase-tuesday-march-202
+ 6/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokestop-showcas
  es-default.jpg
-DTSTART;TZID=Europe/Helsinki:20260303T000000
-DTEND;TZID=Europe/Helsinki:20260303T115900
+DTSTART;TZID=Europe/Helsinki:20260317T100000
+DTEND;TZID=Europe/Helsinki:20260317T200000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pokémon Showcase Tuesday
+DESCRIPTION:Showcase Tuesday PokéStop Showcases – March 17
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
