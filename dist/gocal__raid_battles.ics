@@ -21,52 +21,23 @@ DTSTART:20260329T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250622T023929
+DTSTART:20250623T023049
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mega-steelix-in-mega-raids-march-2026
-DTSTAMP:20260319T023929Z
-SUMMARY:Mega Steelix in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /mega-steelix-in-mega-raids-march-2026/
-URL:https://leekduck.com/events/mega-steelix-in-mega-raids-march-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260311
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260317
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Steelix in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:zacian-hero-of-many-battles-in-5-star-raid-battles-march-2026
-DTSTAMP:20260319T023929Z
-SUMMARY:Zacian (Hero of Many Battles) in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /zacian-hero-of-many-battles-in-5-star-raid-battles-march-2026/
-URL:https://leekduck.com/events/zacian-hero-of-many-battles-in-5-star-raid-
- battles-march-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/zacian-and-zamaz
- enta-2.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260311
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260317
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Zacian (Hero of Many Battles) in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-march-2026
-DTSTAMP:20260319T023929Z
+DTSTAMP:20260320T023049Z
 SUMMARY:Mega Slowbro in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /mega-slowbro-in-mega-raids-march-2026/
@@ -82,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-hero-of-many-battles-in-5-star-raid-battles-march-2026
-DTSTAMP:20260319T023929Z
+DTSTAMP:20260320T023049Z
 SUMMARY:Zamazenta (Hero of Many Battles) in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /zamazenta-hero-of-many-battles-in-5-star-raid-battles-march-2026/
@@ -100,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-houndoom-in-mega-raids-march-2026
-DTSTAMP:20260319T023929Z
+DTSTAMP:20260320T023049Z
 SUMMARY:Mega Houndoom in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /mega-houndoom-in-mega-raids-march-2026/
@@ -116,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regieleki-in-5-star-raid-battles-march-2026
-DTSTAMP:20260319T023929Z
+DTSTAMP:20260320T023049Z
 SUMMARY:Regieleki in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /regieleki-in-5-star-raid-battles-march-2026/
@@ -134,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-latias-in-shadow-raids-march-2026
-DTSTAMP:20260319T023929Z
+DTSTAMP:20260320T023049Z
 SUMMARY:Shadow Latias in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-latias-in-shadow-raids-march-2026/
@@ -146,6 +117,192 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260331
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Shadow Latias in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-manectric-in-mega-raids-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Mega Manectric in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-manectric-in-mega-raids-april-2026/
+URL:https://leekduck.com/events/mega-manectric-in-mega-raids-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260401
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260407
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Manectric in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:regidrago-in-5-star-raid-battles-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Regidrago in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /regidrago-in-5-star-raid-battles-april-2026/
+URL:https://leekduck.com/events/regidrago-in-5-star-raid-battles-april-2026
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260401
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260407
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Regidrago in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:kyogre-in-5-star-raid-battles-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Kyogre in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /kyogre-in-5-star-raid-battles-april-2026/
+URL:https://leekduck.com/events/kyogre-in-5-star-raid-battles-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260408
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260414
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kyogre in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-aerodactyl-in-mega-raids-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Mega Aerodactyl in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-aerodactyl-in-mega-raids-april-2026/
+URL:https://leekduck.com/events/mega-aerodactyl-in-mega-raids-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260408
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260414
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Aerodactyl in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:groudon-in-5-star-raid-battles-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Groudon in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /groudon-in-5-star-raid-battles-april-2026/
+URL:https://leekduck.com/events/groudon-in-5-star-raid-battles-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260415
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260421
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Groudon in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-alakazam-in-mega-raids-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Mega Alakazam in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-alakazam-in-mega-raids-april-2026/
+URL:https://leekduck.com/events/mega-alakazam-in-mega-raids-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260415
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260421
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Alakazam in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-sharpedo-in-mega-raids-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Mega Sharpedo in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-sharpedo-in-mega-raids-april-2026/
+URL:https://leekduck.com/events/mega-sharpedo-in-mega-raids-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260422
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260428
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Sharpedo in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-koko-in-5-star-raid-battles-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Tapu Koko in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /tapu-koko-in-5-star-raid-battles-april-2026/
+URL:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-april-2026
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260422
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260428
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tapu Koko in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-latios-in-shadow-raids-april-may-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Shadow Latios in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-latios-in-shadow-raids-april-may-2026/
+URL:https://leekduck.com/events/shadow-latios-in-shadow-raids-april-may-202
+ 6/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260401
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260505
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Latios in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-banette-in-mega-raids-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Mega Banette in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-banette-in-mega-raids-april-2026/
+URL:https://leekduck.com/events/mega-banette-in-mega-raids-april-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260429
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260505
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Banette in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tapu-lele-in-5-star-raid-battles-april-2026
+DTSTAMP:20260320T023049Z
+SUMMARY:Tapu Lele in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /tapu-lele-in-5-star-raid-battles-april-2026/
+URL:https://leekduck.com/events/tapu-lele-in-5-star-raid-battles-april-2026
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260429
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260505
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tapu Lele in 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
