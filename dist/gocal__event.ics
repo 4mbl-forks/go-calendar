@@ -35,14 +35,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250628T023708
+DTSTART:20250629T024429
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:a-shockingly-good-time-2026
-DTSTAMP:20260325T023708Z
+DTSTAMP:20260326T024429Z
 SUMMARY:A Shockingly Good Time
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /a-shockingly-good-time-2026/
@@ -58,25 +58,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hatch-day-april-2026
-DTSTAMP:20260325T023708Z
-SUMMARY:Hatch Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /hatch-day-april-2026/
-URL:https://leekduck.com/events/hatch-day-april-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki:20260418T140000
+UID:replay-riolu-hatch-day-2026
+DTSTAMP:20260326T024429Z
+SUMMARY:Replay: Riolu Hatch Day
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /replay-riolu-hatch-day-2026/
+URL:https://leekduck.com/events/replay-riolu-hatch-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-04-18-replay-riolu-hatch-day-2026/replay-riolu-hatch-day-2026.jpg
+DTSTART;TZID=Europe/Helsinki:20260418T110000
 DTEND;TZID=Europe/Helsinki:20260418T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Hatch Day
+DESCRIPTION:Replay: Riolu Hatch Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainability-week-2026
-DTSTAMP:20260325T023708Z
+DTSTAMP:20260326T024429Z
 SUMMARY:Sustainability Week 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sustainability-week-2026/
@@ -93,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve-2026
-DTSTAMP:20260325T023708Z
+DTSTAMP:20260326T024429Z
 SUMMARY:Steeled Resolve
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve-2026/
@@ -110,7 +110,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260325T023708Z
+DTSTAMP:20260326T024429Z
 SUMMARY:Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
