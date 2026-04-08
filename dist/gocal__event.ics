@@ -35,31 +35,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250711T024742
+DTSTART:20250712T024852
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a-shockingly-good-time-2026
-DTSTAMP:20260407T024742Z
-SUMMARY:A Shockingly Good Time
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /a-shockingly-good-time-2026/
-URL:https://leekduck.com/events/a-shockingly-good-time-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-31-a-shockingly-good-time-2026/a-shockingly-good-time.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260331
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260406
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:A Shockingly Good Time
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:replay-riolu-hatch-day-2026
-DTSTAMP:20260407T024742Z
+DTSTAMP:20260408T024852Z
 SUMMARY:Replay: Riolu Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /replay-riolu-hatch-day-2026/
@@ -76,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sustainability-week-2026
-DTSTAMP:20260407T024742Z
+DTSTAMP:20260408T024852Z
 SUMMARY:Sustainability Week 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sustainability-week-2026/
@@ -93,13 +76,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve-2026
-DTSTAMP:20260407T024742Z
+DTSTAMP:20260408T024852Z
 SUMMARY:Steeled Resolve
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve-2026/
 URL:https://leekduck.com/events/steeled-resolve-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260428
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260504
 BEGIN:VALARM
@@ -109,8 +92,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:steeled-resolve-taken-over-2026
+DTSTAMP:20260408T024852Z
+SUMMARY:Steeled Resolve: Taken Over
+DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /steeled-resolve-taken-over-2026/
+URL:https://leekduck.com/events/steeled-resolve-taken-over-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-04-30-steeled-resolve-taken-over-2026/steeled-resolve-taken-over-
+ 2026.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260430
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260504
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Steeled Resolve: Taken Over
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260407T024742Z
+DTSTAMP:20260408T024852Z
 SUMMARY:Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
