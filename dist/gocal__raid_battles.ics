@@ -30,48 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250712T024852
+DTSTART:20250713T024328
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mega-manectric-in-mega-raids-april-2026
-DTSTAMP:20260408T024852Z
-SUMMARY:Mega Manectric in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-manectric-in-mega-raids-april-2026/
-URL:https://leekduck.com/events/mega-manectric-in-mega-raids-april-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260401
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260407
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Manectric in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:regidrago-in-5-star-raid-battles-april-2026
-DTSTAMP:20260408T024852Z
-SUMMARY:Regidrago in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /regidrago-in-5-star-raid-battles-april-2026/
-URL:https://leekduck.com/events/regidrago-in-5-star-raid-battles-april-2026
- /
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260401
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260407
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Regidrago in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:kyogre-in-5-star-raid-battles-april-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Kyogre in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /kyogre-in-5-star-raid-battles-april-2026/
@@ -87,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aerodactyl-in-mega-raids-april-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Mega Aerodactyl in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-aerodactyl-in-mega-raids-april-2026/
@@ -103,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:groudon-in-5-star-raid-battles-april-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Groudon in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /groudon-in-5-star-raid-battles-april-2026/
@@ -119,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-alakazam-in-mega-raids-april-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Mega Alakazam in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-alakazam-in-mega-raids-april-2026/
@@ -135,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sharpedo-in-mega-raids-april-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Mega Sharpedo in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-sharpedo-in-mega-raids-april-2026/
@@ -151,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-april-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-april-2026/
@@ -169,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-latios-in-shadow-raids-april-may-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Shadow Latios in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-latios-in-shadow-raids-april-may-2026/
@@ -187,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-april-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Mega Banette in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-april-2026/
@@ -203,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-lele-in-5-star-raid-battles-april-2026
-DTSTAMP:20260408T024852Z
+DTSTAMP:20260409T024328Z
 SUMMARY:Tapu Lele in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /tapu-lele-in-5-star-raid-battles-april-2026/
