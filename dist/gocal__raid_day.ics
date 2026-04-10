@@ -30,31 +30,31 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250713T024328
+DTSTART:20250714T025508
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:shadow-raid-day-may-2026
-DTSTAMP:20260409T024328Z
-SUMMARY:Shadow Raid Day
+UID:shadow-entei-raid-day-may-2026
+DTSTAMP:20260410T025508Z
+SUMMARY:Shadow Entei Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /shadow-raid-day-may-2026/
-URL:https://leekduck.com/events/shadow-raid-day-may-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /shadow-entei-raid-day-may-2026/
+URL:https://leekduck.com/events/shadow-entei-raid-day-may-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-05-02-shadow-entei-raid-day-may-2026/shadow-entei-raid-day.jpg
 DTSTART;TZID=Europe/Helsinki:20260502T140000
 DTEND;TZID=Europe/Helsinki:20260502T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Shadow Raid Day
+DESCRIPTION:Shadow Entei Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2026
-DTSTAMP:20260409T024328Z
+DTSTAMP:20260410T025508Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2026/
