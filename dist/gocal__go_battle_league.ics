@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250716T031748
+DTSTART:20250717T032405
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_ultra-league_fantasy-cup-great-league-edition
-DTSTAMP:20260412T031748Z
+DTSTAMP:20260413T032405Z
 SUMMARY:Ultra League and Fantasy Cup: Great League Edition | Memories in Mo
  tion
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_master-league_spring-cup-great-league-edition
-DTSTAMP:20260412T031748Z
+DTSTAMP:20260413T032405Z
 SUMMARY:Master League and Spring Cup: Great League Edition | Memories in Mo
  tion
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -67,7 +67,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-2
-DTSTAMP:20260412T031748Z
+DTSTAMP:20260413T032405Z
 SUMMARY:Great League\, Ultra League\, and Master League | Memories in Motio
  n
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -87,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_fantasy-cup-great-league-edition
-DTSTAMP:20260412T031748Z
+DTSTAMP:20260413T032405Z
 SUMMARY:Great League and Fantasy Cup: Great League Edition | Memories in Mo
  tion
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -107,7 +107,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_ultra-league_jungle-cup-great-league-edition
-DTSTAMP:20260412T031748Z
+DTSTAMP:20260413T032405Z
 SUMMARY:Ultra League and Jungle Cup: Great League Edition | Memories in Mot
  ion
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_master-league_catch-cup-memories-in-motion-great
  -league-edition
-DTSTAMP:20260412T031748Z
+DTSTAMP:20260413T032405Z
 SUMMARY:Master League and Catch Cup: Memories in Motion: Great League Editi
  on | Memories in Motion
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -149,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-3
-DTSTAMP:20260412T031748Z
+DTSTAMP:20260413T032405Z
 SUMMARY:Great League\, Ultra League\, and Master League | Memories in Motio
  n
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -169,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-4
-DTSTAMP:20260412T031748Z
+DTSTAMP:20260413T032405Z
 SUMMARY:Great League\, Ultra League\, and Master League | Memories in Motio
  n
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
