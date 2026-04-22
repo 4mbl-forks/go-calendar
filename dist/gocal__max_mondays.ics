@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250725T025708
+DTSTART:20250726T025549
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2026-04-20
-DTSTAMP:20260421T025708Z
-SUMMARY:Dynamax Regirock during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-04-20/
-URL:https://leekduck.com/events/max-mondays-2026-04-20/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20260420T060000
-DTEND;TZID=Europe/Helsinki:20260420T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Regirock during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-04-27
-DTSTAMP:20260421T025708Z
+DTSTAMP:20260422T025549Z
 SUMMARY:Dynamax Shuckle during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-04-27/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-05-04
-DTSTAMP:20260421T025708Z
+DTSTAMP:20260422T025549Z
 SUMMARY:Dynamax Cottonee during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-05-04/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-05-11
-DTSTAMP:20260421T025708Z
+DTSTAMP:20260422T025549Z
 SUMMARY:Dynamax Growlithe during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-05-11/
@@ -105,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-05-18
-DTSTAMP:20260421T025708Z
+DTSTAMP:20260422T025549Z
 SUMMARY:Dynamax Registeel during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-05-18/
@@ -122,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-05-25
-DTSTAMP:20260421T025708Z
+DTSTAMP:20260422T025549Z
 SUMMARY:Dynamax Combee during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-05-25/
