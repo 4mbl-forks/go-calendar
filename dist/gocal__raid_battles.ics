@@ -30,46 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250726T112118
+DTSTART:20250727T031823
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:groudon-in-5-star-raid-battles-april-2026
-DTSTAMP:20260422T112118Z
-SUMMARY:Groudon in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /groudon-in-5-star-raid-battles-april-2026/
-URL:https://leekduck.com/events/groudon-in-5-star-raid-battles-april-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/groudon.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260415
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260421
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Groudon in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-alakazam-in-mega-raids-april-2026
-DTSTAMP:20260422T112118Z
-SUMMARY:Mega Alakazam in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-alakazam-in-mega-raids-april-2026/
-URL:https://leekduck.com/events/mega-alakazam-in-mega-raids-april-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260415
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260421
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Alakazam in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-sharpedo-in-mega-raids-april-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Mega Sharpedo in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-sharpedo-in-mega-raids-april-2026/
@@ -85,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-koko-in-5-star-raid-battles-april-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Tapu Koko in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /tapu-koko-in-5-star-raid-battles-april-2026/
@@ -103,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-latios-in-shadow-raids-april-may-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Shadow Latios in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-latios-in-shadow-raids-april-may-2026/
@@ -121,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-april-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Mega Banette in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-april-2026/
@@ -137,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-lele-in-5-star-raid-battles-april-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Tapu Lele in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /tapu-lele-in-5-star-raid-battles-april-2026/
@@ -155,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-camerupt-in-mega-raids-may-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Mega Camerupt in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-camerupt-in-mega-raids-may-2026/
@@ -171,7 +139,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nihilego-in-5-star-raid-battles-may-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Nihilego in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /nihilego-in-5-star-raid-battles-may-2026/
@@ -188,7 +156,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Buzzwole\, Pheromosa\, and Xurkitree in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /buzzwole-pheromosa-xurkitree-in-5-star-raid-battles-may-2026/
@@ -206,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-may-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-glalie-in-mega-raids-may-2026/
@@ -222,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-may-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-may-2026/
@@ -238,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-bulu-in-5-star-raid-battles-may-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Tapu Bulu in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /tapu-bulu-in-5-star-raid-battles-may-2026/
@@ -255,7 +223,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-cresselia-in-shadow-raids-may-june-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Shadow Cresselia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /shadow-cresselia-in-shadow-raids-may-june-2026/
@@ -273,7 +241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-may-june-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-medicham-in-mega-raids-may-june-2026/
@@ -289,7 +257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-fini-in-5-star-raid-battles-may-june-2026
-DTSTAMP:20260422T112118Z
+DTSTAMP:20260423T031823Z
 SUMMARY:Tapu Fini in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /tapu-fini-in-5-star-raid-battles-may-june-2026/
