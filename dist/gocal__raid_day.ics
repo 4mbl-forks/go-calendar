@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250727T031823
+DTSTART:20250728T032021
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:shadow-entei-raid-day-may-2026
-DTSTAMP:20260423T031823Z
+DTSTAMP:20260424T032021Z
 SUMMARY:Shadow Entei Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-entei-raid-day-may-2026/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-may-2026
-DTSTAMP:20260423T031823Z
+DTSTAMP:20260424T032021Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-may-2026/
@@ -63,6 +63,40 @@ IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;TZID=Europe/Helsinki:20260523T140000
 DTEND;TZID=Europe/Helsinki:20260523T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-june-2026
+DTSTAMP:20260424T032021Z
+SUMMARY:Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-june-2026/
+URL:https://leekduck.com/events/raid-day-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260627T140000
+DTEND;TZID=Europe/Helsinki:20260627T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-august-2026
+DTSTAMP:20260424T032021Z
+SUMMARY:Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /raid-day-august-2026/
+URL:https://leekduck.com/events/raid-day-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260822T140000
+DTEND;TZID=Europe/Helsinki:20260822T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Raid Day

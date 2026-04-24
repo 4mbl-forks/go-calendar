@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250727T031823
+DTSTART:20250728T032021
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:may-communityday2026
-DTSTAMP:20260423T031823Z
+DTSTAMP:20260424T032021Z
 SUMMARY:Lechonk Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communityday2026/
@@ -54,17 +54,67 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:may-communitydayclassic2026
-DTSTAMP:20260423T031823Z
-SUMMARY:May Community Day Classic
+DTSTAMP:20260424T032021Z
+SUMMARY:Deino Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /may-communitydayclassic2026/
 URL:https://leekduck.com/events/may-communitydayclassic2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-05-16-may-communitydayclassic2026/deino-community-day-classic.jpg
+ ?v2
 DTSTART;TZID=Europe/Helsinki:20260516T140000
 DTEND;TZID=Europe/Helsinki:20260516T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:May Community Day Classic
+DESCRIPTION:Deino Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:june-communityday2026
+DTSTAMP:20260424T032021Z
+SUMMARY:June Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /june-communityday2026/
+URL:https://leekduck.com/events/june-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260620T140000
+DTEND;TZID=Europe/Helsinki:20260620T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:June Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:july-communityday2026
+DTSTAMP:20260424T032021Z
+SUMMARY:July Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /july-communityday2026/
+URL:https://leekduck.com/events/july-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260704T140000
+DTEND;TZID=Europe/Helsinki:20260704T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:July Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:august-communityday2026
+DTSTAMP:20260424T032021Z
+SUMMARY:August Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /august-communityday2026/
+URL:https://leekduck.com/events/august-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260815T140000
+DTEND;TZID=Europe/Helsinki:20260815T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:August Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
