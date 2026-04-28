@@ -35,15 +35,15 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250731T033153
+DTSTART:20250801T033634
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:steeled-resolve-2026
-DTSTAMP:20260427T033153Z
-SUMMARY:Steeled Resolve
+DTSTAMP:20260428T033634Z
+SUMMARY:Steeled Resolve 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve-2026/
 URL:https://leekduck.com/events/steeled-resolve-2026/
@@ -53,13 +53,13 @@ DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260428
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260504
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Steeled Resolve
+DESCRIPTION:Steeled Resolve 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:steeled-resolve-taken-over-2026
-DTSTAMP:20260427T033153Z
+DTSTAMP:20260428T033634Z
 SUMMARY:Steeled Resolve: Taken Over
 DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /steeled-resolve-taken-over-2026/
@@ -77,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:spring-marathon-2026
-DTSTAMP:20260427T033153Z
+DTSTAMP:20260428T033634Z
 SUMMARY:Spring Marathon 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-marathon-2026/
@@ -94,7 +94,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-event-july-2026
-DTSTAMP:20260427T033153Z
+DTSTAMP:20260428T033634Z
 SUMMARY:Weekend Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /weekend-event-july-2026/
@@ -111,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260427T033153Z
+DTSTAMP:20260428T033634Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2026/
@@ -128,7 +128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260427T033153Z
+DTSTAMP:20260428T033634Z
 SUMMARY:Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
