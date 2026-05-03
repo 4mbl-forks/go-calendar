@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250805T032140
+DTSTART:20250806T033934
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:shadow-entei-raid-day-may-2026
-DTSTAMP:20260502T032140Z
+DTSTAMP:20260503T033934Z
 SUMMARY:Shadow Entei Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /shadow-entei-raid-day-may-2026/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:falinks-super-mega-raid-day-2026
-DTSTAMP:20260502T032140Z
+DTSTAMP:20260503T033934Z
 SUMMARY:Falinks Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /falinks-super-mega-raid-day-2026/
@@ -72,7 +72,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-june-2026
-DTSTAMP:20260502T032140Z
+DTSTAMP:20260503T033934Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-june-2026/
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260502T032140Z
+DTSTAMP:20260503T033934Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2026/
