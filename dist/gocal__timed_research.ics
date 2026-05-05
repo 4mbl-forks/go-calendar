@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:DAYLIGHT
-DTSTART:20250330T020000
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0300
-END:DAYLIGHT
 BEGIN:STANDARD
 DTSTART:20251026T040000
 TZOFFSETFROM:+0300
@@ -26,30 +21,35 @@ DTSTART:20260329T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250404T020020
+DTSTART:20250808T032418
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:best-friends-forever-timed-research
-DTSTAMP:20251230T020020Z
-SUMMARY:Best Friends Forever Timed Research
+UID:choose-your-path-timed-research
+DTSTAMP:20260505T032418Z
+SUMMARY:Choose Your Path Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /best-friends-forever-timed-research/
-URL:https://leekduck.com/events/best-friends-forever-timed-research/
+ /choose-your-path-timed-research/
+URL:https://leekduck.com/events/choose-your-path-timed-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-12-15-best-friends-forever-timed-research/best-friends-forever.jp
- g
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20251215
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20251229
+ 026/2026-05-05-choose-your-path-timed-research/choose-your-path-evergreen.
+ jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260505
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260512
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Best Friends Forever Timed Research
+DESCRIPTION:Choose Your Path Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
