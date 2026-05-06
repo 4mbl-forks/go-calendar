@@ -35,49 +35,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250808T032418
+DTSTART:20250809T033449
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:steeled-resolve-2026
-DTSTAMP:20260505T032418Z
-SUMMARY:Steeled Resolve 2026
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /steeled-resolve-2026/
-URL:https://leekduck.com/events/steeled-resolve-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-28-steeled-resolve-2026/steeled-resolve-2026.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260428
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260504
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Steeled Resolve 2026
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:steeled-resolve-taken-over-2026
-DTSTAMP:20260505T032418Z
-SUMMARY:Steeled Resolve: Taken Over
-DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /steeled-resolve-taken-over-2026/
-URL:https://leekduck.com/events/steeled-resolve-taken-over-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-30-steeled-resolve-taken-over-2026/steeled-resolve-taken-over-
- 2026.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260430
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260504
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Steeled Resolve: Taken Over
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:spring-marathon-2026
-DTSTAMP:20260505T032418Z
+DTSTAMP:20260506T033449Z
 SUMMARY:Spring Marathon 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /spring-marathon-2026/
@@ -94,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-event-july-2026
-DTSTAMP:20260505T032418Z
+DTSTAMP:20260506T033449Z
 SUMMARY:Weekend Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /weekend-event-july-2026/
@@ -111,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260505T032418Z
+DTSTAMP:20260506T033449Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2026/
@@ -128,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260505T032418Z
+DTSTAMP:20260506T033449Z
 SUMMARY:Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
