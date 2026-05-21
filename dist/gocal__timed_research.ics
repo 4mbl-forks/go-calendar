@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250823T035822
+DTSTART:20250824T040735
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:choose-your-path-timed-research-2026-05-19
-DTSTAMP:20260520T035822Z
+DTSTAMP:20260521T040735Z
 SUMMARY:Choose Your Path Timed Research (May 19\, 2026)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-timed-research-2026-05-19/
@@ -46,7 +46,7 @@ IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path
  -evergreen-2026-05-19.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260519
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260526
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260524
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Choose Your Path Timed Research (May 19\, 2026)
