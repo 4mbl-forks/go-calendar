@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250824T040735
+DTSTART:20250825T040226
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:tapu-bulu-in-5-star-raid-battles-may-2026
-DTSTAMP:20260521T040735Z
+DTSTAMP:20260522T040226Z
 SUMMARY:Tapu Bulu in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /tapu-bulu-in-5-star-raid-battles-may-2026/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-may-2026
-DTSTAMP:20260521T040735Z
+DTSTAMP:20260522T040226Z
 SUMMARY:Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-may-2026/
@@ -70,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-fini-in-5-star-raid-battles-may-june-2026
-DTSTAMP:20260521T040735Z
+DTSTAMP:20260522T040226Z
 SUMMARY:Tapu Fini in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /tapu-fini-in-5-star-raid-battles-may-june-2026/
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-cresselia-in-shadow-raids-may-june-2026
-DTSTAMP:20260521T040735Z
+DTSTAMP:20260522T040226Z
 SUMMARY:Shadow Cresselia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /shadow-cresselia-in-shadow-raids-may-june-2026/
@@ -106,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-may-june-2026
-DTSTAMP:20260521T040735Z
+DTSTAMP:20260522T040226Z
 SUMMARY:Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-medicham-in-mega-raids-may-june-2026/
