@@ -30,32 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250827T040121
+DTSTART:20250828T041239
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:falinks-super-mega-raid-day-2026
-DTSTAMP:20260524T040121Z
-SUMMARY:Falinks Super Mega Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /falinks-super-mega-raid-day-2026/
-URL:https://leekduck.com/events/falinks-super-mega-raid-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-05-23-falinks-super-mega-raid-day-2026/falinks-super-mega-raid-da
- y-2026.jpg
-DTSTART;TZID=Europe/Helsinki:20260523T140000
-DTEND;TZID=Europe/Helsinki:20260523T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Falinks Super Mega Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raid-day-june-2026
-DTSTAMP:20260524T040121Z
+DTSTAMP:20260525T041239Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-june-2026/
@@ -72,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260524T040121Z
+DTSTAMP:20260525T041239Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2026/

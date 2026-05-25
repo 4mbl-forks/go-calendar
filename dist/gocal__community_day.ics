@@ -30,30 +30,31 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250827T040121
+DTSTART:20250828T041239
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:june-communityday2026
-DTSTAMP:20260524T040121Z
-SUMMARY:June Community Day
+DTSTAMP:20260525T041239Z
+SUMMARY:Frigibax Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2026/
 URL:https://leekduck.com/events/june-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-06-20-june-communityday2026/frigibax-cd-placeholder.jpg
 DTSTART;TZID=Europe/Helsinki:20260620T140000
 DTEND;TZID=Europe/Helsinki:20260620T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:June Community Day
+DESCRIPTION:Frigibax Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260524T040121Z
+DTSTAMP:20260525T041239Z
 SUMMARY:July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2026/
@@ -69,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260524T040121Z
+DTSTAMP:20260525T041239Z
 SUMMARY:August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2026/
