@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20240911T010000
+DTSTART:20250903T010000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,22 +20,23 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20240912T020020
+DTSTART:20250830T041210
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:community-day-voting-august
-DTSTAMP:20250609T020020Z
+UID:community-day-voting-august-2026
+DTSTAMP:20260527T041210Z
 SUMMARY:Community Day Vote for August
 DESCRIPTION:Starts at 01:00\, ends at 01:00.\n\nhttps://leekduck.com/events
- /community-day-voting-august/
-URL:https://leekduck.com/events/community-day-voting-august/
+ /community-day-voting-august-2026/
+URL:https://leekduck.com/events/community-day-voting-august-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-06-07-community-day-voting-august/august-community-day-vote.jpg
-DTSTART;TZID=Z:20250608T010000
-DTEND;TZID=Z:20250609T010000
+ 026/2026-05-30-community-day-voting-august-2026/august-community-day-vote-
+ 2026.jpg
+DTSTART;TZID=Z:20260531T010000
+DTEND;TZID=Z:20260601T010000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Community Day Vote for August

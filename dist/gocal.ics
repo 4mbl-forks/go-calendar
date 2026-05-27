@@ -35,7 +35,7 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250829T035815
+DTSTART:20250830T041210
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -43,14 +43,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20250822T200000
+DTSTART:20250829T200000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:go-tour-fairy-type-timed-research
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:[Promo Code] GO Tour Fairy Type Timed Research
 DESCRIPTION:Starts at 19:00\, ends at 00:00.\n\nhttps://leekduck.com/events
  /go-tour-fairy-type-timed-research/
@@ -66,45 +66,8 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:max-mondays-2026-05-25
-DTSTAMP:20260526T035815Z
-SUMMARY:Dynamax Combee during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-05-25/
-URL:https://leekduck.com/events/max-mondays-2026-05-25/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20260525T060000
-DTEND;TZID=Europe/Helsinki:20260525T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Combee during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-3
-DTSTAMP:20260526T035815Z
-SUMMARY:Great League\, Ultra League\, and Master League | Memories in Motio
- n
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-memories-in-motion_great-league_ultra-league_master-league-split-3/
-URL:https://leekduck.com/events/gbl-memories-in-motion_great-league_ultra-l
- eague_master-league-split-3/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -season-26-memories-in-motion.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260519
-DTEND;TZID=Z;VALUE=DATE:20260526
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Great League\, Ultra League\, and Master League | Memories in M
- otion
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:tapu-bulu-in-5-star-raid-battles-may-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Tapu Bulu in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /tapu-bulu-in-5-star-raid-battles-may-2026/
@@ -121,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-altaria-in-mega-raids-may-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Mega Altaria in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-altaria-in-mega-raids-may-2026/
@@ -137,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260527
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Tapu Fini Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260527/
@@ -152,8 +115,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:community-day-voting-august-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Community Day Vote for August
+DESCRIPTION:Starts at 01:00\, ends at 01:00.\n\nhttps://leekduck.com/events
+ /community-day-voting-august-2026/
+URL:https://leekduck.com/events/community-day-voting-august-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-05-30-community-day-voting-august-2026/august-community-day-vote-
+ 2026.jpg
+DTSTART;TZID=Z:20260531T010000
+DTEND;TZID=Z:20260601T010000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Community Day Vote for August
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-fest-2026-tokyo
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Pokémon GO Fest 2026: Tokyo
 DESCRIPTION:Starts at 01:00\, ends at 11:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2026-tokyo/
@@ -170,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:blanches-quest-for-knowledge
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Blanche's Quest for Knowledge
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /blanches-quest-for-knowledge/
@@ -187,8 +168,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-06-01
+DTSTAMP:20260527T041210Z
+SUMMARY:Dynamax Inkay during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-06-01/
+URL:https://leekduck.com/events/max-mondays-2026-06-01/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260601T060000
+DTEND;TZID=Europe/Helsinki:20260601T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Inkay during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:season-22-memories-in-motion
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Memories in Motion
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-22-memories-in-motion/
@@ -206,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-may-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:GO Pass: May
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-may-2026/
@@ -223,7 +221,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-memories-in-motion_great-league_ultra-league_master-league-split-4
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Great League\, Ultra League\, and Master League | Memories in Motio
  n
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -243,7 +241,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tapu-fini-in-5-star-raid-battles-may-june-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Tapu Fini in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /tapu-fini-in-5-star-raid-battles-may-june-2026/
@@ -261,7 +259,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-cresselia-in-shadow-raids-may-june-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Shadow Cresselia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /shadow-cresselia-in-shadow-raids-may-june-2026/
@@ -279,7 +277,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-medicham-in-mega-raids-may-june-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Mega Medicham in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-medicham-in-mega-raids-may-june-2026/
@@ -294,8 +292,24 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20260603
+DTSTAMP:20260527T041210Z
+SUMMARY:Reshiram Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260603/
+URL:https://leekduck.com/events/raidhour20260603/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260603T180000
+DTEND;TZID=Europe/Helsinki:20260603T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reshiram Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-fest-2026-chicago
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Pokémon GO Fest 2026: Chicago
 DESCRIPTION:Starts at 15:00\, ends at 01:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2026-chicago/
@@ -312,7 +326,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sparks-caretaking-quest
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Spark's Caretaking Quest
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /sparks-caretaking-quest/
@@ -328,8 +342,74 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-06-08
+DTSTAMP:20260527T041210Z
+SUMMARY:Dynamax Electabuzz during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-06-08/
+URL:https://leekduck.com/events/max-mondays-2026-06-08/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260608T060000
+DTEND;TZID=Europe/Helsinki:20260608T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Electabuzz during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:reshiram-in-5-star-raid-battles-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Reshiram in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /reshiram-in-5-star-raid-battles-june-2026/
+URL:https://leekduck.com/events/reshiram-in-5-star-raid-battles-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260603
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260609
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reshiram in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-audino-in-mega-raids-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Mega Audino in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
+ /mega-audino-in-mega-raids-june-2026/
+URL:https://leekduck.com/events/mega-audino-in-mega-raids-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260603
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260610
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Audino in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260610
+DTSTAMP:20260527T041210Z
+SUMMARY:Zekrom Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260610/
+URL:https://leekduck.com/events/raidhour20260610/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260610T180000
+DTEND;TZID=Europe/Helsinki:20260610T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zekrom Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:pokemon-go-fest-2026-copenhagen
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Pokémon GO Fest 2026: Copenhagen
 DESCRIPTION:Starts at 07:00\, ends at 16:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2026-copenhagen/
@@ -347,7 +427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:candelas-quest-for-victory
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Candela's Quest for Victory
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /candelas-quest-for-victory/
@@ -363,8 +443,74 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-06-15
+DTSTAMP:20260527T041210Z
+SUMMARY:Dynamax Roggenrola during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-06-15/
+URL:https://leekduck.com/events/max-mondays-2026-06-15/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260615T060000
+DTEND;TZID=Europe/Helsinki:20260615T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Roggenrola during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:zekrom-in-5-star-raid-battles-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Zekrom in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /zekrom-in-5-star-raid-battles-june-2026/
+URL:https://leekduck.com/events/zekrom-in-5-star-raid-battles-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260610
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260616
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zekrom in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-lopunny-in-mega-raids-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Mega Lopunny in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
+ /mega-lopunny-in-mega-raids-june-2026/
+URL:https://leekduck.com/events/mega-lopunny-in-mega-raids-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260610
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260617
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Lopunny in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260617
+DTSTAMP:20260527T041210Z
+SUMMARY:Necrozma Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260617/
+URL:https://leekduck.com/events/raidhour20260617/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260617T180000
+DTEND;TZID=Europe/Helsinki:20260617T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Necrozma Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:june-communityday2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Frigibax Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2026/
@@ -380,9 +526,75 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-06-22
+DTSTAMP:20260527T041210Z
+SUMMARY:Dynamax Hoothoot during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-06-22/
+URL:https://leekduck.com/events/max-mondays-2026-06-22/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260622T060000
+DTEND;TZID=Europe/Helsinki:20260622T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Hoothoot during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:necrozma-in-5-star-raid-battles-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Necrozma in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /necrozma-in-5-star-raid-battles-june-2026/
+URL:https://leekduck.com/events/necrozma-in-5-star-raid-battles-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260617
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260623
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Necrozma in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-scizor-in-mega-raids-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Mega Scizor in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
+ /mega-scizor-in-mega-raids-june-2026/
+URL:https://leekduck.com/events/mega-scizor-in-mega-raids-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260617
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260624
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Scizor in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260624
+DTSTAMP:20260527T041210Z
+SUMMARY:Celesteela and Kartana Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260624/
+URL:https://leekduck.com/events/raidhour20260624/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260624T180000
+DTEND;TZID=Europe/Helsinki:20260624T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Celesteela and Kartana Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:raid-day-june-2026
-DTSTAMP:20260526T035815Z
-SUMMARY:Raid Day
+DTSTAMP:20260527T041210Z
+SUMMARY:Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-june-2026/
 URL:https://leekduck.com/events/raid-day-june-2026/
@@ -392,13 +604,115 @@ DTSTART;TZID=Europe/Helsinki:20260627T140000
 DTEND;TZID=Europe/Helsinki:20260627T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Raid Day
+DESCRIPTION:Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flying-taxi-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Flying Taxi 2026
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /flying-taxi-2026/
+URL:https://leekduck.com/events/flying-taxi-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260623
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260629
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flying Taxi 2026
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flying-taxi-taken-over-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Flying Taxi: Taken Over
+DESCRIPTION:Starts at 00:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /flying-taxi-taken-over-2026/
+URL:https://leekduck.com/events/flying-taxi-taken-over-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260625
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260629
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Flying Taxi: Taken Over
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-06-29
+DTSTAMP:20260527T041210Z
+SUMMARY:Dynamax Pidove during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-06-29/
+URL:https://leekduck.com/events/max-mondays-2026-06-29/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260629T060000
+DTEND;TZID=Europe/Helsinki:20260629T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Pidove during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-dialga-in-shadow-raids-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Shadow Dialga in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-dialga-in-shadow-raids-june-2026/
+URL:https://leekduck.com/events/shadow-dialga-in-shadow-raids-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260602
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260630
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Dialga in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:celesteela-kartana-in-5-star-raid-battles-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Celesteela and Kartana in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /celesteela-kartana-in-5-star-raid-battles-june-2026/
+URL:https://leekduck.com/events/celesteela-kartana-in-5-star-raid-battles-j
+ une-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260624
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260630
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Celesteela and Kartana in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-pidgeot-in-mega-raids-june-2026
+DTSTAMP:20260527T041210Z
+SUMMARY:Mega Pidgeot in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
+ /mega-pidgeot-in-mega-raids-june-2026/
+URL:https://leekduck.com/events/mega-pidgeot-in-mega-raids-june-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260624
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260701
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Pidgeot in Mega Raids
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:July Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2026/
@@ -414,7 +728,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-global
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Pokémon GO Fest 2026: Global
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2026-global/
@@ -432,7 +746,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:weekend-event-july-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Weekend Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /weekend-event-july-2026/
@@ -449,7 +763,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2026/
@@ -466,7 +780,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2026/
@@ -482,7 +796,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2026/
@@ -498,8 +812,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:season-23-forever-forward
+DTSTAMP:20260527T041210Z
+SUMMARY:Forever Forward
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-23-forever-forward/
+URL:https://leekduck.com/events/season-23-forever-forward/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-06-02-season-23-forever-forward/season-23-forever-forward.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260602
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260908
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Forever Forward
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:example_event
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Example Event Template (Auto ToC Demo)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /example_event/
@@ -516,7 +847,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-fossil-museum-chicago-2026
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Pokemon Fossil Museum - Chicago
 DESCRIPTION:Starts at 09:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /pokemon-fossil-museum-chicago-2026/

@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250829T035815
+DTSTART:20250830T041210
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20260527
-DTSTAMP:20260526T035815Z
+DTSTAMP:20260527T041210Z
 SUMMARY:Tapu Fini Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260527/
@@ -48,6 +48,70 @@ DTEND;TZID=Europe/Helsinki:20260527T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tapu Fini Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260603
+DTSTAMP:20260527T041210Z
+SUMMARY:Reshiram Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260603/
+URL:https://leekduck.com/events/raidhour20260603/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260603T180000
+DTEND;TZID=Europe/Helsinki:20260603T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reshiram Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260610
+DTSTAMP:20260527T041210Z
+SUMMARY:Zekrom Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260610/
+URL:https://leekduck.com/events/raidhour20260610/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260610T180000
+DTEND;TZID=Europe/Helsinki:20260610T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zekrom Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260617
+DTSTAMP:20260527T041210Z
+SUMMARY:Necrozma Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260617/
+URL:https://leekduck.com/events/raidhour20260617/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260617T180000
+DTEND;TZID=Europe/Helsinki:20260617T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Necrozma Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260624
+DTSTAMP:20260527T041210Z
+SUMMARY:Celesteela and Kartana Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260624/
+URL:https://leekduck.com/events/raidhour20260624/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260624T180000
+DTEND;TZID=Europe/Helsinki:20260624T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Celesteela and Kartana Raid Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
