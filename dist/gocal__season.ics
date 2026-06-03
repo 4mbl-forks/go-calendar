@@ -30,32 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250905T042146
+DTSTART:20250906T044125
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:season-22-memories-in-motion
-DTSTAMP:20260602T042146Z
-SUMMARY:Memories in Motion
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-22-memories-in-motion/
-URL:https://leekduck.com/events/season-22-memories-in-motion/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-03-03-season-22-memories-in-motion/season-22-memories-in-motion.j
- pg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260303
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260602
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Memories in Motion
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:season-23-forever-forward
-DTSTAMP:20260602T042146Z
+DTSTAMP:20260603T044125Z
 SUMMARY:Forever Forward
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-23-forever-forward/
