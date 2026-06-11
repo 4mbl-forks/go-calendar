@@ -30,47 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250913T040658
+DTSTART:20250914T042003
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:reshiram-in-5-star-raid-battles-june-2026
-DTSTAMP:20260610T040658Z
-SUMMARY:Reshiram in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /reshiram-in-5-star-raid-battles-june-2026/
-URL:https://leekduck.com/events/reshiram-in-5-star-raid-battles-june-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260603
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260609
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reshiram in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-audino-in-mega-raids-june-2026
-DTSTAMP:20260610T040658Z
-SUMMARY:Mega Audino in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
- /mega-audino-in-mega-raids-june-2026/
-URL:https://leekduck.com/events/mega-audino-in-mega-raids-june-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260603
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260610
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Audino in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:zekrom-in-5-star-raid-battles-june-2026
-DTSTAMP:20260610T040658Z
+DTSTAMP:20260611T042003Z
 SUMMARY:Zekrom in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /zekrom-in-5-star-raid-battles-june-2026/
@@ -87,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-lopunny-in-mega-raids-june-2026
-DTSTAMP:20260610T040658Z
+DTSTAMP:20260611T042003Z
 SUMMARY:Mega Lopunny in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-lopunny-in-mega-raids-june-2026/
@@ -103,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:necrozma-in-5-star-raid-battles-june-2026
-DTSTAMP:20260610T040658Z
+DTSTAMP:20260611T042003Z
 SUMMARY:Necrozma in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /necrozma-in-5-star-raid-battles-june-2026/
@@ -120,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-scizor-in-mega-raids-june-2026
-DTSTAMP:20260610T040658Z
+DTSTAMP:20260611T042003Z
 SUMMARY:Mega Scizor in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-scizor-in-mega-raids-june-2026/
@@ -136,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-dialga-in-shadow-raids-june-2026
-DTSTAMP:20260610T040658Z
+DTSTAMP:20260611T042003Z
 SUMMARY:Shadow Dialga in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-dialga-in-shadow-raids-june-2026/
@@ -153,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:celesteela-kartana-in-5-star-raid-battles-june-2026
-DTSTAMP:20260610T040658Z
+DTSTAMP:20260611T042003Z
 SUMMARY:Celesteela and Kartana in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /celesteela-kartana-in-5-star-raid-battles-june-2026/
@@ -171,7 +138,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-pidgeot-in-mega-raids-june-2026
-DTSTAMP:20260610T040658Z
+DTSTAMP:20260611T042003Z
 SUMMARY:Mega Pidgeot in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 06:00.\n\nhttps://leekduck.com/events
  /mega-pidgeot-in-mega-raids-june-2026/

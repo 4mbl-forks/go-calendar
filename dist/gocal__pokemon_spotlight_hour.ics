@@ -21,29 +21,119 @@ DTSTART:20260329T020000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261025T040000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250531T023440
+DTSTART:20250914T042003
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-02-24
-DTSTAMP:20260225T023440Z
-SUMMARY:Totodile Spotlight Hour
+UID:pokemonspotlighthour2026-06-18
+DTSTAMP:20260611T042003Z
+SUMMARY:Swinub Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2026-02-24/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-02-24/
+ /pokemonspotlighthour2026-06-18/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-06-18/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART;TZID=Europe/Helsinki:20260224T180000
-DTEND;TZID=Europe/Helsinki:20260224T190000
+DTSTART;TZID=Europe/Helsinki:20260618T180000
+DTEND;TZID=Europe/Helsinki:20260618T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Totodile Spotlight Hour
+DESCRIPTION:Swinub Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-06-25
+DTSTAMP:20260611T042003Z
+SUMMARY:Wingull Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-06-25/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-06-25/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260625T180000
+DTEND;TZID=Europe/Helsinki:20260625T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wingull Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-07-02
+DTSTAMP:20260611T042003Z
+SUMMARY:Pidgey Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-07-02/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-07-02/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260702T180000
+DTEND;TZID=Europe/Helsinki:20260702T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pidgey Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-07-16
+DTSTAMP:20260611T042003Z
+SUMMARY:Zubat Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-07-16/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-07-16/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260716T180000
+DTEND;TZID=Europe/Helsinki:20260716T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zubat Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-07-23
+DTSTAMP:20260611T042003Z
+SUMMARY:Eevee Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-07-23/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-07-23/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260723T180000
+DTEND;TZID=Europe/Helsinki:20260723T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Eevee Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-07-30
+DTSTAMP:20260611T042003Z
+SUMMARY:Bidoof Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-07-30/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-07-30/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260730T180000
+DTEND;TZID=Europe/Helsinki:20260730T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bidoof Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
