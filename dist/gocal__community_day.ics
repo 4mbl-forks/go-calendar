@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250920T043914
+DTSTART:20250921T042220
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:june-communityday2026
-DTSTAMP:20260617T043914Z
+DTSTAMP:20260618T042220Z
 SUMMARY:Frigibax Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /june-communityday2026/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:july-communityday2026
-DTSTAMP:20260617T043914Z
+DTSTAMP:20260618T042220Z
 SUMMARY:Sobble Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /july-communityday2026/
@@ -70,14 +70,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260617T043914Z
+DTSTAMP:20260618T042220Z
 SUMMARY:August Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2026/
 URL:https://leekduck.com/events/august-communityday2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
-DTSTART;TZID=Europe/Helsinki:20260815T140000
-DTEND;TZID=Europe/Helsinki:20260815T170000
+DTSTART;TZID=Europe/Helsinki:20260816T140000
+DTEND;TZID=Europe/Helsinki:20260816T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:August Community Day
