@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250925T045232
+DTSTART:20250926T035549
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2026-06-22
-DTSTAMP:20260622T045232Z
+DTSTAMP:20260623T035549Z
 SUMMARY:Dynamax Hoothoot during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-06-22/
@@ -54,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-06-29
-DTSTAMP:20260622T045232Z
+DTSTAMP:20260623T035549Z
 SUMMARY:Dynamax Pidove during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-06-29/
@@ -66,6 +66,74 @@ DTEND;TZID=Europe/Helsinki:20260629T210000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dynamax Pidove during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-07-06
+DTSTAMP:20260623T035549Z
+SUMMARY:Dynamax Chansey during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-07-06/
+URL:https://leekduck.com/events/max-mondays-2026-07-06/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260706T060000
+DTEND;TZID=Europe/Helsinki:20260706T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Chansey during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-07-13
+DTSTAMP:20260623T035549Z
+SUMMARY:Dynamax Deino during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-07-13/
+URL:https://leekduck.com/events/max-mondays-2026-07-13/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260713T060000
+DTEND;TZID=Europe/Helsinki:20260713T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Deino during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-07-20
+DTSTAMP:20260623T035549Z
+SUMMARY:Dynamax Trubbish during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-07-20/
+URL:https://leekduck.com/events/max-mondays-2026-07-20/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260720T060000
+DTEND;TZID=Europe/Helsinki:20260720T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Trubbish during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-07-27
+DTSTAMP:20260623T035549Z
+SUMMARY:Dynamax Feebas during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-07-27/
+URL:https://leekduck.com/events/max-mondays-2026-07-27/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260727T060000
+DTEND;TZID=Europe/Helsinki:20260727T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Feebas during Max Monday
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
