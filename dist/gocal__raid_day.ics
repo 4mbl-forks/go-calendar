@@ -30,32 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251002T041944
+DTSTART:20251003T040012
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:skarmory-super-mega-raid-day-2026
-DTSTAMP:20260629T041944Z
-SUMMARY:Skarmory Super Mega Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /skarmory-super-mega-raid-day-2026/
-URL:https://leekduck.com/events/skarmory-super-mega-raid-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-06-27-skarmory-super-mega-raid-day-2026/skarmory-super-mega-raid-
- day-2026.jpg
-DTSTART;TZID=Europe/Helsinki:20260627T140000
-DTEND;TZID=Europe/Helsinki:20260627T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Skarmory Super Mega Raid Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raichu-super-mega-raid-day-2026
-DTSTAMP:20260629T041944Z
+DTSTAMP:20260630T040012Z
 SUMMARY:Raichu Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raichu-super-mega-raid-day-2026/
@@ -73,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-august-2026
-DTSTAMP:20260629T041944Z
+DTSTAMP:20260630T040012Z
 SUMMARY:Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raid-day-august-2026/
