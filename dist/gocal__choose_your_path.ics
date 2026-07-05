@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:STANDARD
-DTSTART:20251026T040000
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0200
-END:STANDARD
 BEGIN:DAYLIGHT
 DTSTART:20260329T020000
 TZOFFSETFROM:+0200
@@ -30,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251007T033149
+DTSTART:20251008T035001
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:choose-your-path-charged-embers-2026
-DTSTAMP:20260704T033149Z
-SUMMARY:Choose Your Path: Charged Embers
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /choose-your-path-charged-embers-2026/
-URL:https://leekduck.com/events/choose-your-path-charged-embers-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
- -evergreen.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260630
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260703
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Choose Your Path: Charged Embers
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:choose-your-path-fairy-trail-2026
-DTSTAMP:20260704T033149Z
+DTSTAMP:20260705T035001Z
 SUMMARY:Choose Your Path: Fairy Trail
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-fairy-trail-2026/
@@ -71,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-venom-and-vines-2026
-DTSTAMP:20260704T033149Z
+DTSTAMP:20260705T035001Z
 SUMMARY:Choose Your Path: Venom and Vines
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-venom-and-vines-2026/
