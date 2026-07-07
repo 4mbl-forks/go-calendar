@@ -30,48 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251009T035722
+DTSTART:20251010T034830
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:articuno-zapdos-moltres-in-5-star-raid-battles-july-2026
-DTSTAMP:20260706T035722Z
-SUMMARY:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /articuno-zapdos-moltres-in-5-star-raid-battles-july-2026/
-URL:https://leekduck.com/events/articuno-zapdos-moltres-in-5-star-raid-batt
- les-july-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260701
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260705
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Articuno\, Zapdos\, and Moltres in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-lucario-in-mega-raids-july-2026
-DTSTAMP:20260706T035722Z
-SUMMARY:Mega Lucario in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-lucario-in-mega-raids-july-2026/
-URL:https://leekduck.com/events/mega-lucario-in-mega-raids-july-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260701
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260705
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Lucario in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-lucario-in-mega-raids-july-13-2026
-DTSTAMP:20260706T035722Z
+DTSTAMP:20260707T034830Z
 SUMMARY:Mega Lucario in Mega Raids - July 13
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-lucario-in-mega-raids-july-13-2026/
@@ -87,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kyogre-in-5-star-raid-battles-july-2026
-DTSTAMP:20260706T035722Z
+DTSTAMP:20260707T034830Z
 SUMMARY:Kyogre in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /kyogre-in-5-star-raid-battles-july-2026/
@@ -104,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sceptile-in-mega-raids-july-2026
-DTSTAMP:20260706T035722Z
+DTSTAMP:20260707T034830Z
 SUMMARY:Mega Sceptile in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-sceptile-in-mega-raids-july-2026/
@@ -120,7 +86,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-salamence-in-mega-raids-july-2026
-DTSTAMP:20260706T035722Z
+DTSTAMP:20260707T034830Z
 SUMMARY:Mega Salamence in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-salamence-in-mega-raids-july-2026/
@@ -136,7 +102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:solgaleo-in-5-star-raid-battles-july-2026
-DTSTAMP:20260706T035722Z
+DTSTAMP:20260707T034830Z
 SUMMARY:Solgaleo in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /solgaleo-in-5-star-raid-battles-july-2026/
@@ -152,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-palkia-in-shadow-raids-july-2026
-DTSTAMP:20260706T035722Z
+DTSTAMP:20260707T034830Z
 SUMMARY:Shadow Palkia in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-palkia-in-shadow-raids-july-2026/
@@ -169,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:kyurem-in-5-star-raid-battles-july-2026
-DTSTAMP:20260706T035722Z
+DTSTAMP:20260707T034830Z
 SUMMARY:Kyurem in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /kyurem-in-5-star-raid-battles-july-2026/
@@ -185,7 +151,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-aggron-in-mega-raids-july-2026
-DTSTAMP:20260706T035722Z
+DTSTAMP:20260707T034830Z
 SUMMARY:Mega Aggron in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-aggron-in-mega-raids-july-2026/
