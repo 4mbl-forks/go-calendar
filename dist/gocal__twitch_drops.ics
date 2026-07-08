@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20250910T150000
+DTSTART:20251012T223000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,26 +20,27 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250911T042342
+DTSTART:20251011T031532
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-fest-2026-chicago-twitch-drops
-DTSTAMP:20260608T042342Z
-SUMMARY:Twitch Drops for Pokémon GO Fest 2026: Chicago
-DESCRIPTION:Starts at 15:00\, ends at 06:59.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2026-chicago-twitch-drops/
-URL:https://leekduck.com/events/pokemon-go-fest-2026-chicago-twitch-drops/
+UID:pokemon-go-10th-anniversary-celebration-twitch-drops
+DTSTAMP:20260708T031532Z
+SUMMARY:Twitch Drops for Pokémon GO 10th Anniversary Celebration
+DESCRIPTION:Starts at 22:30\, ends at 01:30.\n\nhttps://leekduck.com/events
+ /pokemon-go-10th-anniversary-celebration-twitch-drops/
+URL:https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twi
+ tch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-06-07-pokemon-go-fest-2026-chicago-twitch-drops/pokemon-go-fest-c
- hicago.jpg
-DTSTART;TZID=Z:20260607T150000
-DTEND;TZID=Z:20260608T065900
+ 026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/reward
+ s.jpg
+DTSTART;TZID=Z:20260709T223000
+DTEND;TZID=Z:20260710T013000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Twitch Drops for Pokémon GO Fest 2026: Chicago
+DESCRIPTION:Twitch Drops for Pokémon GO 10th Anniversary Celebration
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

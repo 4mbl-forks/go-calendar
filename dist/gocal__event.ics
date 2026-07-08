@@ -26,40 +26,18 @@ DTSTART:20261025T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
-BEGIN:DAYLIGHT
-DTSTART:20270328T020000
-TZOFFSETFROM:+0200
-TZOFFSETTO:+0300
-END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251010T034830
+DTSTART:20251011T031532
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:10th-anniversary-party
-DTSTAMP:20260707T034830Z
-SUMMARY:10th Anniversary Party
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /10th-anniversary-party/
-URL:https://leekduck.com/events/10th-anniversary-party/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-04-10th-anniversary-party/10th-anniversary-party-2026.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260704
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260706
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:10th Anniversary Party
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:road-of-legends-2026
-DTSTAMP:20260707T034830Z
+DTSTAMP:20260708T031532Z
 SUMMARY:Road of Legends
 DESCRIPTION:Starts at 00:01\, ends at 23:59.\n\nhttps://leekduck.com/events
  /road-of-legends-2026/
@@ -76,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:special-anniversary-pikachu-celebration-2026
-DTSTAMP:20260707T034830Z
+DTSTAMP:20260708T031532Z
 SUMMARY:Special Anniversary Pikachu Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /special-anniversary-pikachu-celebration-2026/
@@ -95,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:happy-birthday-professor-willow-2026
-DTSTAMP:20260707T034830Z
+DTSTAMP:20260708T031532Z
 SUMMARY:Happy Birthday\, Professor Willow!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /happy-birthday-professor-willow-2026/
@@ -113,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ozone-ascent-2026
-DTSTAMP:20260707T034830Z
+DTSTAMP:20260708T031532Z
 SUMMARY:Ozone Ascent
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ozone-ascent-2026/
@@ -130,7 +108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260707T034830Z
+DTSTAMP:20260708T031532Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2026/
@@ -142,23 +120,6 @@ DTEND;TZID=Europe/Helsinki:20260808T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Hatch Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:example_event
-DTSTAMP:20260707T034830Z
-SUMMARY:Example Event Template (Auto ToC Demo)
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /example_event/
-URL:https://leekduck.com/events/example_event/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/example_event/events-default-img.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261201
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261202
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Example Event Template (Auto ToC Demo)
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
