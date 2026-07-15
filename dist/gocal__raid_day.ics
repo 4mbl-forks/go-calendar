@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251017T024731
+DTSTART:20251018T024600
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raichu-super-mega-raid-day-2026
-DTSTAMP:20260714T024731Z
+DTSTAMP:20260715T024600Z
 SUMMARY:Raichu Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /raichu-super-mega-raid-day-2026/
@@ -54,19 +54,20 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raid-day-august-2026
-DTSTAMP:20260714T024731Z
-SUMMARY:Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /raid-day-august-2026/
-URL:https://leekduck.com/events/raid-day-august-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki:20260822T140000
+UID:starmie-super-mega-raid-day-2026
+DTSTAMP:20260715T024600Z
+SUMMARY:Starmie Super Mega Raid Day
+DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /starmie-super-mega-raid-day-2026/
+URL:https://leekduck.com/events/starmie-super-mega-raid-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-08-22-starmie-super-mega-raid-day-2026/starmie-super-mega-raid-da
+ y-2026.jpg
+DTSTART;TZID=Europe/Helsinki:20260822T110000
 DTEND;TZID=Europe/Helsinki:20260822T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Raid Day
+DESCRIPTION:Starmie Super Mega Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:STANDARD
-DTSTART:20251026T040000
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0200
-END:STANDARD
 BEGIN:DAYLIGHT
 DTSTART:20260329T020000
 TZOFFSETFROM:+0200
@@ -30,25 +25,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250731T033153
+DTSTART:20251018T024600
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:replay-go-bigger-2026
-DTSTAMP:20260427T033153Z
-SUMMARY:Replay: GO Bigger
+UID:gigantamax-rillaboom-max-battle-day-2026
+DTSTAMP:20260715T024600Z
+SUMMARY:Gigantamax Rillaboom Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /replay-go-bigger-2026/
-URL:https://leekduck.com/events/replay-go-bigger-2026/
+ /gigantamax-rillaboom-max-battle-day-2026/
+URL:https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-04-25-replay-go-bigger-2026/replay-go-bigger-2026.jpg
-DTSTART;TZID=Europe/Helsinki:20260425T140000
-DTEND;TZID=Europe/Helsinki:20260425T170000
+ 026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillabo
+ om-max-battle-day.jpg
+DTSTART;TZID=Europe/Helsinki:20260801T140000
+DTEND;TZID=Europe/Helsinki:20260801T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Replay: GO Bigger
+DESCRIPTION:Gigantamax Rillaboom Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
