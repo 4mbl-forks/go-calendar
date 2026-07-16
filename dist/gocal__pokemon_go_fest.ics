@@ -11,11 +11,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
-BEGIN:STANDARD
-DTSTART:20251026T040000
-TZOFFSETFROM:+0300
-TZOFFSETTO:+0200
-END:STANDARD
 BEGIN:DAYLIGHT
 DTSTART:20260329T020000
 TZOFFSETFROM:+0200
@@ -30,26 +25,27 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251016T032413
+DTSTART:20251019T025242
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-fest-2026-global
-DTSTAMP:20260713T032413Z
-SUMMARY:Pokémon GO Fest 2026: Global
+UID:pokemon-go-fest-2026-global-sunday-raid-makeup
+DTSTAMP:20260716T025242Z
+SUMMARY:GO Fest 2026 Sunday Raid Makeup
 DESCRIPTION:Starts at 10:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemon-go-fest-2026-global/
-URL:https://leekduck.com/events/pokemon-go-fest-2026-global/
+ /pokemon-go-fest-2026-global-sunday-raid-makeup/
+URL:https://leekduck.com/events/pokemon-go-fest-2026-global-sunday-raid-mak
+ eup/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-11-pokemon-go-fest-2026-global/pokemon-go-fest-2026-global.jpg
- ?v2
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260711
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260712
+ 026/2026-07-26-pokemon-go-fest-2026-global-sunday-raid-makeup/pokemon-go-f
+ est-2026-global-sunday-raid-makeup.jpg
+DTSTART;TZID=Europe/Helsinki:20260726T100000
+DTEND;TZID=Europe/Helsinki:20260726T190000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pokémon GO Fest 2026: Global
+DESCRIPTION:GO Fest 2026 Sunday Raid Makeup
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

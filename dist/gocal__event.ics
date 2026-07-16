@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251018T024600
+DTSTART:20251019T025242
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:special-anniversary-pikachu-celebration-2026
-DTSTAMP:20260715T024600Z
+DTSTAMP:20260716T025242Z
 SUMMARY:Special Anniversary Pikachu Celebration
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /special-anniversary-pikachu-celebration-2026/
@@ -56,7 +56,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:happy-birthday-professor-willow-2026
-DTSTAMP:20260715T024600Z
+DTSTAMP:20260716T025242Z
 SUMMARY:Happy Birthday\, Professor Willow!
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /happy-birthday-professor-willow-2026/
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ozone-ascent-2026
-DTSTAMP:20260715T024600Z
+DTSTAMP:20260716T025242Z
 SUMMARY:Ozone Ascent
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ozone-ascent-2026/
@@ -91,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ultra-unlock-10th-anniversary-edition
-DTSTAMP:20260715T024600Z
+DTSTAMP:20260716T025242Z
 SUMMARY:Ultra Unlock: 10th Anniversary Edition
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /ultra-unlock-10th-anniversary-edition/
@@ -109,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-august-2026
-DTSTAMP:20260715T024600Z
+DTSTAMP:20260716T025242Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-august-2026/
@@ -125,8 +125,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:summer-marathon-2026
+DTSTAMP:20260716T025242Z
+SUMMARY:Summer Marathon: Arctic Embers
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /summer-marathon-2026/
+URL:https://leekduck.com/events/summer-marathon-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-08-04-summer-marathon-2026/summer-marathon-2026.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260804
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260810
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Summer Marathon: Arctic Embers
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:water-festival-2026
-DTSTAMP:20260715T024600Z
+DTSTAMP:20260716T025242Z
 SUMMARY:Ultra Unlock: Water Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /water-festival-2026/
