@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251107T025116
+DTSTART:20251108T024814
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2026-08-03
-DTSTAMP:20260804T025116Z
-SUMMARY:Dynamax Magmar during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-08-03/
-URL:https://leekduck.com/events/max-mondays-2026-08-03/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20260803T060000
-DTEND;TZID=Europe/Helsinki:20260803T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Magmar during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-08-10
-DTSTAMP:20260804T025116Z
+DTSTAMP:20260805T024814Z
 SUMMARY:Dynamax Beldum during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-10/
@@ -66,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-17
-DTSTAMP:20260804T025116Z
+DTSTAMP:20260805T024814Z
 SUMMARY:Dynamax Magikarp during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-17/
@@ -83,7 +66,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-24
-DTSTAMP:20260804T025116Z
+DTSTAMP:20260805T024814Z
 SUMMARY:Dynamax Hitmontop during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-24/
@@ -100,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-31
-DTSTAMP:20260804T025116Z
+DTSTAMP:20260805T024814Z
 SUMMARY:Dynamax Eevee during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-31/

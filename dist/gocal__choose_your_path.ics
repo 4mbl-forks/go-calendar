@@ -25,31 +25,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251107T025116
+DTSTART:20251108T024814
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:choose-your-path-fairy-trail-2026
-DTSTAMP:20260804T025116Z
-SUMMARY:Choose Your Path: Fairy Trail
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /choose-your-path-fairy-trail-2026/
-URL:https://leekduck.com/events/choose-your-path-fairy-trail-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
- -evergreen.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260728
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260803
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Choose Your Path: Fairy Trail
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:choose-your-path-venom-and-vines-2026
-DTSTAMP:20260804T025116Z
+DTSTAMP:20260805T024814Z
 SUMMARY:Choose Your Path: Venom and Vines
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-venom-and-vines-2026/
