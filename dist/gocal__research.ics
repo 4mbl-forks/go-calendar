@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20250915T140000
+DTSTART:20251201T160000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,28 +20,27 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20250919T044847
+DTSTART:20251109T025122
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:naic-2026-timed-research-twitch-drops
-DTSTAMP:20260616T044847Z
-SUMMARY:Twitch Drops for 2026 Pokémon North American International Champio
- nships
-DESCRIPTION:Starts at 14:00\, ends at 02:59.\n\nhttps://leekduck.com/events
- /naic-2026-timed-research-twitch-drops/
-URL:https://leekduck.com/events/naic-2026-timed-research-twitch-drops/
+UID:pokemon-world-championships-2026-timed-research-twitch-drops
+DTSTAMP:20260806T025122Z
+SUMMARY:Twitch Drops for 2026 Pokémon World Championships
+DESCRIPTION:Starts at 16:00\, ends at 03:00.\n\nhttps://leekduck.com/events
+ /pokemon-world-championships-2026-timed-research-twitch-drops/
+URL:https://leekduck.com/events/pokemon-world-championships-2026-timed-rese
+ arch-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-06-12-naic-2026-timed-research-twitch-drops/2026-naic-go-drops.pn
- g
-DTSTART;TZID=Z;VALUE=DATE:20260612
-DTEND;TZID=Z;VALUE=DATE:20260616
+ 026/2026-08-28-pokemon-world-championships-2026-timed-research-twitch-drop
+ s/2026-worlds-go-drops.jpg
+DTSTART;TZID=Z;VALUE=DATE:20260828
+DTEND;TZID=Z;VALUE=DATE:20260831
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Twitch Drops for 2026 Pokémon North American International Cha
- mpionships
+DESCRIPTION:Twitch Drops for 2026 Pokémon World Championships
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
