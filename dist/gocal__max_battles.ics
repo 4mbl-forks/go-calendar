@@ -21,30 +21,51 @@ DTSTART:20261025T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20270328T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251105T032028
+DTSTART:20251114T015938
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-rillaboom-max-battle-day-2026
-DTSTAMP:20260802T032028Z
-SUMMARY:Gigantamax Rillaboom Max Battle Day
+UID:max-battle-day-october-2026
+DTSTAMP:20260811T015938Z
+SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-rillaboom-max-battle-day-2026/
-URL:https://leekduck.com/events/gigantamax-rillaboom-max-battle-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-01-gigantamax-rillaboom-max-battle-day-2026/gigantamax-rillabo
- om-max-battle-day.jpg
-DTSTART;TZID=Europe/Helsinki:20260801T140000
-DTEND;TZID=Europe/Helsinki:20260801T170000
+ /max-battle-day-october-2026/
+URL:https://leekduck.com/events/max-battle-day-october-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20261003T140000
+DTEND;TZID=Europe/Helsinki:20261003T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Gigantamax Rillaboom Max Battle Day
+DESCRIPTION:Max Battle Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-battle-day-october-24-2026
+DTSTAMP:20260811T015938Z
+SUMMARY:Max Battle Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /max-battle-day-october-24-2026/
+URL:https://leekduck.com/events/max-battle-day-october-24-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20261024T140000
+DTEND;TZID=Europe/Helsinki:20261024T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

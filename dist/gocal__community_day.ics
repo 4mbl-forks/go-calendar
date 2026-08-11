@@ -21,18 +21,23 @@ DTSTART:20261025T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20270328T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251113T020434
+DTSTART:20251114T015938
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:august-communityday2026
-DTSTAMP:20260810T020434Z
+DTSTAMP:20260811T015938Z
 SUMMARY:Nickit Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /august-communityday2026/
@@ -44,6 +49,54 @@ DTEND;TZID=Europe/Helsinki:20260816T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Nickit Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:september-communitydayclassic2026
+DTSTAMP:20260811T015938Z
+SUMMARY:September Community Day Classic
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /september-communitydayclassic2026/
+URL:https://leekduck.com/events/september-communitydayclassic2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20260912T140000
+DTEND;TZID=Europe/Helsinki:20260912T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:September Community Day Classic
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:october-communityday2026
+DTSTAMP:20260811T015938Z
+SUMMARY:October Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /october-communityday2026/
+URL:https://leekduck.com/events/october-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20261010T140000
+DTEND;TZID=Europe/Helsinki:20261010T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:October Community Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:november-communityday2026
+DTSTAMP:20260811T015938Z
+SUMMARY:November Community Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /november-communityday2026/
+URL:https://leekduck.com/events/november-communityday2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+DTSTART;TZID=Europe/Helsinki:20261121T140000
+DTEND;TZID=Europe/Helsinki:20261121T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:November Community Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

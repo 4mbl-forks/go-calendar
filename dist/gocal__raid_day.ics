@@ -21,18 +21,23 @@ DTSTART:20261025T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20270328T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251113T020434
+DTSTART:20251114T015938
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:starmie-super-mega-raid-day-2026
-DTSTAMP:20260810T020434Z
+DTSTAMP:20260811T015938Z
 SUMMARY:Starmie Super Mega Raid Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /starmie-super-mega-raid-day-2026/
@@ -45,6 +50,57 @@ DTEND;TZID=Europe/Helsinki:20260822T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Starmie Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-september-2026
+DTSTAMP:20260811T015938Z
+SUMMARY:Super Mega Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /super-mega-raid-day-september-2026/
+URL:https://leekduck.com/events/super-mega-raid-day-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20260919T140000
+DTEND;TZID=Europe/Helsinki:20260919T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-october-2026
+DTSTAMP:20260811T015938Z
+SUMMARY:Super Mega Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /super-mega-raid-day-october-2026/
+URL:https://leekduck.com/events/super-mega-raid-day-october-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20261031T140000
+DTEND;TZID=Europe/Helsinki:20261031T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-november-2026
+DTSTAMP:20260811T015938Z
+SUMMARY:Super Mega Raid Day
+DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
+ /super-mega-raid-day-november-2026/
+URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki:20261128T140000
+DTEND;TZID=Europe/Helsinki:20261128T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Super Mega Raid Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
