@@ -10,6 +10,22 @@ X-WR-CALDESC:All Pokémon GO events\, in your local time\, auto-updated and
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
+TZID:Z
+BEGIN:STANDARD
+DTSTART:20251121T200000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20251129T013602
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
 BEGIN:STANDARD
 DTSTART:20251026T040000
@@ -32,59 +48,9 @@ TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC
-BEGIN:STANDARD
-DTSTART:20251128T012542
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:Z
-BEGIN:STANDARD
-DTSTART:20251121T200000
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-UID:water-festival-2026
-DTSTAMP:20260825T012542Z
-SUMMARY:Ultra Unlock: Water Festival
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /water-festival-2026/
-URL:https://leekduck.com/events/water-festival-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-18-water-festival-2026/water-festival-2026.jpg?v2
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260818
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260824
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Ultra Unlock: Water Festival
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:max-mondays-2026-08-24
-DTSTAMP:20260825T012542Z
-SUMMARY:Dynamax Hitmontop during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-08-24/
-URL:https://leekduck.com/events/max-mondays-2026-08-24/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20260824T060000
-DTEND;TZID=Europe/Helsinki:20260824T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Hitmontop during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_great-league_scroll-cup-great-league-edition
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Great League and Scroll Cup: Great League Edition | Forever Forward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-forever-forward_great-league_scroll-cup-great-league-edition/
@@ -103,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-august-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /lunala-in-5-star-raid-battles-august-2026/
@@ -119,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-swampert-in-mega-raids-august-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Mega Swampert in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-swampert-in-mega-raids-august-2026/
@@ -135,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260826
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Regirock\, Regice\, and Registeel Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260826/
@@ -151,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-08-27
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Mankey Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-08-27/
@@ -168,7 +134,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-world-championships-2026-timed-research-twitch-drops
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Twitch Drops for 2026 Pokémon World Championships
 DESCRIPTION:Starts at 16:00\, ends at 03:00.\n\nhttps://leekduck.com/events
  /pokemon-world-championships-2026-timed-research-twitch-drops/
@@ -187,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-xp-2026-worlds
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:PokémonXP &amp\; 2026 Worlds
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /pokemon-xp-2026-worlds/
@@ -204,7 +170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-08-31
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Dynamax Eevee during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-08-31/
@@ -221,7 +187,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_great-league_ultra-league_master-league-split-3
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Great League\, Ultra League\, and Master League | Forever Forward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /gbl-forever-forward_great-league_ultra-league_master-league-split-3/
@@ -240,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20260902
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Regirock\, Regice\, and Registeel Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20260902/
@@ -256,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-ascension
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Mega Ascension
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /mega-ascension/
@@ -273,7 +239,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-fest-2026-mega-finale
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Pokémon GO Fest 2026: Mega Finale
 DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
  /pokemon-go-fest-2026-mega-finale/
@@ -291,7 +257,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:10th-anniversary-celebration
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:10th Anniversary Celebration - Perfect Mewtwo Timed Research
 DESCRIPTION:Starts at 16:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /10th-anniversary-celebration/
@@ -308,8 +274,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-09-07
+DTSTAMP:20260826T013602Z
+SUMMARY:Dynamax Ralts during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-09-07/
+URL:https://leekduck.com/events/max-mondays-2026-09-07/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260907T060000
+DTEND;TZID=Europe/Helsinki:20260907T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Ralts during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:season-23-forever-forward
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Forever Forward
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-23-forever-forward/
@@ -326,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-august-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:GO Pass: August
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /go-pass-august-2026/
@@ -344,7 +327,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-forever-forward_great-league_ultra-league_master-league-mega-editio
  n
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Great League\, Ultra League\, and Master League: Mega Edition | For
  ever Forward
 DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
@@ -364,7 +347,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-giratina-altered-in-shadow-raids-august-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Shadow Giratina (Altered Forme) in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-giratina-altered-in-shadow-raids-august-2026/
@@ -382,7 +365,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-august-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-august-2026/
@@ -398,7 +381,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regirock-regice-registeel-in-5-star-raid-battles-august-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Regirock\, Regice\, and Registeel in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /regirock-regice-registeel-in-5-star-raid-battles-august-2026/
@@ -414,8 +397,41 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:raidhour20260909
+DTSTAMP:20260826T013602Z
+SUMMARY:Zacian (Hero of Many Battles) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260909/
+URL:https://leekduck.com/events/raidhour20260909/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260909T180000
+DTEND;TZID=Europe/Helsinki:20260909T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zacian (Hero of Many Battles) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-10
+DTSTAMP:20260826T013602Z
+SUMMARY:Weedle\, Kakuna\, and Beedrill Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-09-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260910T180000
+DTEND;TZID=Europe/Helsinki:20260910T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Weedle\, Kakuna\, and Beedrill Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:september-communitydayclassic2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:September Community Day Classic
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /september-communitydayclassic2026/
@@ -430,8 +446,141 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-13
+DTSTAMP:20260826T013602Z
+SUMMARY:Houndour and Houndoom Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-09-13/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-13/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260913T180000
+DTEND;TZID=Europe/Helsinki:20260913T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Houndour and Houndoom Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-squads-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Mega Squads
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /mega-squads-2026/
+URL:https://leekduck.com/events/mega-squads-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260908
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260914
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Squads
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:max-mondays-2026-09-14
+DTSTAMP:20260826T013602Z
+SUMMARY:Dynamax Rhyhorn during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-09-14/
+URL:https://leekduck.com/events/max-mondays-2026-09-14/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260914T060000
+DTEND;TZID=Europe/Helsinki:20260914T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Rhyhorn during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-beedrill-in-mega-raids-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Mega Beedrill in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-beedrill-in-mega-raids-september-2026/
+URL:https://leekduck.com/events/mega-beedrill-in-mega-raids-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260908
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260915
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Beedrill in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Zacian (Hero of Many Battles) in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026/
+URL:https://leekduck.com/events/zacian-hero-of-many-battles-in-5-star-raid-
+ battles-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260909
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260915
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zacian (Hero of Many Battles) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-houndoom-in-mega-raids-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Mega Houndoom in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-houndoom-in-mega-raids-september-2026/
+URL:https://leekduck.com/events/mega-houndoom-in-mega-raids-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260911
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260915
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Houndoom in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260916
+DTSTAMP:20260826T013602Z
+SUMMARY:Zamazenta (Hero of Many Battles) Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260916/
+URL:https://leekduck.com/events/raidhour20260916/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260916T180000
+DTEND;TZID=Europe/Helsinki:20260916T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zamazenta (Hero of Many Battles) Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-17
+DTSTAMP:20260826T013602Z
+SUMMARY:Mystery Pokémon Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-09-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260917T180000
+DTEND;TZID=Europe/Helsinki:20260917T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mystery Pokémon Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:super-mega-raid-day-september-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /super-mega-raid-day-september-2026/
@@ -447,8 +596,109 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-09-21
+DTSTAMP:20260826T013602Z
+SUMMARY:Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-09-21/
+URL:https://leekduck.com/events/max-mondays-2026-09-21/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260921T060000
+DTEND;TZID=Europe/Helsinki:20260921T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-september-event-season-24
+DTSTAMP:20260826T013602Z
+SUMMARY:Unannounced Event
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /unannounced-september-event-season-24/
+URL:https://leekduck.com/events/unannounced-september-event-season-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260916
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260922
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Unannounced Event
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-venusaur-in-mega-raids-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Mega Venusaur in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-venusaur-in-mega-raids-september-2026/
+URL:https://leekduck.com/events/mega-venusaur-in-mega-raids-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260916
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260922
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Venusaur in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Zamazenta (Hero of Many Battles) in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026/
+URL:https://leekduck.com/events/zamazenta-hero-of-many-battles-in-5-star-ra
+ id-battles-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260916
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260922
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Zamazenta (Hero of Many Battles) in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260923
+DTSTAMP:20260826T013602Z
+SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260923/
+URL:https://leekduck.com/events/raidhour20260923/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260923T180000
+DTEND;TZID=Europe/Helsinki:20260923T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-09-24
+DTSTAMP:20260826T013602Z
+SUMMARY:Rattata Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-09-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20260924T180000
+DTEND;TZID=Europe/Helsinki:20260924T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rattata Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:catch-mastery-september-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Catch Mastery
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-september-2026/
@@ -464,8 +714,75 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:max-mondays-2026-09-28
+DTSTAMP:20260826T013602Z
+SUMMARY:Dynamax Sobble during Max Monday
+DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
+ /max-mondays-2026-09-28/
+URL:https://leekduck.com/events/max-mondays-2026-09-28/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
+ o.jpg
+DTSTART;TZID=Europe/Helsinki:20260928T060000
+DTEND;TZID=Europe/Helsinki:20260928T210000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dynamax Sobble during Max Monday
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-malamar-in-mega-raids-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Mega Malamar in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-malamar-in-mega-raids-september-2026/
+URL:https://leekduck.com/events/mega-malamar-in-mega-raids-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260923
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260929
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Malamar in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/
+URL:https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-5-star-raid
+ -battles-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260923
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260929
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20260930
+DTSTAMP:20260826T013602Z
+SUMMARY:Xerneas Raid Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /raidhour20260930/
+URL:https://leekduck.com/events/raidhour20260930/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Europe/Helsinki:20260930T180000
+DTEND;TZID=Europe/Helsinki:20260930T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Xerneas Raid Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /lego-pokemon-go-2026/
@@ -482,7 +799,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-october-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-october-2026/
@@ -498,8 +815,95 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:harvest-festival-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Harvest Festival
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /harvest-festival-2026/
+URL:https://leekduck.com/events/harvest-festival-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260929
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261005
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Harvest Festival
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:go-pass-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:GO Pass: September
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /go-pass-september-2026/
+URL:https://leekduck.com/events/go-pass-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-08-go-pass-september-2026/go-pass-september-2026.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260908
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261006
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GO Pass: September
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Shadow Thundurus (Incarnate Forme) in Shadow Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/
+URL:https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-
+ raids-september-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260909
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261006
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shadow Thundurus (Incarnate Forme) in Shadow Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-victreebel-in-mega-raids-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Mega Victreebel in Mega Raids
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /mega-victreebel-in-mega-raids-september-2026/
+URL:https://leekduck.com/events/mega-victreebel-in-mega-raids-september-202
+ 6/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260930
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261006
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mega Victreebel in Mega Raids
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:xerneas-in-5-star-raid-battles-september-2026
+DTSTAMP:20260826T013602Z
+SUMMARY:Xerneas in 5-star Raid Battles
+DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
+ /xerneas-in-5-star-raid-battles-september-2026/
+URL:https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-20
+ 26/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260930
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261006
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Xerneas in 5-star Raid Battles
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:october-communityday2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:October Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /october-communityday2026/
@@ -515,7 +919,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-october-2026/
@@ -532,7 +936,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-october-24-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-october-24-2026/
@@ -549,7 +953,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-october-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /super-mega-raid-day-october-2026/
@@ -566,7 +970,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:november-communityday2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:November Community Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /november-communityday2026/
@@ -582,7 +986,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026
-DTSTAMP:20260825T012542Z
+DTSTAMP:20260826T013602Z
 SUMMARY:Super Mega Raid Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /super-mega-raid-day-november-2026/
@@ -594,6 +998,23 @@ DTEND;TZID=Europe/Helsinki:20261128T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Super Mega Raid Day
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-24-twilight-trails
+DTSTAMP:20260826T013602Z
+SUMMARY:Twilight Trails
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-24-twilight-trails/
+URL:https://leekduck.com/events/season-24-twilight-trails/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260908
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Twilight Trails
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
