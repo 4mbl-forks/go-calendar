@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251129T013602
+DTSTART:20251130T082422
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:lunala-in-5-star-raid-battles-august-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Lunala in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /lunala-in-5-star-raid-battles-august-2026/
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-swampert-in-mega-raids-august-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Mega Swampert in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-swampert-in-mega-raids-august-2026/
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-giratina-altered-in-shadow-raids-august-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Shadow Giratina (Altered Forme) in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-giratina-altered-in-shadow-raids-august-2026/
@@ -87,7 +87,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gyarados-in-mega-raids-august-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Mega Gyarados in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-gyarados-in-mega-raids-august-2026/
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regirock-regice-registeel-in-5-star-raid-battles-august-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Regirock\, Regice\, and Registeel in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /regirock-regice-registeel-in-5-star-raid-battles-august-2026/
@@ -120,7 +120,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-beedrill-in-mega-raids-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Mega Beedrill in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-beedrill-in-mega-raids-september-2026/
@@ -136,7 +136,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Zacian (Hero of Many Battles) in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /zacian-hero-of-many-battles-in-5-star-raid-battles-september-2026/
@@ -154,7 +154,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-houndoom-in-mega-raids-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Mega Houndoom in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-houndoom-in-mega-raids-september-2026/
@@ -170,7 +170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-venusaur-in-mega-raids-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Mega Venusaur in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-venusaur-in-mega-raids-september-2026/
@@ -186,7 +186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Zamazenta (Hero of Many Battles) in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /zamazenta-hero-of-many-battles-in-5-star-raid-battles-september-2026/
@@ -204,7 +204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-malamar-in-mega-raids-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Mega Malamar in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-malamar-in-mega-raids-september-2026/
@@ -220,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Xurkitree\, Pheromosa\, and Buzzwole in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-september-2026/
@@ -238,7 +238,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Shadow Thundurus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/
@@ -256,7 +256,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-victreebel-in-mega-raids-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Mega Victreebel in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-victreebel-in-mega-raids-september-2026/
@@ -273,7 +273,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xerneas-in-5-star-raid-battles-september-2026
-DTSTAMP:20260826T013602Z
+DTSTAMP:20260827T082422Z
 SUMMARY:Xerneas in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /xerneas-in-5-star-raid-battles-september-2026/
