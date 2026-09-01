@@ -10,22 +10,6 @@ X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
-TZID:Z
-BEGIN:STANDARD
-DTSTART:20251201T170000
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC
-BEGIN:STANDARD
-DTSTART:20251204T044023
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:Europe/Helsinki
 BEGIN:DAYLIGHT
 DTSTART:20260329T020000
@@ -43,45 +27,17 @@ TZOFFSETFROM:+0200
 TZOFFSETTO:+0300
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:pokemon-world-championships-2026-san-francisco
-DTSTAMP:20260831T044023Z
-SUMMARY:[San Francisco] 2026 Pokémon World Championships
-DESCRIPTION:Starts at 17:00\, ends at 03:00.\n\nhttps://leekduck.com/events
- /pokemon-world-championships-2026-san-francisco/
-URL:https://leekduck.com/events/pokemon-world-championships-2026-san-franci
- sco/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-28-pokemon-world-championships-2026-san-francisco/2026-worlds-
- san-francisco.png
-DTSTART;TZID=Z;VALUE=DATE:20260828
-DTEND;TZID=Z;VALUE=DATE:20260831
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[San Francisco] 2026 Pokémon World Championships
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pokemon-xp-2026-worlds
-DTSTAMP:20260831T044023Z
-SUMMARY:PokémonXP &amp\; 2026 Worlds
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-xp-2026-worlds/
-URL:https://leekduck.com/events/pokemon-xp-2026-worlds/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-08-25-pokemon-xp-2026-worlds/pokemon-xp-2026-worlds.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260825
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260830
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PokémonXP &amp\; 2026 Worlds
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20251205T042106
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:mega-ascension
-DTSTAMP:20260831T044023Z
+DTSTAMP:20260901T042106Z
 SUMMARY:Mega Ascension
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /mega-ascension/
@@ -98,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:10th-anniversary-celebration
-DTSTAMP:20260831T044023Z
+DTSTAMP:20260901T042106Z
 SUMMARY:10th Anniversary Celebration - Perfect Mewtwo Timed Research
 DESCRIPTION:Starts at 16:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /10th-anniversary-celebration/
@@ -115,13 +71,14 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mega-squads-2026
-DTSTAMP:20260831T044023Z
+UID:mega-squads
+DTSTAMP:20260901T042106Z
 SUMMARY:Mega Squads
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /mega-squads-2026/
-URL:https://leekduck.com/events/mega-squads-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+ /mega-squads/
+URL:https://leekduck.com/events/mega-squads/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-09-08-mega-squads/mega-squads.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260908
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260914
 BEGIN:VALARM
@@ -132,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unannounced-september-event-season-24
-DTSTAMP:20260831T044023Z
+DTSTAMP:20260901T042106Z
 SUMMARY:Unannounced Event
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /unannounced-september-event-season-24/
@@ -149,7 +106,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:catch-mastery-phantump-2026
-DTSTAMP:20260831T044023Z
+DTSTAMP:20260901T042106Z
 SUMMARY:Phantump Catch Mastery
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /catch-mastery-phantump-2026/
@@ -166,7 +123,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lego-pokemon-go-2026
-DTSTAMP:20260831T044023Z
+DTSTAMP:20260901T042106Z
 SUMMARY:LEGO Stores and Pokémon GO
 DESCRIPTION:Starts at 10:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /lego-pokemon-go-2026/
@@ -183,7 +140,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:harvest-festival-2026
-DTSTAMP:20260831T044023Z
+DTSTAMP:20260901T042106Z
 SUMMARY:Harvest Festival
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /harvest-festival-2026/
@@ -200,7 +157,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-october-2026
-DTSTAMP:20260831T044023Z
+DTSTAMP:20260901T042106Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-october-2026/
