@@ -30,31 +30,32 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251214T035411
+DTSTART:20251215T035014
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-battle-day-october-2026
-DTSTAMP:20260910T035411Z
-SUMMARY:Max Battle Day
+UID:gigantamax-cinderace-max-battle-day-2026
+DTSTAMP:20260911T035014Z
+SUMMARY:Gigantamax Cinderace Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /max-battle-day-october-2026/
-URL:https://leekduck.com/events/max-battle-day-october-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /gigantamax-cinderace-max-battle-day-2026/
+URL:https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cindera
+ ce-max-battle-day.jpg
 DTSTART;TZID=Europe/Helsinki:20261003T140000
 DTEND;TZID=Europe/Helsinki:20261003T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Max Battle Day
+DESCRIPTION:Gigantamax Cinderace Max Battle Day
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-october-24-2026
-DTSTAMP:20260910T035411Z
+DTSTAMP:20260911T035014Z
 SUMMARY:Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /max-battle-day-october-24-2026/
