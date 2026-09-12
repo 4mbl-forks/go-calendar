@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251215T035014
+DTSTART:20251216T035326
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-09-10
-DTSTAMP:20260911T035014Z
-SUMMARY:Weedle\, Kakuna\, and Beedrill Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2026-09-10/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-09-10/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20260910T180000
-DTEND;TZID=Europe/Helsinki:20260910T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Weedle\, Kakuna\, and Beedrill Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-13
-DTSTAMP:20260911T035014Z
+DTSTAMP:20260912T035326Z
 SUMMARY:Houndour and Houndoom Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-09-13/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-17
-DTSTAMP:20260911T035014Z
+DTSTAMP:20260912T035326Z
 SUMMARY:Mystery Pokémon Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-09-17/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-09-24
-DTSTAMP:20260911T035014Z
+DTSTAMP:20260912T035326Z
 SUMMARY:Rattata Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-09-24/
