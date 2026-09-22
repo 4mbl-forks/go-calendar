@@ -21,29 +21,34 @@ DTSTART:20261025T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20270328T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251121T012349
+DTSTART:20251226T040551
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:choose-your-path-venom-and-vines-2026
-DTSTAMP:20260818T012349Z
-SUMMARY:Choose Your Path: Venom and Vines
+UID:choose-your-path-twilight-trails-2026
+DTSTAMP:20260922T040551Z
+SUMMARY:Choose Your Path: Twilight Trails
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /choose-your-path-venom-and-vines-2026/
-URL:https://leekduck.com/events/choose-your-path-venom-and-vines-2026/
+ /choose-your-path-twilight-trails-2026/
+URL:https://leekduck.com/events/choose-your-path-twilight-trails-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/choose-your-path
- -evergreen.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260811
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260817
+ -twilight-trails-2026.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260923
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260928
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Choose Your Path: Venom and Vines
+DESCRIPTION:Choose Your Path: Twilight Trails
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
