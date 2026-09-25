@@ -84,6 +84,17 @@ class LeekDuckEvent
         $parsedEvents = [];
 
         foreach ($events as $event) {
+            if (! is_string($event['start'] ?? null) || ! is_string($event['end'] ?? null)
+                || trim($event['start']) === '' || trim($event['end']) === '') {
+                error_log(sprintf(
+                    'Skipping event %s (%s): missing start or end date.',
+                    $event['eventID'] ?? 'unknown',
+                    $event['name'] ?? 'unnamed'
+                ));
+
+                continue;
+            }
+
             $parsedEvents[] = self::create(
                 event: $event,
                 timezone: $timezone
