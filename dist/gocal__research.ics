@@ -21,30 +21,34 @@ DTSTART:20261025T040000
 TZOFFSETFROM:+0300
 TZOFFSETTO:+0200
 END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20270328T020000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251226T040551
+DTSTART:20251229T094246
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-horizons-bonus-timed-research-2026
-DTSTAMP:20260922T040551Z
-SUMMARY:Pokémon Horizons Bonus Timed Research
+UID:pokemon-x-adidas-2026
+DTSTAMP:20260925T094246Z
+SUMMARY:adidas × Pokémon Timed Research
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /pokemon-horizons-bonus-timed-research-2026/
-URL:https://leekduck.com/events/pokemon-horizons-bonus-timed-research-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-09-18-pokemon-horizons-bonus-timed-research-2026/pokemon-horizons
- -bonus-timed-research-2026.png
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260918
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20260922
+ /pokemon-x-adidas-2026/
+URL:https://leekduck.com/events/pokemon-x-adidas-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemon-x-adidas
+ -2026.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260925
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20270115
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Pokémon Horizons Bonus Timed Research
+DESCRIPTION:adidas × Pokémon Timed Research
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

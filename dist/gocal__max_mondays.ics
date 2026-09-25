@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251226T040551
+DTSTART:20251229T094246
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:max-mondays-2026-09-21
-DTSTAMP:20260922T040551Z
-SUMMARY:Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-09-21/
-URL:https://leekduck.com/events/max-mondays-2026-09-21/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART;TZID=Europe/Helsinki:20260921T060000
-DTEND;TZID=Europe/Helsinki:20260921T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dynamax Articuno\, Zapdos\, and Moltres during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-09-28
-DTSTAMP:20260922T040551Z
+DTSTAMP:20260925T094246Z
 SUMMARY:Dynamax Sobble during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-09-28/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-05
-DTSTAMP:20260922T040551Z
+DTSTAMP:20260925T094246Z
 SUMMARY:Dynamax Sizzlipede during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-10-05/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-12
-DTSTAMP:20260922T040551Z
+DTSTAMP:20260925T094246Z
 SUMMARY:Dynamax Rookidee during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-10-12/
@@ -105,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-19
-DTSTAMP:20260922T040551Z
+DTSTAMP:20260925T094246Z
 SUMMARY:Dynamax Sneasel during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-10-19/
@@ -122,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-26
-DTSTAMP:20260922T040551Z
+DTSTAMP:20260925T094246Z
 SUMMARY:Dynamax Sableye during Max Monday
 DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
  /max-mondays-2026-10-26/
