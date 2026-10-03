@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20251012T070000
+DTSTART:20260128T023000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,27 +20,25 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20251015T032100
+DTSTART:20260106T043451
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-10th-anniversary-celebration-twitch-drops
-DTSTAMP:20260712T032100Z
-SUMMARY:Twitch Drops for Pokémon GO 10th Anniversary Celebration
-DESCRIPTION:Starts at 07:00\, ends at 06:58.\n\nhttps://leekduck.com/events
- /pokemon-go-10th-anniversary-celebration-twitch-drops/
-URL:https://leekduck.com/events/pokemon-go-10th-anniversary-celebration-twi
- tch-drops/
+UID:pokemon-night-out-2026-twitch-drops
+DTSTAMP:20261003T043451Z
+SUMMARY:Twitch Drops for Pokémon Night Out 2026
+DESCRIPTION:Starts at 02:30\, ends at 06:59.\n\nhttps://leekduck.com/events
+ /pokemon-night-out-2026-twitch-drops/
+URL:https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-07-09-pokemon-go-10th-anniversary-celebration-twitch-drops/reward
- s.jpg
-DTSTART;TZID=Z;VALUE=DATE:20260709
-DTEND;TZID=Z;VALUE=DATE:20260712
+ 026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg
+DTSTART;TZID=Z:20261025T023000
+DTEND;TZID=Z:20261025T065900
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Twitch Drops for Pokémon GO 10th Anniversary Celebration
+DESCRIPTION:Twitch Drops for Pokémon Night Out 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
