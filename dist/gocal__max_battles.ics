@@ -30,32 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260107T050552
+DTSTART:20260108T045137
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:gigantamax-cinderace-max-battle-day-2026
-DTSTAMP:20261004T050552Z
-SUMMARY:Gigantamax Cinderace Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /gigantamax-cinderace-max-battle-day-2026/
-URL:https://leekduck.com/events/gigantamax-cinderace-max-battle-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cindera
- ce-max-battle-day.jpg
-DTSTART;TZID=Europe/Helsinki:20261003T140000
-DTEND;TZID=Europe/Helsinki:20261003T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Gigantamax Cinderace Max Battle Day
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026
-DTSTAMP:20261004T050552Z
+DTSTAMP:20261005T045137Z
 SUMMARY:Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
 DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /dynamax-uxie-mesprit-azelf-max-battle-day-2026/
