@@ -30,67 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260110T050904
+DTSTART:20260111T051932
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026
-DTSTAMP:20261007T050904Z
-SUMMARY:Shadow Thundurus (Incarnate Forme) in Shadow Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-thundurus-incarnate-forme-in-shadow-raids-september-2026/
-URL:https://leekduck.com/events/shadow-thundurus-incarnate-forme-in-shadow-
- raids-september-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260909
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261006
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Shadow Thundurus (Incarnate Forme) in Shadow Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-victreebel-in-mega-raids-september-2026
-DTSTAMP:20261007T050904Z
-SUMMARY:Mega Victreebel in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-victreebel-in-mega-raids-september-2026/
-URL:https://leekduck.com/events/mega-victreebel-in-mega-raids-september-202
- 6/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260930
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261006
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Victreebel in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:xerneas-in-5-star-raid-battles-september-2026
-DTSTAMP:20261007T050904Z
-SUMMARY:Xerneas in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /xerneas-in-5-star-raid-battles-september-2026/
-URL:https://leekduck.com/events/xerneas-in-5-star-raid-battles-september-20
- 26/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/xerneas-woods.jp
- g
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20260930
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261006
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Xerneas in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-blastoise-in-mega-raids-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Mega Blastoise in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-blastoise-in-mega-raids-october-2026/
@@ -106,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:yveltal-in-5-star-raid-battles-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Yveltal in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /yveltal-in-5-star-raid-battles-october-2026/
@@ -123,7 +70,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Dialga in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /dialga-in-5-star-raid-battles-october-2026/
@@ -139,7 +86,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-dragonite-in-mega-raids-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Mega Dragonite in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-dragonite-in-mega-raids-october-2026/
@@ -155,7 +102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Mega Charizard X and Mega Charizard Y in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/
@@ -172,7 +119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:palkia-in-5-star-raid-battles-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Palkia in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /palkia-in-5-star-raid-battles-october-2026/
@@ -188,7 +135,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-landorus-incarnate-forme-in-shadow-raids-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Shadow Landorus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/
@@ -206,7 +153,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-origin-forme-in-5-star-raid-battles-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Giratina (Origin Forme) in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /giratina-origin-forme-in-5-star-raid-battles-october-2026/
@@ -224,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2026
-DTSTAMP:20261007T050904Z
+DTSTAMP:20261008T051932Z
 SUMMARY:Mega Sableye in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-sableye-in-mega-raids-october-2026/
