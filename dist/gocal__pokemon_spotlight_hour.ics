@@ -30,31 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260112T052253
+DTSTART:20260113T050646
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemonspotlighthour2026-10-08
-DTSTAMP:20261009T052253Z
-SUMMARY:Elgyem Spotlight Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /pokemonspotlighthour2026-10-08/
-URL:https://leekduck.com/events/pokemonspotlighthour2026-10-08/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
- hour.jpg
-DTSTART;TZID=Europe/Helsinki:20261008T180000
-DTEND;TZID=Europe/Helsinki:20261008T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Elgyem Spotlight Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-15
-DTSTAMP:20261009T052253Z
+DTSTAMP:20261010T050646Z
 SUMMARY:Stufful Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-10-15/
@@ -71,7 +54,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22
-DTSTAMP:20261009T052253Z
+DTSTAMP:20261010T050646Z
 SUMMARY:Morelull Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-10-22/
@@ -88,7 +71,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29
-DTSTAMP:20261009T052253Z
+DTSTAMP:20261010T050646Z
 SUMMARY:Gastly Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-10-29/
