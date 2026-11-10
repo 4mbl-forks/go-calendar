@@ -30,65 +30,36 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260212T052853
+DTSTART:20260213T063952
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mega-sableye-in-mega-raids-october-2026
-DTSTAMP:20261109T052853Z
-SUMMARY:Mega Sableye in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-sableye-in-mega-raids-october-2026/
-URL:https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261028
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261108
+UID:zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-no
+ vember-2026
+DTSTAMP:20261110T063952Z
+SUMMARY:Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-star Rai
+ d Battles
+DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
+ /zacian-crowned-sword-zamazenta-crowned-shield-in-5-star-raid-battles-nove
+ mber-2026/
+URL:https://leekduck.com/events/zacian-crowned-sword-zamazenta-crowned-shie
+ ld-in-5-star-raid-battles-november-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/zacian-and-zamaz
+ enta-2.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261109
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261113
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Mega Sableye in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:giratina-altered-forme-in-5-star-raid-battles-november-2026
-DTSTAMP:20261109T052853Z
-SUMMARY:Giratina (Altered Forme) in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /giratina-altered-forme-in-5-star-raid-battles-november-2026/
-URL:https://leekduck.com/events/giratina-altered-forme-in-5-star-raid-battl
- es-november-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/giratinaaltered.
- jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261104
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261108
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Giratina (Altered Forme) in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026
-DTSTAMP:20261109T052853Z
-SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026/
-URL:https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-r
- aids-november-4-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/tornadus.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261104
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261108
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Shadow Tornadus (Incarnate Forme) in Shadow Raids
+DESCRIPTION:Zacian (Crowned Sword) and Zamazenta (Crowned Shield) in 5-star
+  Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-darkrai-in-5-star-raid-battles-november-2026
-DTSTAMP:20261109T052853Z
+DTSTAMP:20261110T063952Z
 SUMMARY:Cresselia and Darkrai in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /cresselia-darkrai-in-5-star-raid-battles-november-2026/
@@ -106,7 +77,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-november-2026
-DTSTAMP:20261109T052853Z
+DTSTAMP:20261110T063952Z
 SUMMARY:Mega Banette in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-banette-in-mega-raids-november-2026/
@@ -122,7 +93,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026
-DTSTAMP:20261109T052853Z
+DTSTAMP:20261110T063952Z
 SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/
@@ -140,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026
-DTSTAMP:20261109T052853Z
+DTSTAMP:20261110T063952Z
 SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-star Rai
  d Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
@@ -161,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026
-DTSTAMP:20261109T052853Z
+DTSTAMP:20261110T063952Z
 SUMMARY:Mega Metagross in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-metagross-in-mega-raids-november-2026/
