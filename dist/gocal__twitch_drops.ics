@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Z
 BEGIN:STANDARD
-DTSTART:20260128T023000
+DTSTART:20260223T120000
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -20,25 +20,31 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260128T035530
+DTSTART:20260224T062021
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-night-out-2026-twitch-drops
-DTSTAMP:20261025T035530Z
-SUMMARY:Twitch Drops for Pokémon Night Out 2026
-DESCRIPTION:Starts at 02:30\, ends at 06:59.\n\nhttps://leekduck.com/events
- /pokemon-night-out-2026-twitch-drops/
-URL:https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
+UID:pokemon-latin-america-international-championships-2027-timed-research-t
+ witch-drops
+DTSTAMP:20261121T062021Z
+SUMMARY:Twitch Drops for 2027 Pokémon Latin America International Champion
+ ships
+DESCRIPTION:Starts at 12:00\, ends at 23:00.\n\nhttps://leekduck.com/events
+ /pokemon-latin-america-international-championships-2027-timed-research-twi
+ tch-drops/
+URL:https://leekduck.com/events/pokemon-latin-america-international-champio
+ nships-2027-timed-research-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg
-DTSTART;TZID=Z:20261025T023000
-DTEND;TZID=Z:20261025T065900
+ 026/2026-11-20-pokemon-latin-america-international-championships-2027-time
+ d-research-twitch-drops/2027-laic-go-drops.jpg
+DTSTART;TZID=Z;VALUE=DATE:20261120
+DTEND;TZID=Z;VALUE=DATE:20261122
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Twitch Drops for Pokémon Night Out 2026
+DESCRIPTION:Twitch Drops for 2027 Pokémon Latin America International Cham
+ pionships
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
