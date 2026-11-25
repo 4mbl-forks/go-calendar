@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260227T090800
+DTSTART:20260228T074419
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26
-DTSTAMP:20261124T090800Z
+DTSTAMP:20261125T074419Z
 SUMMARY:Noibat Spotlight Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /pokemonspotlighthour2026-11-26/
@@ -49,6 +49,91 @@ DTEND;TZID=Europe/Helsinki:20261126T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Noibat Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-03
+DTSTAMP:20261125T074419Z
+SUMMARY:Wimpod Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-12-03/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-03/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20261203T180000
+DTEND;TZID=Europe/Helsinki:20261203T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wimpod Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-10
+DTSTAMP:20261125T074419Z
+SUMMARY:Starly Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-12-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20261210T180000
+DTEND;TZID=Europe/Helsinki:20261210T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Starly Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-17
+DTSTAMP:20261125T074419Z
+SUMMARY:Bergmite Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-12-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20261217T180000
+DTEND;TZID=Europe/Helsinki:20261217T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Bergmite Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-24
+DTSTAMP:20261125T074419Z
+SUMMARY:Delibird Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-12-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20261224T180000
+DTEND;TZID=Europe/Helsinki:20261224T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Delibird Spotlight Hour
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-31
+DTSTAMP:20261125T074419Z
+SUMMARY:Plusle and Minun Spotlight Hour
+DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
+ /pokemonspotlighthour2026-12-31/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Europe/Helsinki:20261231T180000
+DTEND;TZID=Europe/Helsinki:20261231T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plusle and Minun Spotlight Hour
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

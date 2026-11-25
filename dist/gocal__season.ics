@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260227T090800
+DTSTART:20260228T074419
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:season-24-twilight-trails
-DTSTAMP:20261124T090800Z
+DTSTAMP:20261125T074419Z
 SUMMARY:Twilight Trails
 DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
  /season-24-twilight-trails/
@@ -49,6 +49,24 @@ DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261201
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Twilight Trails
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-25-daydream-destinations
+DTSTAMP:20261125T074419Z
+SUMMARY:Daydream Destinations
+DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
+ /season-25-daydream-destinations/
+URL:https://leekduck.com/events/season-25-daydream-destinations/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-12-01-season-25-daydream-destinations/season-25-daydream-destinat
+ ions.jpg
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261201
+DTEND;TZID=Europe/Helsinki;VALUE=DATE:20270301
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Daydream Destinations
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
