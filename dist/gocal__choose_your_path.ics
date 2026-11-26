@@ -30,14 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260228T074419
+DTSTART:20260301T073515
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2026-12-15
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Choose Your Path: Daydream Destinations (December 15\, 2026)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-daydream-destinations-2026-12-15/
@@ -55,7 +55,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-01-12
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Choose Your Path: Daydream Destinations (January 12\, 2027)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-daydream-destinations-2027-01-12/
@@ -73,7 +73,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-01-26
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Choose Your Path: Daydream Destinations (January 26\, 2027)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-daydream-destinations-2027-01-26/
@@ -91,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-02-16
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Choose Your Path: Daydream Destinations (February 16\, 2027)
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /choose-your-path-daydream-destinations-2027-02-16/

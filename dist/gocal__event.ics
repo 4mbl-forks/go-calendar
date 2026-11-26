@@ -35,14 +35,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260228T074419
+DTSTART:20260301T073515
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:twilight-wishes-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Twilight Wishes
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /twilight-wishes-2026/
@@ -59,13 +59,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tropical-paradise-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Tropical Paradise
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /tropical-paradise-2026/
 URL:https://leekduck.com/events/tropical-paradise-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/tropical-paradis
+ e-2026.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261201
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261207
 BEGIN:VALARM
@@ -75,25 +75,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-event-december-2026
-DTSTAMP:20261125T074419Z
-SUMMARY:Unannounced Event
+UID:pokemon-champions-celebration-event-2026
+DTSTAMP:20261126T073515Z
+SUMMARY:Pokémon Champions Celebration Event 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /unannounced-event-december-2026/
-URL:https://leekduck.com/events/unannounced-event-december-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+ /pokemon-champions-celebration-event-2026/
+URL:https://leekduck.com/events/pokemon-champions-celebration-event-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-12-08-pokemon-champions-celebration-event-2026/pokemon-champions-
+ celebration-event-2026.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261208
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261214
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Unannounced Event
+DESCRIPTION:Pokémon Champions Celebration Event 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Minior Showers: Geminids 2026
 DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /minior-showers-geminids-2026/
@@ -110,7 +111,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Hatch Day
 DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
  /hatch-day-december-2026/
@@ -127,7 +128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Winter Holiday 2026
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /winter-holiday-2026/
@@ -144,7 +145,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2027
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:New Year's 2027
 DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
  /new-years-2027/
@@ -161,7 +162,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Minior Showers: Eta Aquariids 2027
 DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /minior-showers-eta-aquariids-2027/
@@ -178,7 +179,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Minior Showers: Southern Delta Aquariids 2027
 DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /minior-showers-southern-delta-aquariids-2027/
@@ -196,7 +197,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Minior Showers: Perseids 2027
 DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
  /minior-showers-perseids-2027/

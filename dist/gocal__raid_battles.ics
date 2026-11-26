@@ -30,48 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260228T074419
+DTSTART:20260301T073515
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cresselia-darkrai-in-5-star-raid-battles-november-2026
-DTSTAMP:20261125T074419Z
-SUMMARY:Cresselia and Darkrai in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /cresselia-darkrai-in-5-star-raid-battles-november-2026/
-URL:https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-no
- vember-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/legendary-cresse
- lia.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261116
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261124
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Cresselia and Darkrai in 5-star Raid Battles
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:mega-banette-in-mega-raids-november-2026
-DTSTAMP:20261125T074419Z
-SUMMARY:Mega Banette in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-banette-in-mega-raids-november-2026/
-URL:https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
-DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261116
-DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261124
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Mega Banette in Mega Raids
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Shadow Tornadus (Incarnate Forme) in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026/
@@ -89,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) in 5-star Rai
  d Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
@@ -110,7 +76,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Mega Metagross in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-metagross-in-mega-raids-november-2026/
@@ -126,7 +92,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Mega Slowbro in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-slowbro-in-mega-raids-december-2026/
@@ -142,7 +108,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Regidrago in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /regidrago-in-5-star-raid-battles-december-2026/
@@ -159,7 +125,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gengar-in-mega-raids-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Mega Gengar in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-gengar-in-mega-raids-december-2026/
@@ -174,26 +140,26 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:unannounced-pokemon-in-5-star-raid-battles-december-2026
-DTSTAMP:20261125T074419Z
-SUMMARY:Unannounced Pokémon in 5-star Raid Battles
+UID:pokemon-champions-celebration-5-star-raid-battles-december-2026
+DTSTAMP:20261126T073515Z
+SUMMARY:Pokémon Champions Celebration 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /unannounced-pokemon-in-5-star-raid-battles-december-2026/
-URL:https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-
- december-2026/
+ /pokemon-champions-celebration-5-star-raid-battles-december-2026/
+URL:https://leekduck.com/events/pokemon-champions-celebration-5-star-raid-b
+ attles-december-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
 DTSTART;TZID=Europe/Helsinki;VALUE=DATE:20261209
 DTEND;TZID=Europe/Helsinki;VALUE=DATE:20261215
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Unannounced Pokémon in 5-star Raid Battles
+DESCRIPTION:Pokémon Champions Celebration 5-star Raid Battles
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Ho-Oh in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /ho-oh-in-5-star-raid-battles-december-2026/
@@ -209,7 +175,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-skarmory-in-mega-raids-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Mega Skarmory in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-skarmory-in-mega-raids-december-2026/
@@ -225,7 +191,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Lugia in 5-star Raid Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /lugia-in-5-star-raid-battles-december-2026/
@@ -241,7 +207,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Mega Glalie in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-glalie-in-mega-raids-december-2026/
@@ -257,7 +223,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-dialga-in-shadow-raids-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Shadow Dialga in Shadow Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /shadow-dialga-in-shadow-raids-december-2026/
@@ -274,7 +240,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-falinks-in-mega-raids-december-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Mega Falinks in Mega Raids
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
  /mega-falinks-in-mega-raids-december-2026/
@@ -291,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-decem
  ber-2026
-DTSTAMP:20261125T074419Z
+DTSTAMP:20261126T073515Z
 SUMMARY:Tornadus\, Thundurus\, and Landorus (Therian Formes) in 5-star Raid
   Battles
 DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
