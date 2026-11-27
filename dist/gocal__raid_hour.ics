@@ -30,30 +30,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260301T073515
+DTSTART:20260302T073255
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20261125
-DTSTAMP:20261126T073515Z
-SUMMARY:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour
-DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
- /raidhour20261125/
-URL:https://leekduck.com/events/raidhour20261125/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Europe/Helsinki:20261125T180000
-DTEND;TZID=Europe/Helsinki:20261125T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Deoxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20261202
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Regidrago Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20261202/
@@ -69,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261209
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Unannounced Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20261209/
@@ -85,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261216
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Ho-Oh Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20261216/
@@ -101,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261223
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Lugia Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events
  /raidhour20261223/
@@ -117,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261230
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Tornadus (Therian Forme)\, Thundurus (Therian Forme)\, and Landorus
   (Therian Forme) Raid Hour
 DESCRIPTION:Starts at 18:00\, ends at 19:00.\n\nhttps://leekduck.com/events

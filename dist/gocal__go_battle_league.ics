@@ -20,7 +20,7 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260301T073515
+DTSTART:20260302T073255
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
@@ -28,7 +28,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-1
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Great League: Mega Edition\, Ultra League: Mega Edition\, and Maste
  r League: Mega Edition | Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-
  league-edition
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Great League: Mega Edition and Mountain Cup: Great League Edition |
   Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-l
  eague-edition
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Ultra League: Mega Edition and Holiday Cup: Great League Edition | 
  Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-
  league-edition
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Master League: Mega Edition and Holiday Cup: Great League Edition |
   Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-2
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Great League: Mega Edition\, Ultra League: Mega Edition\, and Maste
  r League: Mega Edition | Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -138,7 +138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-
  league-edition
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Great League: Mega Edition and Fighting Cup: Great League Edition |
   Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -160,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-le
  ague-edition
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Ultra League: Mega Edition and Jungle Cup: Great League Edition | D
  aydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -181,7 +181,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_master-league
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Master League: Mega Edition and Master League | Daydream Destinatio
  ns
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -202,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-3
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Great League: Mega Edition\, Ultra League: Mega Edition\, and Maste
  r League: Mega Edition | Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -223,7 +223,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_master-league
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Great League: Mega Edition and Master League | Daydream Destination
  s
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -244,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-leag
  ue-edition_2027-go-euic-cup
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Ultra League: Mega Edition\, Love Cup: Great League Edition\, and 2
  027 GO EUIC Cup | Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -266,7 +266,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-gre
  at-league-edition_2027-go-euic-cup
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Master League: Mega Edition\, Mega Catch Cup: Great League Edition\
  , and 2027 GO EUIC Cup | Daydream Destinations
 DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
@@ -288,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition_mega-catch-cup-great-league-edition
-DTSTAMP:20261126T073515Z
+DTSTAMP:20261127T073255Z
 SUMMARY:Great League: Mega Edition\, Ultra League: Mega Edition\, Master Le
  ague: Mega Edition\, and Mega Catch Cup: Great League Edition | Daydream D
  estinations
